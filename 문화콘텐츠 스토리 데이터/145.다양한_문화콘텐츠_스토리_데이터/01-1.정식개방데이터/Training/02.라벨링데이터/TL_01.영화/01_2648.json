@@ -1,0 +1,1455 @@
+{
+    "id": "01_2648",
+    "type": "movie",
+    "title": "엇갈린 시간을 넘어서",
+    "genre": [
+        "판타지"
+    ],
+    "year": 2002,
+    "theme": "사랑",
+    "concept": "C001와 C002는 서로 좋아한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "외계인 침입",
+    "main_character": "제자/학생",
+    "conflict": "항공우주국 대원으로 뽑혀 우주에 가게 된 C001는 지구로 돌아가고 싶지만 점점 더 먼 우주로 이동한다.",
+    "characters": [
+        "C001",
+        "C002"
+    ],
+    "units": [
+        {
+            "id": "01_2648_01",
+            "next_id": "01_2648_02",
+            "characters": [
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001는 우주에서 지구에 살던 시절의 꿈을 꾼다.",
+            "unit_motif": "현실(상황) 직면",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C001는 우주에서 꿈을 꾼다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꿈 속 지하철",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "content": "C001는 지하철에서 문자 메시지를 입력한다."
+                },
+                {
+                    "type": "script",
+                    "location": "꿈 속 메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "기대되다",
+                    "content": "핸드폰이 있다면 언제든 누군가와 연결될 줄 알았어."
+                },
+                {
+                    "type": "script",
+                    "location": "꿈 속 메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "실망하다",
+                    "content": "하지만 내 연락에 응답하는 사람은 아무도 없다."
+                },
+                {
+                    "type": "script",
+                    "location": "꿈 속 메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "외롭다",
+                    "content": "보고 싶어. 나를 찾아 줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꿈 속 학교",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 학교에 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꿈 속 학교",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001는 아무도 없는 교실을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "꿈 속 학교",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "내가 왜 여기에 있지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "content": "C001는 눈을 뜬다."
+                },
+                {
+                    "type": "script",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "이건 현실이 아니야. 나는 우주에 있어."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_02",
+            "prev_id": "01_2648_01",
+            "next_id": "01_2648_03",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001와 C002는 우주선에 대해 이야기한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "과거의 학교",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C002와 하교한다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "담담하다",
+                    "content": "곧 있으면 우리 고등학생이 되네."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "기대되다",
+                    "content": "너랑 같은 학교가 되면 좋을 텐데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001가 하늘을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "엄청 큰 우주선이네."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "항공우주국에서 새로 만든 전함인 함대야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "C002는 우주선을 보고 들뜬다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "우주인과 싸우러 간다는데 누가 갈지 궁금하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "심란하다",
+                    "content": "C001의 안색이 어두워진다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 길가",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "그러게. 나도 궁금하다."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_03",
+            "prev_id": "01_2648_02",
+            "next_id": "01_2648_04",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C002에게 자신이 우주에 갈 선발대원으로 뽑혔다는 사실을 고백한다.",
+            "unit_motif": "진실 고백",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "과거의 길가",
+                    "content": "그때, 비가 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002와 C001는 비를 피해 버스 정류장으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "고등학교에서도 동아리 활동할 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "씁쓸하다",
+                    "content": "잘 모르겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "담담하다",
+                    "content": "같이 계속하자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "심란하다",
+                    "content": "C001는 대답하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 버스 정류장",
+                    "content": "비가 그친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002와 C001는 함께 자전거를 타고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002와 C001는 하늘을 지나는 우주선을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "감탄하다",
+                    "content": "또 우주선이 지나가네."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "아무래도 나 동아리 활동은 못할 것 같아."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "왜?"
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 버스 정류장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "담담하다",
+                    "content": "사실 우주에 가는 선발 대원으로 뽑혔어."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_04",
+            "prev_id": "01_2648_03",
+            "next_id": "01_2648_05",
+            "characters": [
+                "C001",
+                "로봇 1"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 화성에서 우주인과의 전투에 대비한다. C001는 C002에게 문자 메시지로 근황을 전한다.",
+            "unit_motif": "전투 준비",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "그 후, C001는 로봇 1를 타고 화성에 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 화성에서 우주인과의 전투를 대비한 연습을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "화성",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "전방에 표적 1개를 찾았습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 미사일을 쏴서 표적을 맞힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "content": "C001는 연습을 마치고 C002에게 문자 메시지를 보낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "뿌듯하다",
+                    "content": "연습은 고되지만 뿌듯해. 여기는 아주 넓고 황량해."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "궁금하다",
+                    "content": "넌 어떻게 지내? 학교는 재미있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "씁쓸하다",
+                    "content": "난 이제 곧 목성으로 떠나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "그립다",
+                    "content": "C001는 핸드폰에 입력한 메시지를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "화성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "문자가 잘 전송되면 좋겠다."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_05",
+            "prev_id": "01_2648_04",
+            "next_id": "01_2648_06",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C002는 C001의 문자 메시지를 받고 C001를 그리워한다.",
+            "unit_motif": "걱정",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "한편, C002는 고등학교에 진학한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002는 핸드폰을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기쁘다",
+                    "content": "C001한테 연락이 왔어!"
+                },
+                {
+                    "type": "script",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "서운하다",
+                    "content": "같은 학교에 가고 싶었는데 C001는 우주로 떠나버렸지."
+                },
+                {
+                    "type": "script",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "걱정",
+                    "content": "무사히 돌아오면 좋겠는데 걱정돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "읽다",
+                    "emotion": "설레다",
+                    "content": "C002는 C001가 보낸 문자 메시지를 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "기대되다",
+                    "content": "목성에서도 준비를 마쳤어. 이제 더 먼 명왕성으로 간대."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "미안하다",
+                    "content": "내가 지구에서 멀어질수록 네가 메시지를 받는 시간도 늦어질 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "애틋하다",
+                    "content": "그래도 기다려 줘. 메시지는 꼭 보낼게."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "그 후, C002는 매일 문자 메시지를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "실망하다",
+                    "content": "하지만, 새 메시지가 없다는 문구만 나와 실망한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_06",
+            "prev_id": "01_2648_05",
+            "next_id": "01_2648_07",
+            "characters": [
+                "C001",
+                "로봇 1"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 명왕성에서 우주인과 전투를 벌인다.",
+            "unit_motif": "전쟁/전투/토벌",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 명왕성에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "content": "C001는 C002에게 문자 메시지를 보낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "절망하다",
+                    "content": "명왕성에 도착했어. 하지만 우주인은 보이지 않아."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "그립다",
+                    "content": "난 지구가 그리워."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "그때, C001는 로봇 1에서 울리는 경고음을 듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "명왕성",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우주인을 찾았습니다. 전투 준비 바랍니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C001는 깜짝 놀라 핸드폰을 옆으로 밀어 둔다."
+                },
+                {
+                    "type": "script",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "진짜 전투가 시작되는 건가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "C001는 우주인을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "C001는 우주인에게 공격을 당한다."
+                },
+                {
+                    "type": "script",
+                    "location": "명왕성",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "담담하다",
+                    "content": "은하계로 도피하세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "거부감",
+                    "content": "C001는 경악한다."
+                },
+                {
+                    "type": "script",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "거부감",
+                    "content": "은하계는 여기보다 더 멀잖아!"
+                },
+                {
+                    "type": "script",
+                    "location": "명왕성",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "담담하다",
+                    "content": "지금 도망치지 않으면 위험합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "명왕성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001는 어쩔 수 없이 은하계로 도망간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_07",
+            "prev_id": "01_2648_06",
+            "next_id": "01_2648_08",
+            "characters": [
+                "로봇 1",
+                "C001",
+                "C002"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001는 태양계 끝으로 왔다. C001와 C002는 서로를 그리워한다.",
+            "unit_motif": "그리움",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "로봇 1가 현재 위치를 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "태양계",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "태양계 끝으로 워프했습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "C001는 지구에서 계속 멀어지는 상황에 절망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "content": "C001는 C002에게 보낼 문자 메시지를 쓴다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "씁쓸하다",
+                    "content": "이 메시지를 받는 데는 여태껏 보낸 다른 메시지보다 더 많은 시간이 걸린대."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "그립다",
+                    "content": "나를 잊지 말아 줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C001는 괴로워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기다리다",
+                    "content": "C002는 지구에서 C001의 문자 메시지를 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "태양계",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "걱정",
+                    "content": "우주에서 별일 없으면 좋겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "태양계",
+                    "content": "하지만, C001의 문자 메시지는 오지 않는다."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_08",
+            "prev_id": "01_2648_07",
+            "next_id": "01_2648_09",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "C002는 C001를 기다리는 걸 포기하고 자신의 삶을 살기로 결정한다.",
+            "unit_motif": "포기",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "한편, C002는 평범한 학교생활을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002는 C001의 연락을 기다리는 걸 포기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "어느 날, C002는 비를 피해 버스 정류장으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002는 핸드폰을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "반갑다",
+                    "content": "정말 오랜만에 C001한테 메시지가 왔네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "읽다",
+                    "emotion": "기대되다",
+                    "content": "C002는 C001가 보낸 문자 메시지를 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "그립다",
+                    "content": "잘 지내니? 나는 전보다 더 먼 시리우스로 갈 예정이야."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "슬프다",
+                    "content": "시리우스에서 메시지를 보내면 아주 오랜 시간이 흐른 후에 받을 수 있을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "그립다",
+                    "content": "C002는 핸드폰을 붙잡고 고개를 숙인다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "C001는 언제 돌아올까?"
+                },
+                {
+                    "type": "script",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "이렇게 기다리고 있을 수만은 없어. 나는 나의 시간을 살아야 해."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_09",
+            "prev_id": "01_2648_08",
+            "next_id": "01_2648_10",
+            "characters": [
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "시리우스에 도착한 C001는 지구에서 C002와 보낸 시간을 회상한다.",
+            "unit_motif": "회상",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 시리우스에 도착한다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괴롭다",
+                    "content": "모든 게 C002와 멀어지고 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "단호하다",
+                    "content": "하지만 우주인과 싸우는 임무를 마쳐야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "C001는 우주인을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "content": "그때, 비가 내리기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001는 로봇 1 안에서 비를 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "그립다",
+                    "content": "C002랑 비를 피한 날이 생각나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "그립다",
+                    "content": "C001는 C002에게 문자 메시지를 보낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "애틋하다",
+                    "content": "잘 지내? 보고 싶어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "애틋하다",
+                    "content": "C001는 눈물을 흘린다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "애틋하다",
+                    "content": "이 메시지가 C002에게 무사히 닿으면 좋겠어."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_10",
+            "prev_id": "01_2648_09",
+            "next_id": "01_2648_11",
+            "characters": [
+                "C001",
+                "로봇 1"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001는 미래의 자신에게 위로를 받고 우주인과의 전투를 시작한다.",
+            "unit_motif": "적과의 대치",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "그때, C001 앞에 미래의 C001가 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "고맙다",
+                    "content": "C001는 미래의 C001가 잘하고 있다고 칭찬해주는 말을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "애틋하다",
+                    "content": "C001는 미래의 C001의 사라져가는 뒷모습을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "경고하다",
+                    "content": "로봇 1가 경고음을 울린다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "로봇 1"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "담담하다",
+                    "content": "우주인이 나타났습니다. 전투에 들어갑니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "C001는 조종기를 꽉 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "이 전투만 끝나면 C002를 만날 수 있겠지?"
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "단호하다",
+                    "content": "우주인을 물리치고 지구로 돌아갈 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 우주인을 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "절박하다",
+                    "content": "반드시!"
+                }
+            ]
+        },
+        {
+            "id": "01_2648_11",
+            "prev_id": "01_2648_10",
+            "next_id": "01_2648_12",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "어른이 된 C002는 C001가 오래전 시리우스에서 보낸 문자 메시지를 받는다.",
+            "unit_motif": "그리움",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "시간이 많이 흐르고 C002는 어른이 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "읽다",
+                    "content": "C002는 항공우주국 기사가 실린 신문을 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "시리우스 전투에서 지구인이 승리했지만 함대는 돌아오지 않았어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "C002는 C001를 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "애틋하다",
+                    "content": "C001와 보낸 마지막 여름의 기억이 아직도 선명한데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "그때, C002의 핸드폰이 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "읽다",
+                    "emotion": "기대되다",
+                    "content": "C002는 문자 메시지를 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "메시지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "애틋하다",
+                    "content": "잘 지내? 보고 싶어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "애틋하다",
+                    "content": "C002는 눈물을 흘린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "나도 보고 싶어."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "너는 지금 어디에 있니?"
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "애틋하다",
+                    "content": "우리는 비록 몸은 떨어져 있어도 마음은 이어져 있다고 믿어."
+                }
+            ]
+        },
+        {
+            "id": "01_2648_12",
+            "prev_id": "01_2648_11",
+            "characters": [
+                "C001",
+                "우주인"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001는 우주인과의 전투에서 승리하지만 로봇 1가 부서져 우주에 표류하게 된다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "한편, C001는 우주인과 계속 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "C001는 C002를 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "애틋하다",
+                    "content": "지구에서 C002와 평범한 일상을 보내고 싶어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "우주인"
+                    ],
+                    "act": "공격하다",
+                    "content": "우주인은 함대를 파괴한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C001는 우주인을 해치운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시리우스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "하지만 C001도 공격을 당해 로봇 1가 부서진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 로봇 1에서 분리되어 우주의 허공으로 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "홀가분하다",
+                    "content": "긴 전투였어."
+                },
+                {
+                    "type": "script",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "이제 C002가 기다리는 지구로 가자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "우주",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C001는 천천히 눈을 감는다."
+                }
+            ]
+        }
+    ]
+}

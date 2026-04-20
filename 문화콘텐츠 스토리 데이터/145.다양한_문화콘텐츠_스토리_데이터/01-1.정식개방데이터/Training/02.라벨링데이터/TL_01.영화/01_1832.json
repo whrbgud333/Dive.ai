@@ -1,0 +1,3265 @@
+{
+    "id": "01_1832",
+    "type": "movie",
+    "title": "사투",
+    "genre": [
+        "전쟁"
+    ],
+    "year": 2011,
+    "theme": "희생자",
+    "concept": "군대 1과 군대 3은 전략적 요충지인 진지를 탈환하기 위하여 싸운다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "전쟁 발발",
+    "main_character": "군인",
+    "conflict": "군대 1과 군대 3은 수십 번을 싸우며 진지를 번갈아 점령한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012"
+    ],
+    "units": [
+        {
+            "id": "01_1832_01",
+            "next_id": "01_1832_02",
+            "characters": [
+                "E001",
+                "E003",
+                "C012",
+                "E004",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "군대 1과 군대 3은 진지의 영토를 확보하려 한다.",
+            "unit_motif": "회의/논의",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E001",
+                        "E003",
+                        "C012",
+                        "E004",
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "간부들이 휴전 협상을 진행한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "단호하다",
+                    "content": "E003는 지도에 진지를 포함하여 선을 긋고 국가 1의 영토를 주장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회담장",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "휴전합시다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "비장하다",
+                    "content": "E001은 지도에 진지를 포함하여 국가 3의 영토 쪽으로 선을 다시 긋는다."
+                },
+                {
+                    "type": "script",
+                    "location": "회담장",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "표기가 잘못되었습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "귓속말하다",
+                    "content": "E004은 E003에게 어젯밤 진지가 국가 3에게 점령 당했다고 귓속말을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E003"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "E003는 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "C012",
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "지겹다",
+                    "content": "C012과 C001는 협상 장면을 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "회담장",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "지겹다",
+                    "content": "또 협상이 결렬되겠군."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회담장",
+                    "character": [
+                        "E001",
+                        "E003"
+                    ],
+                    "content": "E003와 E001의 협상이 결렬된다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_02",
+            "prev_id": "01_1832_01",
+            "next_id": "01_1832_03",
+            "characters": [
+                "C001",
+                "C012"
+            ],
+            "stage": "Main Character",
+            "storyline": "C012은 C001를 부대로 보낸다.",
+            "unit_motif": "임무 부여",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C001",
+                        "C012"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "회의를 마치고 C012은 C012의 집무실에서 C001와 대화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C012은 C001에게 부대를 아냐고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "그 부대는 진지에서 싸우는 부대 아닙니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "보다",
+                    "content": "C012은 C001에게 군대 3의 편지를 보여준다."
+                },
+                {
+                    "type": "script",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "군대 3의 편지가 부대의 군사 우편으로 보내졌어. 부대에 내통자가 있다는 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "또, 전 E005이 죽었어. 바로 옆에서 쐈다는데 아군 지휘관 권총에 맞아 죽었대."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C012은 방첩대의 일원인 C001에게 부대로 가서 조사해오라는 명령을 내린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "곧 신임 중대장이 부대로 출발할 거니까 같이 가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C012은 C001에게 C002을 아냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C001는 C002은 자신의 친구라고 하면서 과거에 실종됐다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C012은 C001에게 C002이 부대에 있다고 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C012의 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C001는 놀란다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_03",
+            "prev_id": "01_1832_02",
+            "next_id": "01_1832_04",
+            "characters": [
+                "C001",
+                "C002",
+                "포로들",
+                "C007"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001와 C002은 졸병 시절 전쟁에 참가했다가 군대 3에게 포로로 잡힌 뒤 헤어졌다.",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "혼란스럽다",
+                    "content": "몇 년 전, C001와 C002은 졸병 신분으로 전쟁터에서 군대 3과 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다치다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 팔뚝을 조금 다친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "혼란스럽다",
+                    "content": "군대 1이 열세에 놓여 C001와 C002은 군대 3에게 포위된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "괴롭다",
+                    "content": "C001와 C002은 군대 3에 의해 포박되어 끌려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "포로들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "포로들은 군대 3 간부인 C007 앞으로 끌려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "포로들"
+                    ],
+                    "emotion": "무섭다",
+                    "content": "포로들은 공포에 떤다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "너네들은 왜 싸우는지 모르지? 그래서 매번 지는 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "전쟁은 일주일이면 끝난다. 부상자는 풀어줄 테니 고향에 돌아가서 전쟁이 끝나면 조국 재건에 큰 힘이 돼라."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "몸이 멀쩡한 포로들은 잡일을 시켜라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전쟁터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "군대 3에게서 풀려난 C001는 끌려가는 C002을 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_04",
+            "prev_id": "01_1832_03",
+            "next_id": "01_1832_05",
+            "characters": [
+                "C001",
+                "C009",
+                "C006",
+                "C004",
+                "C005"
+            ],
+            "stage": "Setting-up",
+            "storyline": "부대에 도착한 C001, C009, C006은 부대 간부인 C004, C003, C005과 첫 만남을 가진다.",
+            "unit_motif": "새로운 만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 신임 중대장, 신병과 함께 차를 타고 부대가 있는 막사로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "황당하다",
+                    "content": "C009와 C001는 차에서 내리자마자 국가 3 군복을 입고 있는 병사를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "넌 왜 군대 3 옷을 입고 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "추워서 그랬습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "당장 벗어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001",
+                        "C009"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001와 C009는 명성과는 다른 부대의 첫인상을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "담담하다",
+                    "content": "지나가던 C005은 자신의 계급을 밝히고 신임 중대장에게 경례한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "간부전용 텐트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "같은 시각, C001는 간부 전용 텐트에 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "간부전용 텐트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "C001는 앳된 얼굴의 사람이 씻고 있는 것을 발견하고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "간부전용 텐트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "네가 왜 여기 있어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "간부전용 텐트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "당황하다",
+                    "content": "C001는 옆에 놓여 있는 C003의 군복을 보고 자신보다 계급이 높다는 것을 알게 된다."
+                },
+                {
+                    "type": "script",
+                    "location": "간부전용 텐트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "미안하다",
+                    "content": "임시 중대장이셨습니까? 죄송합니다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_05",
+            "prev_id": "01_1832_04",
+            "next_id": "01_1832_06",
+            "characters": [
+                "C009",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C009는 부대원들에게 진지 하단부에 대공포를 설치하라는 명령을 내린다.",
+            "unit_motif": "임무 부여",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "content": "C009는 간부들을 집합시킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "현 상황 보고해봐."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "전략적 요충지인 진지를 조금 전 빼앗았습니다. 부상자가 많아서 군대 7의 지원을 받아 지금은 쉬고 있습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "내 지휘 아래 진지는 우리 군대 1의 것이 될 거다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "황당하다",
+                    "content": "C003, C004, C005은 C009의 포부에 비웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C005은 C009에게 그렇게 만만한 곳이 아니라고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 진지 하단부에 대공포를 설치하라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "단호하다",
+                    "content": "C003은 군대 3의 항공 전력은 약화되어서 대공포가 필요 없다고 반대한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "진지를 빼앗기면 군대 7의 공중 지원을 못 받습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "대공포는 지상군에게도 효과가 있다. 설치하라면 설치해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 막무가내로 대공포를 설치하라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "불만족스럽다",
+                    "content": "C003, C004, C005은 C009의 막무가내식 명령이 불만이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "데려가다",
+                    "content": "잠시 후, C003은 부대원들 데리고 진지 하단부에 대공포를 설치한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C003은 소수의 부대원들에게 대공포를 지키라고 명령한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_06",
+            "prev_id": "01_1832_05",
+            "next_id": "01_1832_07",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001와 C002은 몇 년 만에 만나고는 서로의 안부를 묻는다.",
+            "unit_motif": "재회",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "content": "회의가 끝나고 C001는 수색에서 복귀한 C002을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "반갑다",
+                    "content": "C001와 C002은 껴안으며 반갑게 인사한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "이병에서 중위까지 이렇게 빨리 진급했어?"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "전쟁터니까 빠르게 진급됐어."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "너야말로 어떻게 중위까지 진급했냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C002에게 방첩대에서 많은 성과를 냈다고 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "방첩대에서 여기까지 무슨 일로 왔어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C002에게 군대 3과 내통하는 사람을 찾으려고 왔다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C002은 말도 안 되는 소리라고 C001에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "방첩대에 있었으면 높은 사람들 많이 봤지? 정전 언제 된대? 정전회담은 계속 해왔잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "나도 모르겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "증오하다",
+                    "content": "C002은 C001에게 포로로 잡혔던 시절 군대 3 간부인 C007을 기억하냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "증오하다",
+                    "content": "C001는 C002에게 C007을 기억한다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "증오하다",
+                    "content": "C002은 C007도 진지 전투에 참전하고 있다고 말해준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_07",
+            "prev_id": "01_1832_06",
+            "next_id": "01_1832_08",
+            "characters": [
+                "C009",
+                "C005",
+                "부대원들",
+                "C002",
+                "적1",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "부대원들은 진지를 재점령하는데 성공한다.",
+            "unit_motif": "성공",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "content": "다음 날 아침, C009는 자고 있는 부대원들을 급히 깨운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 군장을 매고 전투 대기를 하라고 명령한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "적이 진지를 재점령했다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "대공포는 어떻게 됐습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "뺏겼다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 C002에게 병력을 나눠서 진지 하단부를 점령한 뒤, 진지 상단부로 집결하라는 명령을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "귀찮다",
+                    "content": "부대원들은 총을 들고 진지 하단부로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "발견하다",
+                    "content": "부대원들은 대공포를 점령한 군대 3을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C002은 자신이 가져온 군대 3복을 입고 군대 3으로 위장하여 적1에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "적1"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "의심스럽다",
+                    "content": "적1은 C002이 적이라는 것을 눈치채고는 총을 겨눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "비장하다",
+                    "content": "부대원들은 일제히 사격하여 군대 3을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 하단부",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "부수다",
+                    "emotion": "비장하다",
+                    "content": "C005은 대공포를 부순다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "부대원들은 임무를 마치고 진지 상단부로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 부대원들에게 진지를 탈환하라는 명령을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C003은 군대 7의 공중 폭격 지원을 받은 직후 부대원들에게 돌격 명령을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "부대원들은 일제히 돌격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "죽다",
+                    "content": "부대원들은 포격과 총에 맞아 사망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "content": "얼마 후, 부대원들은 군대 3을 밀어내고 진지를 재점령한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_08",
+            "prev_id": "01_1832_07",
+            "next_id": "01_1832_09",
+            "characters": [
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C001"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 C002, C003, C004, C005이 군대 3과 내통한다는 사실을 발견한다.",
+            "unit_motif": "비밀의 발견/발각",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "마시다",
+                    "emotion": "즐겁다",
+                    "content": "부대원들은 진지 벙커에서 술을 마신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001는 진지 벙커로 들어와 술을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C004 손에 들은 쪽지를 보고 가져오라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "C001는 군대 3의 감사 내용이 담긴 쪽지를 읽고는 황당해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "배신감",
+                    "content": "군대 3과 내통을 해?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C002이 C001에게 설명하겠다고 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "수십 번 후퇴할 때마다 많은 짐을 갖고 가기 싫어서 여기 땅바닥에 먹을 거랑 옷 전부 묻어뒀어."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "재점령 했을 때 파보니까 군대 3이 잘 먹었다는 쪽지와 함께 감사의 의미로 술을 넣어 줬어."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그다음엔 편지를 여러 장 넣어뒀어. 군대 3엔 국가 1에서 강제 징용된 사람이 많았어. 그래서 내가 편지를 대신 보내줬어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002은 군대 3을 대신해 편지를 보내주는 보답으로 술을 받았다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "목숨이 달린 일인데 내가 군사 기밀을 팔았겠어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "의심스럽다",
+                    "content": "C001는 못마땅한 표정으로 C002의 말을 듣는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_09",
+            "prev_id": "01_1832_08",
+            "next_id": "01_1832_10",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 C002에게 E005에 대해 묻는다.",
+            "unit_motif": "추적/수색",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C001와 C002은 단둘이 앉아 대화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001는 C002에게 E005의 죽음에 대해서 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "E005은 군대 1 지휘관 총으로 죽었대. 아는 거 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자기 권총으로 자살했어."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "무능한 상관이었어. 스트레스가 심했나 봐."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "E005 시체는 어디에 있었어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002은 C001에게 진지 아래 개울에서 죽었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 진지 아래 개울로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "C001는 E005의 시체를 찾아보지만 실패한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "놀라다",
+                    "content": "그 순간, C002은 젊은 여자를 맞닥뜨린다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "여기는 전쟁터라 위험해요. 다른 곳으로 대피하세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "C002은 말없이 진지를 떠나는 젊은 여자를 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_10",
+            "prev_id": "01_1832_09",
+            "next_id": "01_1832_11",
+            "characters": [
+                "부대원들",
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001, C002, C003, C004, C005, C006은 군대 3과 내통한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "content": "군대 1과 군대 3은 계절이 여러 번 바뀔 동안 수차례에 걸쳐 진지를 번갈아 점령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "content": "마침내 부대원들은 진지를 점령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "부대원들은 진지 벙커로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "땅 파봐."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "술이랑 한 여자 사진과 편지가 있습니다. 사진 뒤에 C008이라는 이름이 적혀있습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "읽다",
+                    "emotion": "담담하다",
+                    "content": "C006은 고향에 사진을 보내달라는 내용의 군대 3의 편지를 소리 내어 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C004",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C004, C005, C006은 사진 속 여자를 보고 예쁘다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "C001는 사진을 보고 진지 아래 개울에서 만난 젊은 여자와 닮았다고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "판단하다",
+                    "emotion": "혼란스럽다",
+                    "content": "부대원들은 군대 3의 여동생의 사진일 거라고 판단한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "설레다",
+                    "content": "C002은 자신이 사진을 갖겠다면서 가슴 주머니에 넣는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_11",
+            "prev_id": "01_1832_10",
+            "next_id": "01_1832_12",
+            "characters": [
+                "C009",
+                "C003",
+                "C002",
+                "C006",
+                "C001",
+                "C004",
+                "C005",
+                "C008"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001, C002, C003, C004, C005, C006은 수색대를 찾는 과정에서 저격수인 C008과 만난다. C006은 C008에게 죽는다.",
+            "unit_motif": "적의 등장",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "content": "C009는 간부들을 불러 모은다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "수색대는 연락 없어?"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "몇 시간째 연락 두절입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "수색할 위치의 지형을 보아하니 저격에 맞아 전사했을 가능성이 있습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003은 C009에게 C008라는 저격병에 대해서 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "군대 3 저격수의 별명이 C008입니다. 사람이 먼저 죽고 C008 뒤에 총성이 울립니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "몇 백 미터 밖에서 쏩니다. 부대원들 수십 명은 당했습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "C002은 자신이 수색대원을 찾아보고 C008를 잡아온다고 C009에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "의심스럽다",
+                    "content": "잠시 후, C002은 부대원을 데리고 진지 주변을 수색한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "괴롭다",
+                    "content": "수색 도중 C006은 다리에 총을 맞아 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "C002은 C006이 총에 맞은 후 총성이 울린 것을 파악하고 C008의 저격임을 인지한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "걱정",
+                    "content": "C006! 가만히 있어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "다치다",
+                    "emotion": "괴롭다",
+                    "content": "C006은 계속해서 총을 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "안타깝다",
+                    "content": "C001는 몸을 숨기고 C006을 향해 손을 뻗어 잡으라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "걱정",
+                    "content": "C002은 C001에게 다가가지 말라고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 C008의 위치를 알게 되고 군대 7에게 공중 폭격 지원을 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "죽다",
+                    "content": "그 사이, C006은 심장에 총을 맞고 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "C001는 C006의 죽음을 안타까워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C002, C004, C005은 C006의 죽음을 뒤로하고 군대 7의 폭격을 보고 나서야 신속하게 C008가 있던 자리로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "약오르다",
+                    "content": "C002, C004, C005은 C008의 시신을 찾지 못하고는 C008가 여전히 살아있음을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "한편, C001는 누군가의 인기척을 느끼고는 따라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 C008를 잡아채고는 얼굴을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "혼란스럽다",
+                    "content": "너 나랑 전에 만났었지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "도망치다",
+                    "content": "넋이 나간 C001의 모습을 본 C008은 도주에 성공한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_12",
+            "prev_id": "01_1832_11",
+            "next_id": "01_1832_13",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001와 C002은 감정의 골이 깊어진다.",
+            "unit_motif": "말싸움/의견충돌",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "부대 막사로 복귀한 C001는 C002을 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002은 C001에게 할 말 있냐고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "배신감",
+                    "content": "네가 C006을 죽였어."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "여긴 전쟁터야. 군인이 죽는 건 자주 있는 일이야."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "배신감",
+                    "content": "중위까지 2년 만에 진급할 수 있었던 비결이 이런 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "단호하다",
+                    "content": "C002은 C001에게 지휘관으로서 최선을 다했다고 반박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "C001는 C002의 멱살을 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "네가 전쟁을 알아?"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "나도 알지. 누구나 똑같은 지옥을 겪고 있어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C002은 C001에게 진짜 지옥을 모른다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말리다/멈추다",
+                    "content": "C002과 C001는 한 발의 총소리를 듣고는 말싸움을 멈춘다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_13",
+            "prev_id": "01_1832_12",
+            "next_id": "01_1832_14",
+            "characters": [
+                "부대원들",
+                "C009",
+                "C004",
+                "C010",
+                "C003",
+                "C002"
+            ],
+            "stage": "Another Story",
+            "storyline": "C010은 C002, C004, C003과 함께 했던 지역 1에서의 기억을 회복한다.",
+            "unit_motif": "기억 회복",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "부대원들은 C010이 C003을 향해 총을 겨누고 있는 모습을 보고 몰려든다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "쟤 완전히 미쳤구먼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C004은 C009에게 C010의 정신이 불안정한다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "혼란스럽다",
+                    "content": "C010은 모르는 이름들을 부르고 찾는다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "그 사람들 지역 1 탈출할 때 다 죽었잖아!"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "기억 안 나? 어떻게 탈출했는지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "혼란스럽다",
+                    "content": "C010은 C003의 말을 듣고 정신이 돌아오고는 기억을 찾는다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "지역 1에 무슨 일이 있었던 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사 주변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "content": "C003은 과거의 지역 1 바다를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 지역 1 바다",
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "군대 1은 군대 3의 압도적인 전력으로 인해 밀려나 상륙 함을 타고 지역 1을 탈출하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 지역 1 바다",
+                    "content": "군대 3의 총알이 빗발쳐 빨리 탈출해야 하는 상황에 상륙 함에 많은 군대 1이 몰려들어 배가 출발하지 못하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 지역 1 바다",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C010"
+                    ],
+                    "emotion": "난감하다",
+                    "content": "먼저 상륙 함에 탑승해있던 C002, C003, C004, C010은 난감해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 지역 1 바다",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "씁쓸하다",
+                    "content": "더 이상 지체할 수 없음을 인지한 C003은 자신의 총으로 아군을 쏴 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 지역 1 바다",
+                    "act": "죽다",
+                    "content": "상륙 함에 매달린 군대 1이 모두 죽고 나서야 상륙 함은 지역 1 탈출에 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상륙함 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "죄책감",
+                    "content": "C003은 자책한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상륙함 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "너 때문에 이 상륙 함에 타고 있는 인원들 전부가 살 수 있었어. 자책하지 마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상륙함 안",
+                    "character": [
+                        "C010"
+                    ],
+                    "emotion": "참담하다",
+                    "content": "C010은 C003의 행동에 큰 충격을 받는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_14",
+            "prev_id": "01_1832_13",
+            "next_id": "01_1832_15",
+            "characters": [
+                "C008",
+                "C007",
+                "E002",
+                "C009",
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Villains Move",
+            "storyline": "군대 6의 지원을 받은 군대 3은 진지를 탈환하는 계획을 세운다. C009와 C003의 의견이 충돌된다.",
+            "unit_motif": "계략을 꾸밈",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "보고하다",
+                    "content": "C008은 진지 주변 땅굴로 돌아와 C007과 C011에게 상황을 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저격병 하나 잡겠다고 폭격까지 하다니."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "C008은 C007에게 자신의 실수로 군대 1을 죽이지 못해서 죄송하다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "E002"
+                    ],
+                    "content": "잠시 후, E002는 군대 3들을 집합시킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "곧 있을 전투가 진지의 마지막 전투가 될 것이다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "거부감",
+                    "content": "마지막이오? 그 말만 몇 번째 듣는지 아십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "이번엔 다르다. 군대 6의 지원을 받아 확실하게 끝날 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 땅굴",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "E002는 군대 6이 진지의 우방으로 공격하고 퇴각하는 군대 1을 군대 3이 쫓을 것이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009",
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "content": "한편, 간부들은 회의를 진행한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "content": "C009는 진지 우방에서 군대 6이 공격한다는 소식을 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 진지 우방과 진지 상단부의 병력을 나누라고 명령한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "군대 6과 싸워 보셨습니까? 총알 수보다 군대 6 수가 더 많습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "병력을 나누면 진지는 빼앗깁니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "약오르다",
+                    "content": "C009는 상관의 명령에 복종하지 않는다며 C003에게 총을 겨눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 C003의 말을 무시하고 부대원들에게 병력을 나누라고 명령한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_15",
+            "prev_id": "01_1832_14",
+            "next_id": "01_1832_16",
+            "characters": [
+                "부대원들",
+                "C001",
+                "C002",
+                "C004",
+                "C009",
+                "C005",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "부대원들은 군대 6에게 패전하고 진지를 빼앗긴다.",
+            "unit_motif": "실패",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "content": "진지 우방에는 비가 세차게 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "부대원들은 군대 6을 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "군대 6들은 부대원들을 향해 진격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "죽다",
+                    "content": "부대원들은 방어에 실패하고 대부분 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001, C002, C004은 퇴각에 성공하여 C009에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "군대 6이 너무 많습니다. 즉시, 퇴각해야 합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "당황하다",
+                    "content": "당황한 C009는 무전기로 현 상황을 상부에 보고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "연락하다",
+                    "content": "C009는 상부로부터 반드시 방어하라는 명령을 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "반드시 방어하라는 상부의 명령이다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "지금 퇴각 안 하면 전부 죽습니다!"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "군인은 죽으라면 죽어야 돼!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "증오하다",
+                    "content": "C002은 자신의 권총으로 C009를 죽인다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "군법에 따라 지금부터 내가 지휘관이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "증오하다",
+                    "content": "C001는 상관을 살해한 C002의 행동을 보고 총을 겨누며 욕을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 우방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "날 죽이면 네가 지휘관이야. 부대원들 목숨 지키지 못하겠으면 그 총 내려놔."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 상황이 급하여 C002을 향해 겨누던 총을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 우방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C002은 부대원들에게 퇴각 명령을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C001, C002, C004은 퇴각하는 과정에서 진지 상단부에서 퇴각하던 C003과 C005을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "죽다",
+                    "content": "C005은 퇴각하던 중 군대 6의 총에 맞고 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "도망치다",
+                    "content": "부대원들은 퇴각에 성공한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_16",
+            "prev_id": "01_1832_15",
+            "next_id": "01_1832_17",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001는 C002이 E005을 죽인 사람이라고 의심한다.",
+            "unit_motif": "말싸움/의견충돌",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "content": "진지 주변에 동이 튼다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001, C002, C003, C004은 나무 그늘 아래로 대피한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안심/안도하다",
+                    "content": "정찰기가 뜨니까 적이 숨은 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001는 C002에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "E005도 네가 죽였지?"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "거부감",
+                    "content": "왜 내가 죽였다고 생각하는데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C001는 C002에게 C009 대위를 죽였을 때와 같은 방식으로 E005을 죽였을 거라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "억울하다",
+                    "content": "C002은 E005을 죽이지 않았다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "억울하다",
+                    "content": "C002은 E005은 정말로 자살했다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "그 상황에서 C009 대위를 죽이지 않았으면 우리는 전부 죽었을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 상관을 죽이느니 차라리 적과 싸우다 죽는 게 낫다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 C002에게 전쟁이 끝나면 군법에 따라 처벌할 것이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "난감하다",
+                    "content": "C004은 C001와 C002의 말싸움을 말린다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_17",
+            "prev_id": "01_1832_16",
+            "next_id": "01_1832_18",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C002은 C008을 죽이려고 했지만 되려 C008에게 죽는다.",
+            "unit_motif": "죽음",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004"
+                    ],
+                    "content": "C001, C002, C003, C004은 나무 그늘 아래에서 휴식을 취한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "content": "갑자기 C002 주변으로 총알이 날아온다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "이 총소리는 C008야."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "내 수신호에 맞춰 각자 사방으로 흩어져 도망가! 어차피 전부 다 사는 건 불가능이야!"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "하나, 둘, 셋!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C001, C002, C003, C004은 각기 다른 방향으로 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002은 총소리를 듣고 C008에게 가까이 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "비장하다",
+                    "content": "C002은 C008를 발견하고 나무 뒤에 숨어 자신의 총에 조준경을 단다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "괴롭다",
+                    "content": "C002은 C008를 향해 조준하지만 먼저 총을 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002을 따라온 C001는 C002을 구하려고 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "오지 마!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "절망하다",
+                    "content": "C002은 심장에 총을 맞고 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 주변 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "C001는 울먹이며 C002의 시신을 업고 부대 막사로 간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_18",
+            "prev_id": "01_1832_17",
+            "next_id": "01_1832_19",
+            "characters": [
+                "C007",
+                "C008",
+                "C011",
+                "적1",
+                "C001",
+                "C003",
+                "C004",
+                "부대원들"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "군대 3과 군대 1은 휴전 소식을 듣는다. C002의 시신을 본 부대원들은 슬픔에 빠진다.",
+            "unit_motif": "감정의 표현",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C011"
+                    ],
+                    "content": "C007, C008, C011은 벙커에서 휴식한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "읽다",
+                    "content": "C011은 쪽지를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C011은 쪽지에 휴전을 하자는 내용이 담겨있다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "걔네도 지겹겠지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "적1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "그때 마침, 적1이 C007에게 휴전됐다는 소식을 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "content": "같은 시각, 부대 막사에도 휴전이라는 방송이 울려 퍼진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C002을 업고 부대 막사에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "슬프다",
+                    "content": "C003은 C001에게 C002이 왜 죽었는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "슬프다",
+                    "content": "C008한테 당했어."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "드디어 휴전인데 좀만 버티지!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "부대원들은 C002을 바라보며 운다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_19",
+            "prev_id": "01_1832_18",
+            "next_id": "01_1832_20",
+            "characters": [
+                "부대원들",
+                "C001",
+                "C003",
+                "C007",
+                "C008",
+                "C011"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "부대원들은 행복한 일과를 보낸다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "emotion": "행복하다",
+                    "content": "부대원들은 고향에 가기 전 진지 아래 개울에서 씻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "부대원들은 즐겁게 물놀이를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C001와 C003은 나란히 앉아 대화한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "홀가분하다",
+                    "content": "드디어 전쟁이 끝났습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "홀가분하다",
+                    "content": "고생하셨습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C011"
+                    ],
+                    "act": "만나다",
+                    "content": "그때 마침, 부대원들과 지나가던 C007, C008, C011은 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "행복하다",
+                    "content": "C003은 C007, C008, C011을 향해 잘 가라고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "홀가분하다",
+                    "content": "잘 가라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C008에게 다가가서 총알구멍이 뚫린 피 묻은 C008의 사진을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "받는다",
+                    "emotion": "놀라다",
+                    "content": "C008은 사진을 받고 넋이 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 아래 개울",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C007은 C008과 C011에게 가자고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_20",
+            "prev_id": "01_1832_19",
+            "next_id": "01_1832_21",
+            "characters": [
+                "연대장",
+                "C001",
+                "C003",
+                "C004",
+                "적1",
+                "C007"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "연대장은 C003에게 정전 효력이 발생하기 전까지 진지를 재점령하라는 명령을 내린다.",
+            "unit_motif": "전투 준비",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "연대장은 부대 막사에 방문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "말하다",
+                    "content": "연대장은 간부들 앞에서 정전 협정문을 소리 내어 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C001, C003, C004은 소리 내어 기뻐한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "소리치다",
+                    "content": "조용!"
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "말하다",
+                    "content": "정전은 앞으로 12시간 후부터 효력이 발생한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "C001, C003, C004은 한순간에 절망한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "우리 군은 12시간 동안 영토 확보를 위해 총력전을 가할 것이다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "연대장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "반드시 진지를 탈환해라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "적1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "같은 시각, 적1은 C007에게 전선에서의 12시간 총력전 명령을 전달한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "웃는다",
+                    "content": "C007은 실소한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "C007은 군대 3에게 전투 준비 명령을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "한편, C003은 부대원들을 집합시키고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "수년 동안 수십만 명이 죽었고 우리는 살아남았다. 우리가 전장을 지배한다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "부대 막사",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "자신감 있다",
+                    "content": "C003은 부대원들에게 용기를 불어 넣어준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1832_21",
+            "prev_id": "01_1832_20",
+            "characters": [
+                "부대원들",
+                "C001",
+                "C003",
+                "C004",
+                "C008",
+                "C007"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "최후의 진지 전투에서 모두 죽고, C001만 살아남는다.",
+            "unit_motif": "전쟁/전투/토벌",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "content": "안개가 자욱하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "부대원들은 안개가 걷힐 때까지 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "안개 때문에 안 보여서 그렇지 적은 바로 앞에 있을 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "안개가 걷히면 군대 7이 공중 폭격을 해줄 거야. 폭격 이후 우리는 돌격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "content": "안개가 걷히고 군대 7의 공중 폭격이 떨어진다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "돌격!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "부대원들"
+                    ],
+                    "act": "죽다",
+                    "content": "부대원들은 총과 포격을 맞고 사망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "act": "죽다",
+                    "content": "군대 3은 부대원들의 총에 맞아 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "증오하다",
+                    "content": "C004은 C011을 우연히 만나고는 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "죽다",
+                    "content": "C004은 포격에 맞아 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "죽다",
+                    "content": "C003은 C007의 총에 맞아 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "증오하다",
+                    "content": "C001는 부대원들을 죽이는 C008을 발견하고는 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 상단부",
+                    "act": "죽다",
+                    "content": "시간이 흐른 뒤, 부대원들과 군대 3은 전부 전사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "살아남은 C001는 진지 벙커로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 죽어가는 C007을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001",
+                        "C007"
+                    ],
+                    "act": "마시다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C007은 마지막으로 술을 마신다."
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우리 보고 싸우는 이유를 모른다고 했었지? 너는 싸우는 이유가 뭐야?"
+                },
+                {
+                    "type": "script",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "잊어버렸어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "죽다",
+                    "content": "C007은 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라디오",
+                    "content": "라디오에서 정전을 선언한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진지 벙커",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "그립다",
+                    "content": "C001는 전쟁이 끝난 후 허무한 감정을 느낀다."
+                }
+            ]
+        }
+    ]
+}

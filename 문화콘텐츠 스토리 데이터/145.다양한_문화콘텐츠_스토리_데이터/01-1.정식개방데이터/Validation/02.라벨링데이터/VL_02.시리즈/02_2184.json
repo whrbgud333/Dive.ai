@@ -1,0 +1,2459 @@
+{
+    "id": "02_2184",
+    "type": "series",
+    "title": "함께 여행합시다 9",
+    "genre": [
+        "멜로/로맨스"
+    ],
+    "year": 2017,
+    "theme": "사랑",
+    "concept": "나라2 패키지여행 과정에서 다양한 일이 발생한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "옛 연인의 출현",
+    "main_character": "미인",
+    "conflict": "C001와 C002는 헤어졌다가 재회한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008"
+    ],
+    "units": [
+        {
+            "id": "02_2184_01",
+            "next_id": "02_2184_02",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C002는 C001에게 여행을 갈 것을 제안한다. C001는 C002의 출근을 걱정한다.",
+            "unit_motif": "덕담/응원",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002와 C001가 유적지1을 산책한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C002가 C001에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "이번 패키지여행 끝나면 C001씨도 여행 가는 게 어때요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "난감하다",
+                    "content": "C001가 작게 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "난감하다",
+                    "content": "C001가 C002를 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "제 직업이 여행 다니는 거예요. 여행을 또 가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C001씨를 위한 여행을 갔으면 좋겠어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "피곤하다",
+                    "content": "C001가 한숨을 쉰다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "피곤하다",
+                    "content": "일할 게 많아요. 여행 갈 시간이 있으면 쉴 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "안타깝다",
+                    "content": "C002가 C001를 안타까운 눈으로 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001가 C002에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "한국 가자마자 출근하는 거예요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "C002가 고개를 끄덕인다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "회사 일이 무사히 해결되었으면 좋겠네요."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_02",
+            "prev_id": "02_2184_01",
+            "next_id": "02_2184_03",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C002는 C001에게 다시 만날 수 있을 거라고 말한다. C001와 C002가 유적지1을 떠난다.",
+            "unit_motif": "감정의 표현",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "미안하다",
+                    "content": "C001가 C002에게 사과한다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "미안하다",
+                    "content": "정말 미안해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002가 C001에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "뭐가 미안해요?"
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "미안하다",
+                    "content": "멀리까지 와서 헤어지자고 했잖아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "content": "C002가 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "유적지1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "괜찮아요. 우리는 다시 만날 수 있을 테니까요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유적지1",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001와 C002가 함께 차를 향해 걷는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "content": "C001와 C002가 차에 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001와 C002가 유적지1을 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "C001와 C002가 차 안에서 대화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001와 C002가 호텔에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "content": "C001와 C002가 차에서 내린다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_03",
+            "prev_id": "02_2184_02",
+            "next_id": "02_2184_04",
+            "characters": [
+                "C003",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004는 투자 유치에 실패한다. C003은 C004를 위로해준다.",
+            "unit_motif": "위로",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003이 거리를 산책하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "상실감",
+                    "content": "C004가 호텔 앞 벤치에 앉아있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "상실감",
+                    "content": "C004가 한숨을 쉬고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C004 옆에 앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003이 C004에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "무슨 일 있어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C004가 한숨을 쉰다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "투자 자금을 결국 못 받았어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "C004가 C003에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "투자 받으면 너에게 결혼하자고 하려 했어. 다 끝났네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "걱정",
+                    "content": "C003이 C004를 위로한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "걱정",
+                    "content": "괜찮아. 그리고 결혼은 우리가 천천히 준비하면 돼."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "정말 고마워."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "행복하다",
+                    "content": "C003과 C004가 포옹한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_04",
+            "prev_id": "02_2184_03",
+            "next_id": "02_2184_05",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C007",
+                "C008"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001, C002, C003, C004, C005, C006, C007, C008가 호텔 로비에 모여있다. C002, C003, C004, C005, C006, C007, C008가 쇼핑하러 약국에 간다.",
+            "unit_motif": "상황 설명",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C001 및 C002, C003, C004, C005, C006, C007, C008가 호텔 로비에 모여 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008를 향해 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "안녕히 주무셨어요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "즐겁다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "즐겁다",
+                    "content": "네!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "괘씸하다",
+                    "content": "C001가 눈을 흘긴다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "집에 가실 때 되니까 대답 잘해주시네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008를 향해 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "공항 가기 전 약국 쇼핑할 시간 드릴게요, 다녀오실래요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 로비",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 호텔 로비를 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "약국",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 약국에 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "약국",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "사다",
+                    "emotion": "기대되다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 여러 상품을 구매한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_05",
+            "prev_id": "02_2184_04",
+            "next_id": "02_2184_06",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C007",
+                "C008"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001 및 C002, C003, C004, C005, C006, C007, C008가 공항6으로 향한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001 및 C002, C003, C004, C005, C006, C007, C008가 버스를 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008를 향해 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "이렇게 여행이 끝나가네요. 함께 해 주셔서 고맙습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C003, C004, C005, C006, C007, C008가 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "사랑스럽다",
+                    "content": "C002가 C001를 사랑스러운 눈으로 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 C002를 보며 환하게 웃어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008에게 부탁한다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "담담하다",
+                    "content": "나중에 패키지여행 평가 전화받으면 잘 대답해 주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "담담하다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "content": "버스가 공항6에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001 및 C002, C003, C004, C005, C006, C007, C008가 버스에서 내린다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_06",
+            "prev_id": "02_2184_05",
+            "next_id": "02_2184_07",
+            "characters": [
+                "C001",
+                "C007",
+                "C008",
+                "C005",
+                "C004",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001가 C002, C003, C004, C005, C006, C007, C008를 공항6에서 배웅한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008를 보며 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "얼른 탑승 수속하세요. 주말이라 공항에 사람 많아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "C007가 C001를 보며 울먹인다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "밥 잘 먹고, 잘 지내요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "C008가 C001에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "준다",
+                    "emotion": "슬프다",
+                    "content": "C008가 C001에게 돈을 쥐여준다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "이걸로 맛있는 거 사 먹어요. 고마웠어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "감동하다",
+                    "content": "C001가 감동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "C005이 C001에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "나중에 친구들이랑 꼭 올게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C001가 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "고맙다",
+                    "content": "C004와 C003이 C001에게 다가온다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "가이드님 덕분에 여행 잘했습니다. 감사합니다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_07",
+            "prev_id": "02_2184_06",
+            "next_id": "02_2184_08",
+            "characters": [
+                "C002",
+                "C001",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C007",
+                "C008"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C002, C003, C004, C005, C006, C007, C008가 공항6을 떠난다.",
+            "unit_motif": "이별",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "C002가 C001에게 다가온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "슬프다",
+                    "content": "C002가 C001에게 손을 내밀어 악수를 청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C001가 C002를 보며 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "가이드 평점 잘 주세요. 부탁드릴게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 입국장으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C001가 C002, C003, C004, C005, C006, C007, C008를 향해 손을 흔든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "슬프다",
+                    "content": "C002가 C001를 향해 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "슬프다",
+                    "content": "정말 보고 싶을 거예요. 다시 만나요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "슬프다",
+                    "content": "C001가 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "C001가 조용히 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "잘 가요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "C001가 공항을 나선다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_08",
+            "prev_id": "02_2184_07",
+            "next_id": "02_2184_09",
+            "characters": [
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C007",
+                "C008"
+            ],
+            "stage": "Another Story",
+            "storyline": "C002, C003, C004, C005, C006, C007, C008가 도시3행 비행기 안에서 시간을 보낸다.",
+            "unit_motif": "상황 설명",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 도시3행 비행기에 탑승한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "C003과 C004는 스마트폰 사진첩을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C003이 C004에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "비행기 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "기대되다",
+                    "content": "다음에 또 여행하러 오자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C006은 잠든 C005을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "담담하다",
+                    "content": "C006이 C005에게 담요를 덮어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C006이 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C008가 C007에게 먹을 것을 나눠준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C008가 C007에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "비행기 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "또 여행 오자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "기대되다",
+                    "content": "C007가 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C002가 노트북으로 회사 자료를 살펴본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "C002가 혼잣말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "비행기 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "이제 회사로 돌아가야겠네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002, C003, C004, C005, C006, C007, C008가 공항3에 도착한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_09",
+            "prev_id": "02_2184_08",
+            "next_id": "02_2184_10",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 친구 집으로 가서 짐을 정리한다. C002는 집에 도착해서 집안일을 하고 C001를 생각한다.",
+            "unit_motif": "그리움",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 친구의 집에 도착해서 짐을 정리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001가 다이어리를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "C001가 혼잣말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "곧 패키지여행 한 팀이 또 도착하네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 C002에게 선물 받은 신발을 신발장에 정리한다."
+                },
+                {
+                    "type": "script",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "일하러 갈 때 이거 신고 가야겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "한편, C002가 집에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 캐리어를 열어서 정리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 밀린 집안일을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 침대에 앉아서 휴식한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C002가 C001의 사진을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C002가 혼잣말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "보고 싶다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_10",
+            "prev_id": "02_2184_09",
+            "next_id": "02_2184_11",
+            "characters": [
+                "C002",
+                "E001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002는 회사3으로 출근한다. C002는 E001에게 경고한다.",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회사3 사무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002가 출근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회사3 사무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 회사3 사무실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회사3 사무실",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "E001가 C002에게 다가온다."
+                },
+                {
+                    "type": "script",
+                    "location": "회사3 사무실",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "content": "이야기 좀 하자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "C002",
+                        "E001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002와 E001가 옥상으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "content": "E001가 C002에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "옥상",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "content": "과장님이 각서 쓰고 다시 업무 복귀하라고 하셨어. 다행이지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "짜증나다",
+                    "content": "C002가 어이없단 듯이 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "짜증나다",
+                    "content": "C002가 E001를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "짜증나다",
+                    "content": "회사 비리 이미 알고 있었지? 너도 그 비리에 개입했고?"
+                },
+                {
+                    "type": "script",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "짜증나다",
+                    "content": "네가 지운 자료는 내가 따로 가지고 있었어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "E001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "E001가 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "화나다",
+                    "content": "C002가 냉정한 표정으로 E001를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "옥상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "화나다",
+                    "content": "앞으로 더 조심하는 게 좋을 거야."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_11",
+            "prev_id": "02_2184_10",
+            "next_id": "02_2184_12",
+            "characters": [
+                "C002",
+                "C006"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002는 C006에게 회사3 비자금 조성에 대한 자료를 의뢰한다.",
+            "unit_motif": "조력자(후원자)를 만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "카페 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 카페 앞에 서 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "반갑다",
+                    "content": "C006이 C002에게 다가온다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "잘 지냈어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "반갑다",
+                    "content": "C002가 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "반갑다",
+                    "content": "C002가 C006을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "네. 한국에서 뵈니까 더 반갑네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002와 C006이 카페 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "마시다",
+                    "content": "C002와 C006이 커피를 마신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 C006에게 말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "제가 회사3의 비자금 조성에 대해 조사하고 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "C006이 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "그런데 C006 씨가 운영하는 회사의 선박이 개입되었다는 걸 알았어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C006이 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "혹시 저에게 관련 자료를 찾아주실 수 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "그럴게."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "안심/안도하다",
+                    "content": "C002가 안도의 한숨을 내쉰다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "정말 고마워요."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_12",
+            "prev_id": "02_2184_11",
+            "next_id": "02_2184_13",
+            "characters": [
+                "C002",
+                "C006"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C002는 C006의 연락을 받는다. C002는 도시4로 떠날 준비를 한다.",
+            "unit_motif": "정보 획득",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 집에서 노트북으로 회사 자료를 분석한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 부엌으로 가서 커피를 끓인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C002가 커피를 가져와 노트북 앞에 앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "담담하다",
+                    "content": "C002가 C006의 연락을 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "여보세요? 나 C006이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C002의 표정이 밝아진다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "혹시 자료 찾았어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "응. 네가 찾던 선박은 도시4에 있어. 자료 보내줄까?"
+                },
+                {
+                    "type": "script",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "C006이 C002에게 제안한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 사무실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "다음 주에 도시4 출장 갈 건데, 너도 같이 갈래? 내가 도와줄게."
+                },
+                {
+                    "type": "script",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "정말 고맙습니다. 다음 주에 도시4로 갈게요. 거기서 봐요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C002가 캐리어를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "C002가 혼잣말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "또 공항에 갈 일이 생겼네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C002가 캐리어에 짐을 챙기기 시작한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_13",
+            "prev_id": "02_2184_12",
+            "next_id": "02_2184_14",
+            "characters": [
+                "C001",
+                "여행사 사장1"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001는 여행사 사장1에게 휴가를 내고 여행을 갈 것이라 말한다.",
+            "unit_motif": "부탁/제안",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 여행사로 출근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 여행사 사장1의 자리로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "여행사 사장1"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "여행사 사장1이 C001를 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "여행사 사장1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "무슨 일이야?"
+                },
+                {
+                    "type": "script",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "저 휴가 가려고요. 여행 가고 싶어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "여행사 사장1"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "여행사 사장1이 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "여행사 사장1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "여행이 업무인 가이드가 여행을 갈 거라고?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 고개를 끄덕인다."
+                },
+                {
+                    "type": "script",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "여유 있게 장기 휴가 쓸게요."
+                },
+                {
+                    "type": "script",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "여행사 사장1"
+                    ],
+                    "act": "말하다",
+                    "content": "알았어. 건강하게 잘 다녀와."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "고맙다",
+                    "content": "C001가 여행사 사장1에게 고맙다고 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여행사 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 여행사를 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 친구 집에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C001가 캐리어를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C001가 여행 짐을 꾸리기 시작한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_14",
+            "prev_id": "02_2184_13",
+            "next_id": "02_2184_15",
+            "characters": [
+                "C001"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 공항6으로 간다. C001는 C002를 그리워한다.",
+            "unit_motif": "그리움",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "친구 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 캐리어를 챙겨서 친구 집을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 혼잣말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "공항6에 일이 아닌 여행으로 가게 되다니, 신기하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001가 캐리어를 끌고 지하철역으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 지하철을 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 공항6에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "담담하다",
+                    "content": "C001가 의자에 앉아서 비행기를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002의 사진을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C001가 혼잣말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C002씨는 잘 지내고 있을까? 보고 싶다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "그립다",
+                    "content": "C001가 한숨을 쉰다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_15",
+            "prev_id": "02_2184_14",
+            "next_id": "02_2184_16",
+            "characters": [
+                "C002"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 공항3으로 향한다. C002는 공항6에 도착한다.",
+            "unit_motif": "여정의 시작",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 캐리어를 끌고 집을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 공항3으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002가 공항3에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002가 자신의 비행 편을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "도시2를 거쳐서 도시4로 가는구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "그립다",
+                    "content": "C002가 한숨을 쉰다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C001씨 보고 싶다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "그립다",
+                    "content": "C002가 C001의 사진을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항3",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002가 비행기를 타러 입국장으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002가 탄 비행기가 공항6에 도착한다."
+                }
+            ]
+        },
+        {
+            "id": "02_2184_16",
+            "prev_id": "02_2184_15",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C002와 C001가 공항6에서 재회한다.",
+            "unit_motif": "재회",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 공항6에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002가 도시4행 비행기를 기다리며 공항을 둘러본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "그립다",
+                    "content": "C002가 한숨을 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C002가 혼잣말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C001 씨가 있는 나라에 왔네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "C002가 앉을 자리를 찾기 위해 주변을 둘러본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C002가 C001를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C002가 깜짝 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "놀라다",
+                    "content": "C002가 C001에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C002가 C001를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001가 고개를 들어 C002를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C001가 깜짝 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 C002에게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공항6",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "결국 우리 다시 만났네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항6",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C001와 C002가 서로를 보며 웃는다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1165 @@
+{
+    "id": "02_3312",
+    "type": "series",
+    "title": "게임이 끝나고 난 뒤 3",
+    "genre": [
+        "액션",
+        "판타지"
+    ],
+    "year": 2015,
+    "theme": "모험",
+    "concept": "서비스 종료를 앞둔 게임 속에 갇힌 C001는 지금까지 본 적 없었던 세계에 들어간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "차원이동",
+    "main_character": "회사원",
+    "conflict": "게임 속에 갇힌 C001는 게임 속 세계에서 살아남기 위해 고군분투하다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005"
+    ],
+    "units": [
+        {
+            "id": "02_3312_01",
+            "next_id": "02_3312_02",
+            "characters": [
+                "C004",
+                "E001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C004는 몬스터를 토벌하라는 명령을 받고 마을 주변을 순찰하고 있다.",
+            "unit_motif": "임무 수행",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "초원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C004가 말을 타고 달린다."
+                },
+                {
+                    "type": "script",
+                    "location": "초원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "서둘러야 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "마을이 불타 잿더미가 되어 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "씁쓸하다",
+                    "content": "늦었나. 생존자들을 지역 1로 후송시켜라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "불안하다",
+                    "content": "지역 1로 돌아가자고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "지금 소수의 병력으로 몬스터를 토벌하는 것은 매우 위험합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "너 내가 평민 출신인 거 알고 있니?"
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "네. 알고 있습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "분명 위험에 처한 사람들은 누군가 구해주러 오기를 기대할 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "그렇겠죠."
+                },
+                {
+                    "type": "script",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "그렇다면 우리가 그런 사람이 되어보는 것은 어때?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "잿더미가 돼버린 마을",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "보다",
+                    "emotion": "감동하다",
+                    "content": "존경의 눈빛으로 C004를 쳐다본다."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_02",
+            "prev_id": "02_3312_01",
+            "next_id": "02_3312_03",
+            "characters": [
+                "C001",
+                "C003"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "마법 거울로 던전 주변을 살펴보다 마을 1을 발견한다.",
+            "unit_motif": "조사/정찰",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "마법 거울로 주변 지형을 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "조작법이 생각보다 어렵네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "마을 1을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "사람들이 사는 마을인가?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그런 것 같습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001 침실",
+                    "content": "마을 1 사람들이 공격을 받는 모습이 마법 거울에 비친다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "도적 떼는 아닌 것 같은데 누구에게 공격받고 있는 거지?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "제가 처리할까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나랑 상관도 없는데, 내버려 둬."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "게임을 하다 도움을 받았던 과거를 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "나 저 마을 다녀올 테니까, 던전 경비 좀 강화시키고 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "그리고 C002랑 지원군 좀 대기시키고."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_03",
+            "prev_id": "02_3312_02",
+            "next_id": "02_3312_04",
+            "characters": [
+                "C005",
+                "E002",
+                "C001",
+                "악당들",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C005와 동생을 악당에게서 구해준다.",
+            "unit_motif": "적과의 대치",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "동생과 함께 악당에게 죽을 위기에 처한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "언니, 무서워."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무섭다",
+                    "content": "이대로 죽을 수는 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "content": "C001가 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "담담하다",
+                    "content": "악당을 죽인다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무감각함",
+                    "content": "인간을 죽여도 아무 느낌도 들지 않네."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "이 괴물은 어디서 나타난 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "죽다",
+                    "content": "도망치다 C001에게 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "담담하다",
+                    "content": "스킬을 사용해 몬스터를 만든다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "몬스터, 마을 1을 공격하는 자들을 모두 죽여."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "C002가 등장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "늦게 도착해서 죄송합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "괜찮아."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "이 녀석들은 어떻게 처리할까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "놔둬. 마을 1을 공격하는 녀석들만 죽여."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_04",
+            "prev_id": "02_3312_03",
+            "next_id": "02_3312_05",
+            "characters": [
+                "C001",
+                "C005",
+                "E002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C005에게 피리 아이템을 준다.",
+            "unit_motif": "도움을 줌/받음",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "C005에게 물약을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무섭다",
+                    "content": "독인가. 동생을 지켜야 해."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "이거 상처를 치유하는 약이야. 먹어도 괜찮아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "먹는다",
+                    "content": "물약을 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "정말 상처가 나았어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "지키다/보호하다",
+                    "content": "보호 마법을 걸어 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "보호 마법 안에만 있으면 안전할 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "피리 아이템을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그리고 이거 줄게. 피리를 불면 고블린이 나타나서 너의 명령을 따를 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "고맙다",
+                    "content": "구해주셔서 정말 감사합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "감사합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "뭘 이 정도로. 신경 쓰지 마."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "감동하다",
+                    "content": "당신의 이름은 무엇인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1 숲속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "내 이름? C001이다."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_05",
+            "prev_id": "02_3312_04",
+            "next_id": "02_3312_06",
+            "characters": [
+                "악당들",
+                "E003",
+                "C001",
+                "E004"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001가 마을 1을 구해준다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "content": "몬스터가 마을에 도착한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "저 괴물은 뭐야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "content": "몬스터가 악당들을 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "긴장되다",
+                    "content": "어서 저 괴물을 공격해!"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "도망치지 말고 나를 지켜!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "content": "몬스터가 E003에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "나를 지키는 자에게는 엄청난 화폐를 줄게!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "content": "몬스터가 E003를 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "겁을 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "모두 후퇴해!"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "몬스터, 이제 그만 멈춰봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "content": "몬스터가 공격을 멈춘다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "살아남은 악당 여러분들은 살려줄 테니까 다시는 이곳에 오지 마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "character": [
+                        "악당들"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "겁에 질려 도망친다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "content": "구해주셔서 감사합니다."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_06",
+            "prev_id": "02_3312_05",
+            "next_id": "02_3312_07",
+            "characters": [
+                "E004",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 E004에게 이 세계의 정보를 얻는다.",
+            "unit_motif": "정보 획득",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "고맙다",
+                    "content": "C001에게 감사의 인사를 올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "나는 아직 이 세계를 잘 모르니 많은 정보가 필요하단 말이지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "E004에게 정보를 얻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "후회하다",
+                    "content": "아까 악당 놈도 한 명 잡아서 정보 좀 얻을 걸 그랬나."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "무슨 생각을 그리하십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "아니에요. 다른 얘기도 더 해주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "여기서 가장 가까운 도시는 지역 1입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "담담하다",
+                    "content": "모험가가 지키는 안전한 길을 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "근방에 몬스터가 많지만 모험가가 순찰하고 있으니 안전할 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "모험가?"
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "돈을 받고 몬스터를 퇴치하는 자들이죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "지역 1에 대한 정보를 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "저도 이 이상은 잘 모르겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "E004 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "고맙다",
+                    "content": "그렇군요. 고맙습니다."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_07",
+            "prev_id": "02_3312_06",
+            "next_id": "02_3312_08",
+            "characters": [
+                "C001",
+                "C002",
+                "마을 사람들",
+                "E004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "E004은 마을 1로 누군가 다가오고 있다는 사실을 C001에게 알린다.",
+            "unit_motif": "고뇌",
+            "causality": "Crossing(교차)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "이제 C001이란 이름이 주변에 알려지겠지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "난감하다",
+                    "content": "앞으로 어떻게 해야 할지 고민을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "이제 그만 돌아갈까?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "네, 알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "content": "지나가는 사람을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "너는 인간이 싫어?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "경멸하다",
+                    "content": "인간은 벌레와 같은 존재예요."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "지금은 인간의 환심을 사는 게 중요해."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 1",
+                    "character": [
+                        "마을 사람들"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "불안하다",
+                    "content": "마을 1 사람들이 불안해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "이곳으로 누군가 오고 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "또 누구지? E004은 나와 함께 살펴보러 가요."
+                }
+            ]
+        },
+        {
+            "id": "02_3312_08",
+            "prev_id": "02_3312_07",
+            "characters": [
+                "C004",
+                "E004",
+                "C001",
+                "E001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C004는 마을 1을 구해준 C001에게 감사의 인사를 한다.",
+            "unit_motif": "우연한 만남",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자기소개를 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "나는 이 부근을 순찰하고 있는 C004다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "C004의 등장에 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "E004에게 C001에 대해 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 광장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "나는 마을이 습격 받고 있어 도움을 준 마법사야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "고맙다",
+                    "content": "고마움을 표현한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 광장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "나를 대신해 마을을 구해주다니 정말 고맙다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 광장",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004에게 뛰어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 광장",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "긴장되다",
+                    "content": "적들이 이곳으로 모여들고 있는 것 같습니다."
+                }
+            ]
+        }
+    ]
+}

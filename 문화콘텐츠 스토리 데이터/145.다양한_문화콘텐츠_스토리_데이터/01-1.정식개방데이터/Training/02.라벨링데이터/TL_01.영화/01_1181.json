@@ -1,0 +1,1602 @@
+{
+    "id": "01_1181",
+    "type": "movie",
+    "title": "안녕 안녕 안녕",
+    "genre": [
+        "드라마",
+        "멜로/로맨스"
+    ],
+    "year": 1976,
+    "theme": "도전",
+    "concept": "슬럼프에 빠진 피아노 연주자 C001와 시한부 판정을 받은 C002가 병원에서 처음 만나 사랑에 빠진다. C002는 슬럼프에 빠진 C001를 다시 무대 위로 올리기 위해 노력한다. C001는 C002를 위한 작곡한 곡을 공연하고 C002는 그 곡을 들으며 죽는다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "시한부 선고",
+    "main_character": "예술가",
+    "conflict": "슬럼프에 빠진 피아노 연주자 C001와 시한부 판정을 받은 C002는 사랑을 한다. C001는 슬럼프에 벗어나 C002를 위한 노래를 만들고 공연을 한다. C002는 그 노래를 들으며 죽는다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003"
+    ],
+    "units": [
+        {
+            "id": "01_1181_01",
+            "next_id": "01_1181_02",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001와 C002는 병원에서 우연히 만난다.",
+            "unit_motif": "시한부 선고",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "진료실 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "당황하다",
+                    "content": "진료를 마치고 나오는 C002, 밖에서 기다리는 C001에게 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "긴장되다",
+                    "content": "간호사가 C001를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "난감하다",
+                    "content": "C001가 들어오자 C002의 보호자로 착각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "안타깝다",
+                    "content": "의사로부터 그녀가 백혈병으로 앞으로 2-3개월 밖에 살지 못한다는 것을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "씁쓸하다",
+                    "content": "C001는 병원을 쓸쓸히 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "안타깝다",
+                    "content": "멀리 뛰어가는 C002가 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "버스를 기다리는 C001에게 C002가 다가온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "무안하다",
+                    "content": "C001는 C002가 계속 말을 걸지만 무뚝뚝하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 정류장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "두 사람은 버스가 오자 서둘러 버스에 오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C001와 C002는 통성명을 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_02",
+            "prev_id": "01_1181_01",
+            "next_id": "01_1181_03",
+            "characters": [
+                "C001",
+                "C002",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002는 C001를 따라다닌다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "버스는 아름다운 시골 동네를 지나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "설레다",
+                    "content": "C002는 졸린 듯 C001에게 기대 잔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "난감하다",
+                    "content": "C001는 내려야 한다고 말하자, C002가 같이 내리겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "불편하다",
+                    "content": "C002는 따라 내리며 쉼 없이 말을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "기대되다",
+                    "content": "C001는 재잘대지만 말아달라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골거리",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "C001와 C002는 조용히 시골 거리를 걷는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 자신을 피아니스트라고 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "선착장에 있는 에이전트 C003를 C002에게 소개해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C003가 아직 일자리가 없다고 하자, C002가 홀몸이 아나라고 일을 꼭 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "백사장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "짜증나다",
+                    "content": "자존심이 상한 C001가 앞질러 가자, C002가 쫓아온다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_03",
+            "prev_id": "01_1181_02",
+            "next_id": "01_1181_04",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001와 C002는 점점 가까워진다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "레스토랑",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "즐겁다",
+                    "content": "C001와 C002는 식사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "마시다",
+                    "emotion": "난감하다",
+                    "content": "C001는 술에 취한 C002를 방에 재운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "마시다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002가 굿나이트 키스를 해달라고 하자 C001는 이마에 뽀뽀를 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "마시다",
+                    "emotion": "설레다",
+                    "content": "C001가 가자 C002는 사랑에 빠졌다며 흥분한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002는 버스에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 C002를 불러 밥을 사겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "기쁘다",
+                    "content": "C002는 기뻐서 달려온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호숫가",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "C001와 C002는 호숫가를 마실을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "행복하다",
+                    "content": "C001와 C002는 바다를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C002의 방을 잡아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002는 방 하나 면 충분하다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 방",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "난감하다",
+                    "content": "C001와 C002는 한 방에 묵게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 방",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "긴장되다",
+                    "content": "한 침대에 누운 C001와 C002, 잠만 같이 잔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 식당",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "유쾌하다",
+                    "content": "C001는 여관 주인과 식사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여관 식당",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002가 와서 착석한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_04",
+            "prev_id": "01_1181_03",
+            "next_id": "01_1181_05",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C002는 C001에게 훌륭한 연주자가 될 거라고 말하고 C001는 C002에게 병원으로 돌아가라고 충고한다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "달리는 차",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "해치다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002는 C001에게 훌륭한 연주가가 될 거라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "달리는 차",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "해치다",
+                    "emotion": "걱정",
+                    "content": "그때, 어지러움을 호소하는 C002, C001가 급하게 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "백사장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "걱정",
+                    "content": "C001는 C002에게 살 날이 얼마 남았는지 잘 알지 않냐며 병원으로 돌아가라고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "백사장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "미안하다",
+                    "content": "장난이라고 치부하는 C002에게 따귀를 때리는 C001, 이내 후회하고는 C002에게 사과한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옛 성 앞",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002는 옛 성 앞에 차를 세우고 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옛 성",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "편안하다",
+                    "content": "C001와 C002는 아무도 없는 성에 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옛 성",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "반하다",
+                    "content": "C002는 피아노를 연주하는 C001에 반한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "행복하다",
+                    "content": "C001의 피아노 연주와 함께 바다 풍경들이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옛 성",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "피아노를 연주하는 C001에게 다가가는 C002, 오케스트라가 보이고 C001의 연주가 들린다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "옛 성",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "성의 관리인이 총을 들고 오자 C002가 임기응변으로 넘어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_05",
+            "prev_id": "01_1181_04",
+            "next_id": "01_1181_06",
+            "characters": [
+                "C001",
+                "C002",
+                "아빠",
+                "이복동생"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "파리로 넘어가 아빠를 찾는 C002 잘 살고 있는 아빠를 보며 돌아선다. C001는 C002와 아빠를 화해시킨다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "파리 시내",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "유쾌하다",
+                    "content": "C001와 C002는 파리로 넘어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "즐겁다",
+                    "content": "C001와 C002는 근사한 레스토랑에서 식사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "서운하다",
+                    "content": "C001와 C002는 C002와 이혼한 아빠와 관계로 말다툼을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002가 자리를 박차고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교외도로",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C002는 택시에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아빠의 집",
+                    "character": [
+                        "C002",
+                        "아빠",
+                        "이복동생"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "망설이다",
+                    "content": "C002는 아빠의 집 밖에서 아빠를 멀리서 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아빠의 집",
+                    "character": [
+                        "C002",
+                        "아빠",
+                        "이복동생"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "서운하다",
+                    "content": "아빠가 이복동생과 즐겁게 지내자 상심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아빠의 집 밖",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "감동하다",
+                    "content": "아빠의 집에서 나오는 C002, 저만치 C001가 보이자 감동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교외도로",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "사랑스럽다",
+                    "content": "C001에게 달려가 안기는 C002, 사랑한다고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교외도로",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "행복하다",
+                    "content": "두 사람은 키스하며 걸어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_06",
+            "prev_id": "01_1181_05",
+            "next_id": "01_1181_07",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C001는 다시 작곡에 열중한다. C002는 점점 쇠약해진다.",
+            "unit_motif": "시한부 선고",
+            "causality": "Possession(집착)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "기대되다",
+                    "content": "C002는 C001의 손을 잡으며 다시 피아노를 치라고 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "자신감 있다",
+                    "content": "C001는 C002를 위해 다시 피아노를 치기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "한심해 하다",
+                    "emotion": "괴롭다",
+                    "content": "너무 오랜 공백기 때문에 손이 굳어 힘들어한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "돕다",
+                    "emotion": "애틋하다",
+                    "content": "힘들어하는 C001는 옆에서 극진히 보좌한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "다루다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 힘을 얻어 다시 도전하지만 안된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "다치다",
+                    "emotion": "괴롭다",
+                    "content": "C002도 암이 악화되며 힘들어한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "절박하다",
+                    "content": "C001는 들어 하는 C002를 보고 C002에게 곡을 쓰기로 하고 밤새 노력한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "뿌듯하다",
+                    "content": "작곡에 열중하는 C001, C002는 옆에서 묵묵히 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "보람차다",
+                    "content": "아침이 되자 C001 피곤하지만 완성한 듯 기지개를 켠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연습실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "뿌듯하다",
+                    "content": "작곡을 마친 C001가 악보 위에다 'C002에게 바칩니다'라고 적는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_07",
+            "prev_id": "01_1181_06",
+            "next_id": "01_1181_08",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001와 C002는 동거를 시작한다. C001가 작곡을 포기하자 C002가 실망한다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "기대되다",
+                    "content": "C001와 C002는 원 룸에 피아노를 들인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "행복하다",
+                    "content": "C001는 피아노를 치고 C002는 가재도구들을 들여놓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "C001는 작곡을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "애틋하다",
+                    "content": "C002는 옆에서 내조를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "화나다",
+                    "content": "작곡을 포기하고 고향으로 내려가는 C001, C002가 겁쟁이라고 비난한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "서운하다",
+                    "content": "결국 두 사람은 헤어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "좌절한 C002가 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "다리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "해치다",
+                    "emotion": "괴롭다",
+                    "content": "기차역이 내려다보이는 다리에 서는 C002, 숨이 차는지 고통스러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리 계단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "감동하다",
+                    "content": "계단을 내려오던 C002가 원룸에 불이 켜져 있자 기쁨의 눈물을 흘린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "애틋하다",
+                    "content": "C002가 들어오자 C001가 기다리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "사랑스럽다",
+                    "content": "두 사람은 키스로 화해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피아노 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "C001는 작곡에 열중한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_08",
+            "prev_id": "01_1181_07",
+            "next_id": "01_1181_09",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 다시 작곡에 열중한다 C002는 점점 쇠약해진다.",
+            "unit_motif": "시한부 선고",
+            "causality": "Possession(집착)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "오디션장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 오디션이 있는 건물로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "애틋하다",
+                    "content": "C002는 C001의 전화를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 일자리를 구했다고 말하자 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기대되다",
+                    "content": "C001는 피아노 연주를 녹음한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "속상하다",
+                    "content": "C002는 의사에게 진단서를 받고 한숨 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "녹음실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "기대되다",
+                    "content": "피아노 연주를 하는 C001를 제작자가 밖에서 유심히 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "피아노 앞에 앉은 C001에게 C002는 병원에 갔다 온 사실을 숨긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뿌듯하다",
+                    "content": "C001는 C002에게 새로운 협주곡을 들려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "그리고는 다음 주 화요일 저녁에 파리의 교향악단이 이 곡을 처음으로 연주하게 될 거라고 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "또한, 피아니스트가 펑크를 내서 자기가 연주하게 됐다고 말하자 C002는 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "그런 C002에게 웨딩드레스를 보여주는 C001, C002가 감동의 눈물을 흘린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "불안하다",
+                    "content": "C001가 연습실에 놀러 오라고 하자, C002가 별 모양의 핀을 보여주며 만약 내가 없더라도 이 별을 보고 연주를 하라고 부탁한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_09",
+            "prev_id": "01_1181_08",
+            "next_id": "01_1181_10",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Defeat",
+            "storyline": "C002는 자신이 짐이 될까 봐 C001 곁을 떠난다.",
+            "unit_motif": "시한부 선고",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "C001와 오케스트라 단원들은 협주곡을 연습한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "괴롭다",
+                    "content": "C002는 힘들게 약을 타 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기대되다",
+                    "content": "가방을 챙기는 C002, 웨딩드레스를 잘 개서 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "담담하다",
+                    "content": "짐을 챙겨 나가려는데 전화가 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "C002는 전화벨을 외면하듯 가방을 들고 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "C002에게 전화를 거는 C001, 전화를 받지 않자 다시 피아노로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "심란하다",
+                    "content": "안에서 공연 10분 전을 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 사회자에게 양해를 구하며 밖으로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "우울하다",
+                    "content": "C001는 다시 C002에게 전화를 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "비장하다",
+                    "content": "전화기 옆에 앉아 있는 C002, 가방을 들고 집을 나선다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_10",
+            "prev_id": "01_1181_09",
+            "next_id": "01_1181_11",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C002를 찾아 나서는 C001는 결국 병원에서 C002를 찾는다.",
+            "unit_motif": "시한부 선고",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "불안하다",
+                    "content": "집에 돌아온 C001, C002를 찾지만 보이지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "C001는 C002를 찾아 거리를 배회한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "놀라다",
+                    "content": "초췌해진 C001가 들어오는데 전화를 받고는 놀란 표정을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "원 룸",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "절박하다",
+                    "content": "C001는 급하게 병원으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C001는 병실 침대에 누운 C002를 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "슬프다",
+                    "content": "C001는 지그시 C002의 손을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C002는 C001를 보며 미소를 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "애틋하다",
+                    "content": "C001에게 울지 말라고 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "지난 몇 달은 인생에서 가장 행복했던 시간들이었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "절망하다",
+                    "content": "의사가 C001에게 C002의 병은 백혈병이라 고칠 수 없다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_11",
+            "prev_id": "01_1181_10",
+            "next_id": "01_1181_12",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C002는 C001에게 자신을 위해 연주해 달라고 부탁한다. C002의 소원대로 연주를 하는 C001. C002는 C001의 연주를 들으며 숨을 거둔다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "애틋하다",
+                    "content": "C001는 C002를 간호한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 병실",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "애틋하다",
+                    "content": "연주를 못하겠다고 하자 C002가 자기를 위해서 연주해달라고 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "긴장되다",
+                    "content": "드디어 공연이 열리는 날, 객석은 만 원이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "분장실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "기대되다",
+                    "content": "C002는 자신이 아파 보이지 않도록 화장을 하고 C001가 선물한 드레스를 입는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001는 무대 뒤에서 커튼 사이로 C002를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "연주가 시작되고 C001의 연주도 시작된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "2층 객석",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "해치다",
+                    "emotion": "편안하다",
+                    "content": "이쁘게 차려입는 C002, 얼굴이 창백해진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "열광하다",
+                    "content": "공연은 하이라이트로 치닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "2층 객석",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "편안하다",
+                    "content": "C002의 손이 힘없이 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "C001는 C002의 모습을 보며 눈물을 참으려 연주를 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1181_12",
+            "prev_id": "01_1181_11",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C002의 죽음을 안 C001가 덤덤하게 연주를 계속한다. C001는 백사장에 서서 C002를 그리워한다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "고개를 떨군 C002를 보고 슬픈 표정의 C001가 연주를 계속한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "하늘로 가는 C002를 위해 C001는 혼신의 힘을 다해 연주한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "열광하다",
+                    "content": "객석에서 박수갈채가 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "절박하다",
+                    "content": "C001는 관객석으로 뛰어들어 C002에게 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "죽어가는 C002를 안고 오열한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "뒤따라온 오케스트라 단원들도 같이 슬퍼한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "관객들도 슬퍼한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공연장",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "절망하다",
+                    "content": "C001는 죽음을 둔 C002를 안고 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "홀",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "애틋하다",
+                    "content": "C002는 유언으로 C001에게 계속 연주를 하라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "홀",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "C001는 떠나는 C002를 보내준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "백사장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "슬프다",
+                    "content": "석양이 지는 백사장에 서 있는 C001가 C002를 떠올리며 오열한다."
+                }
+            ]
+        }
+    ]
+}

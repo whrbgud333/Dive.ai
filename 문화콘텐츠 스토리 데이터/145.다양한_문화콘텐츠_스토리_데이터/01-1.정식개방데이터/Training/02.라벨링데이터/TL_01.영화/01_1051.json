@@ -1,0 +1,2507 @@
+{
+    "id": "01_1051",
+    "type": "movie",
+    "title": "외계인이라도 우리를 구해줬으면",
+    "genre": [
+        "SF",
+        "코미디",
+        "판타지"
+    ],
+    "year": 1989,
+    "theme": "추구",
+    "concept": "식당 운영하는 C008는 같은 건물 세입자들과 재건축으로 건물주에게 의뢰받은 깡패에게 집을 나가라며 협박을 당한다. 우주에서 로봇들이 날아와 집을 고치고 건물 세입자들과 친해진다. 깡패는 건물에 불을 질러 망가트리지만 로봇들이 돌아와 건물을 새로 지어 주고 세입자들이 행복하게 살아간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "세대를 초월한 우정",
+    "main_character": "성실함",
+    "conflict": "건물주의 재건축으로 깡패를 고용해 C008와 세입자들은 나가라며 괴롭힌다. 우주에서 로봇이 날아와 집을 고치며 세입자들과 친해진다. 깡패는 건물에 불이 질러 건물이 불타 버리고 로봇들이 돌아와 건물을 새로 지어 준다 세입자 들을 건물로 들어가 행복하게 산다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010"
+    ],
+    "units": [
+        {
+            "id": "01_1051_01",
+            "next_id": "01_1051_02",
+            "characters": [
+                "C007",
+                "C008"
+            ],
+            "stage": "Main Character",
+            "storyline": "C007는 치매인 듯 자신의 사는 곳을 철거하러 온 인부들과 친하게 인사를 하고 남편 C008의 식당에 손님으로 식사를 한다.",
+            "unit_motif": "치매",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "중기계들은 폐허가 된 건물들을 부수고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C007는 인부들에게 친절하게 인사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "궁금하다",
+                    "content": "인부들은 C007가 누구인지 모른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C007는 그 뒤로 카트를 끌며 걸어가 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C007는 재개발이 한창인 거리를 담배를 물고 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "C007는 자신이 어디를 걷는지 확인을 하지만 어딘지 모른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "걱정",
+                    "content": "사람들은 C007가 사라졌다며 걱정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 앞",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "인부는 중장비를 끌고 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 앞",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "화를 내는 C008에게 햄버거 먹으러 왔다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C007는 식당에 들어와 식사를 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_02",
+            "prev_id": "01_1051_01",
+            "next_id": "01_1051_03",
+            "characters": [
+                "C002",
+                "C006",
+                "C003",
+                "C009",
+                "C007",
+                "C008"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C006는 재건축을 하기 위해 아파트에서 사람들을 몰아내려고 한다.",
+            "unit_motif": "지리적 고립",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "괴롭다",
+                    "content": "C002가 집으로 들어가려고 하는데 불량배들이 괴롭힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "짜증나다",
+                    "content": "C006는 편지를 확인하는 C002에게 전 남자친구는 이제 안 돌아온다고 얘기해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "약오르다",
+                    "content": "C006는 C002에게 돈을 주며 집을 빼라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006는 사람들을 이주 시키기 위해 폭력을 휘두르며 돈을 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009 집",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006와 불량배들은 C009의 집으로 들어와 돈을 주며 행패를 부린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006가 식당에 돈을 주며 행패 부린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "애틋하다",
+                    "content": "노망이 든 C007는 C006를 아들로 착각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 앞",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "당황하다",
+                    "content": "C008는 불량배들에게 의해 식당 밖으로 쫓겨난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "단호하다",
+                    "content": "불량배들이 식당을 부수기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "괴롭다",
+                    "content": "C009, C002, C006는 식당 부수는 소리와 함께 집에서 괴로워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C008는 자동차를 타고 가는 비서에게 소리를 지르며 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "절박하다",
+                    "content": "C008가 경찰에게 신고를 하지만 별 도움이 되질 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "단호하다",
+                    "content": "C003은 건물을 보존해야 된다며 시에 신고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "만들다",
+                    "emotion": "참담하다",
+                    "content": "C008는 난장판이 된 식당을 청소한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_03",
+            "prev_id": "01_1051_02",
+            "next_id": "01_1051_04",
+            "characters": [
+                "C007",
+                "C008",
+                "C008 친구 부부",
+                "C009",
+                "C002",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C006의 괴롭힘에 친한 친구 부부마저 아파트를 떠나자 C007 부부는 어떻게 해야 할지 착잡해 한다.",
+            "unit_motif": "지리적 고립",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C008 친구 부부"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C008의 친구 부부는 C006의 돈을 받고 아파트를 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C008 친구 부부"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "즐겁다",
+                    "content": "C007는 아무것도 모른 채 춤추며 좋아하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009 집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "허무하다",
+                    "content": "C009는 부서진 집을 고치며 한숨을 쉰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "마시다",
+                    "emotion": "애틋하다",
+                    "content": "C008는 C007에게 약을 먹여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "심란하다",
+                    "content": "C002는 한숨을 쉬며 집을 정리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "궁금하다",
+                    "content": "창밖으로 그림이 떨어져 나가본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "화나다",
+                    "content": "윗집에 살고 있는 C003이 그림들을 밖으로 던져 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "편안하다",
+                    "content": "C007는 힘들어하는 C008에게 노래를 불러주며 잠자리에 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "보다",
+                    "emotion": "애틋하다",
+                    "content": "C008는 C007를 애틋하게 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "보다",
+                    "emotion": "사랑스럽다",
+                    "content": "C008는 C007를 사랑스럽게 보살핀다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_04",
+            "prev_id": "01_1051_03",
+            "next_id": "01_1051_05",
+            "characters": [
+                "C008",
+                "C007"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C006 때문에 C008는 분노를 표출한다. 하지만 어쩔 도리 없는 자신의 상황을 떠올리곤 하늘에 기도한다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Approaching the threshold(임계점 도달)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C008는 C007를 재우고 남은 살림을 하기 위해 거실로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "화나다",
+                    "content": "빨래를 하고 설거지 통으로 오지만 C006와 깡패들이 가게서 행패를 부린 것이 생각나 화가 난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "짜증나다",
+                    "content": "C008는 설거지를 하다 분노를 참을 수 없는지 짜증을 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "절박하다",
+                    "content": "C008는 누구라도 도와주길 간절히 바란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "C007와 C008는 자고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "창밖에서 외계 생명체가 들어와 집안을 살펴본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "만들다",
+                    "emotion": "만족하다",
+                    "content": "창밖으로 어떤 신호를 보내자 다른 외계 생명체가 집으로 들어와 전기를 빨아먹은 후 날아다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "C007가 소리를 듣고 일어나 보면 찢어져있던 사진이 원상복귀되어 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "만나다",
+                    "emotion": "궁금하다",
+                    "content": "C007는 전자제품이 어디론가 가는 걸 따라가본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "만나다",
+                    "emotion": "놀라다",
+                    "content": "옥상 안 창고에서 C001과 C005을 보게 된다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_05",
+            "prev_id": "01_1051_04",
+            "next_id": "01_1051_06",
+            "characters": [
+                "C007",
+                "C008",
+                "C009",
+                "C003",
+                "C002",
+                "C001",
+                "C005"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "사람들은 자신의 집이 고쳐진 것을 보고 놀라워한다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C007는 어제 본 C001과 C005 때문에 집에 있는 접시들을 던져본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "C007는 찢어진 사진이 원상복귀된 것을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009 집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "C009는 집 바닥에 동전으로 C001의 모습이 만들어져 있는 걸 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "버린 그림을 다시 주우러 갔다가 C003은 망가진 방문이 고쳐진 걸 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "복도에 모인 사람들이 뭔가 이상한 일들이 일어났다며 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C007는 옥상 창고에서 먹이를 뿌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "사람들에게 C001과 C005의 얘기를 해보지만 믿지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 창고",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만들다",
+                    "emotion": "당황하다",
+                    "content": "C003은 창고에 들어갔다 튕겨 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 창고",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "C007가 C008의 시계를 부숴버리자 C001과 C005이 나와 금세 고쳐버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "놀라다",
+                    "content": "사람들은 원상 복구된 식당을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C007와 C008가 좋아라 춤을 춘다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_06",
+            "prev_id": "01_1051_05",
+            "next_id": "01_1051_07",
+            "characters": [
+                "C009",
+                "C001",
+                "C007",
+                "C008",
+                "C003",
+                "C002",
+                "C006",
+                "C005"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "외계 로봇의 존재를 확인하고 놀라는 사람들. 게다가 로봇들이 고장 난 것들을 모두 고쳐주는 걸 알게 된다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "비서는 식당의 상황을 건물주에게 보고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C009는 날아다니는 C001을 보곤 좋아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "사람들은 C008의 집에 모여 C001과 C005이 어떤 물체인지 얘기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 밖",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "당황하다",
+                    "content": "C006는 식당이 모두 고쳐져 있는 걸 보고 황당한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C008, C003, C009는 날아다니는 C001과 얘기를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "담담하다",
+                    "content": "사람들은 식사를 하러 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "만족하다",
+                    "content": "C005이 전기를 충전하고 있다 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "놀라다",
+                    "content": "C006는 식당이 고쳐진 상황에 대해 물어보러 왔다 C001과 C005을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무섭다",
+                    "content": "C006는 C001과 C005을 따라 옥상으로 올라왔다 공격을 당하고 놀라 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "약오르다",
+                    "content": "사람들은 놀라 도망 나가는 C006를 보며 비웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "궁금하다",
+                    "content": "C008는 C001에게 왜 왔는지를 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "기대되다",
+                    "content": "C001은 무언가를 계속해서 고치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "C007는 C002에게 아들에 대해 얘기해준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_07",
+            "prev_id": "01_1051_06",
+            "next_id": "01_1051_08",
+            "characters": [
+                "C007",
+                "C008",
+                "C003",
+                "C009",
+                "C002",
+                "C006",
+                "C001",
+                "C005"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "외계 로봇들을 보며 희망을 품게 되는 사람들. C006는 건물을 철거하기 위해 사람들을 쫓아낼 방법을 강구한다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "즐겁다",
+                    "content": "사람들은 하늘을 날아다니는 C001과 C005을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "궁금하다",
+                    "content": "창고 안으로 들어가 빛을 발한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "기대되다",
+                    "content": "사람들은 배고파 할 거 같다며 C001과 C005에게 전기를 갖다 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "자신감 있다",
+                    "content": "C001과 C005은 전기를 먹고 빛이 밝아진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "궁금하다",
+                    "content": "C006는 C007의 식당을 감시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "단호하다",
+                    "content": "다른 불량배들과 건물을 철거할 계획을 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C003",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C003과 C002는 물건들을 고치는 C001과 C005을 바라보며 대화는 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C003은 임신했지만 남자가 안 오는 C002와 여자친구가 도망가 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서럽다",
+                    "content": "서로의 처지에 대해 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C003의 집 안에 C002가 그린 그림들이 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_08",
+            "prev_id": "01_1051_07",
+            "next_id": "01_1051_09",
+            "characters": [
+                "C006",
+                "C003",
+                "C002",
+                "C007",
+                "C008",
+                "C009",
+                "C001",
+                "C005"
+            ],
+            "stage": "Villains Move",
+            "storyline": "아파트 안에서 무언가 일이 벌어지고 있다는 걸 느낀 C006가 건너편 건물에서 아파트를 감시한다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006는 C001과 C005에 대해 얘기했다 친구들에게 놀림당한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "아파트가 번쩍이는 걸 목격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006는 자신의 이야기가 맞는다며 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C006의 친구들은 끝까지 믿지 않고 집으로 가버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "C006는 건너편 아파트로 가서 감시를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "의심스럽다",
+                    "content": "아파트의 조명이 온통 번쩍인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "사람들은 무슨 일인지 사람들이 모인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "걱정",
+                    "content": "C005은 몸에서 빛을 내며 부르르 떨다 전기가 떨어지자 툭 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "사람들은 전기가 나간 것을 알고 지하 전기 시설로 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 지하",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "사람들은 퓨즈가 나간 걸 고친다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_09",
+            "prev_id": "01_1051_08",
+            "next_id": "01_1051_10",
+            "characters": [
+                "C007",
+                "C008",
+                "C003",
+                "C009",
+                "C002",
+                "C001",
+                "C005",
+                "C006",
+                "아기 로봇"
+            ],
+            "stage": "Defeat",
+            "storyline": "외계 로봇은 아기 로봇들을 낳는다. 하지만 한 아기 로봇은 죽은 채로 태어난다. C006는 건물 철거 계획을 세운다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "사랑스럽다",
+                    "content": "C001과 C005이 C004을 낳았다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기쁘다",
+                    "content": "사람들은 놀라며 좋아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기대되다",
+                    "content": "C005은 마지막에 몸을 부르르 떨며 로봇 하나를 더 낳는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "안타깝다",
+                    "content": "아기 로봇은 하지만 눈을 감은 채 움직이지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐건물",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "비장하다",
+                    "content": "C006는 자다 깨어나 아파트 관찰한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "아기 로봇"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "슬프다",
+                    "content": "사람들은 깨어나지 않는 아기 로봇을 묻어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "아기 로봇"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "자신감 있다",
+                    "content": "C009가 죽은 아기 로봇을 가지고 도망을 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "아기 로봇"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "실망하다",
+                    "content": "C002는 C003이 죽은 아기 로봇을 대하는 태도에 실망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "아기 로봇"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "담담하다",
+                    "content": "사람들은 도망치는 C009를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009 집",
+                    "character": [
+                        "C009",
+                        "아기 로봇"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "C009는 집으로 들어가 아기 로봇을 들고 고치기 시작한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_10",
+            "prev_id": "01_1051_09",
+            "next_id": "01_1051_11",
+            "characters": [
+                "C007",
+                "C008",
+                "C003",
+                "C009",
+                "C001",
+                "C005",
+                "C004",
+                "아기 로봇"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "외계 로봇들은 아기 로봇들에게 나는 법을 가르친다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "C001과 C005은 C004에게 나는 연습을 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "망설이다",
+                    "content": "C004은 무서운 듯 못 날고 망설인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "말하다",
+                    "emotion": "열광하다",
+                    "content": "사람들은 C004을 응원해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "안타깝다",
+                    "content": "C004이 날려고 책장 위를 뛰어내리지만 날지 못하고 추락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "안심/안도하다",
+                    "content": "C008는 떨어지는 C004을 안전하게 잡아 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "메이는 C004에게 할 수 있다며 응원을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "사랑스럽다",
+                    "content": "C008는 책장 위로 C004을 올려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "사람들은 독려를 하며 C004을 응원한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C001과 C005은 아기 로봇이 살아난 걸 보고 좋아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C001",
+                        "C005",
+                        "C004",
+                        "아기 로봇"
+                    ],
+                    "act": "놀다",
+                    "emotion": "불만족스럽다",
+                    "content": "C003은 괜한 심술을 부리고 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_11",
+            "prev_id": "01_1051_10",
+            "next_id": "01_1051_12",
+            "characters": [
+                "C007",
+                "C008",
+                "C001",
+                "C005",
+                "C004"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "외계 로봇들은 식당 일을 돕는다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기대되다",
+                    "content": "C007와 C008는 식당 문을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "만들다",
+                    "emotion": "기대되다",
+                    "content": "C007가 로봇들과 함께 수프를 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "C008는 활발해진 C007를 보며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "당황하다",
+                    "content": "C007가 수프에서 젓가락이 올라와 신기해 꺼내 보니 C004이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "보람차다",
+                    "content": "로봇들은 처음 하는 주방 일로 서툴지만 서로 이야기를 하며 준비를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "주방에 웃음이 떠나지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "행복하다",
+                    "content": "C005 C001은 C007를 보며 행복의 눈물을 짓는 C008를 옆에서 위로해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "C008는 로봇들에게 고맙다고만 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C008는 로봇에게 C007의 치매를 고쳐 줄 수 있냐 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "거부감",
+                    "content": "C005과 C001은 인간은 못 고친다고 표현한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_12",
+            "prev_id": "01_1051_11",
+            "next_id": "01_1051_13",
+            "characters": [
+                "C006",
+                "C003",
+                "C002",
+                "C001",
+                "C007",
+                "C008",
+                "C009",
+                "C005",
+                "C004"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C006가 들어와 아파트 수도관과 전기를 부숴버리고 도망치다 외계 로봇 하나마저 상처를 입힌다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 밖",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "단호하다",
+                    "content": "C006는 아파트에 침투하기 위해 창문을 부순다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "담담하다",
+                    "content": "C003은 C002 집에서 자신의 그림을 가지고 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002는 C010가 다시 떠났다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "기대되다",
+                    "content": "C003에게 다시 자기 그림을 그려 달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 집",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "애틋하다",
+                    "content": "C003과 C002는 키스를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 지하",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "해치다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006는 지하 배수관이며 전기들을 도끼로 부수곤 숨는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 지하",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "해치다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C001이 C006를 발견하곤 쳐다보자 도끼로 내리쳐 상처를 입히곤 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "해치다",
+                    "emotion": "통쾌하다",
+                    "content": "도망가려는 C006를 C009가 한방에 날려 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 복도",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "해치다",
+                    "emotion": "괴롭다",
+                    "content": "C007는 C006가 쓰러지자 괴로워하며 아들 이름을 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009 집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C009는 집으로 들어가 아기 로봇들을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C009는 아파트 밖으로 나와 피리를 불며 로봇들을 찾는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_13",
+            "prev_id": "01_1051_12",
+            "next_id": "01_1051_14",
+            "characters": [
+                "C001",
+                "C005",
+                "C008",
+                "C003",
+                "C009",
+                "C002",
+                "C007",
+                "C004"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "외계 로봇들은 사람들에게 실망해 도망친다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만들다",
+                    "emotion": "안타깝다",
+                    "content": "C005은 옥상 창고에서 C001을 고친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "뻔뻔하다",
+                    "content": "거리를 걸으며 로봇들을 찾아 헤매는 C008, C003, C009, C002, C009가 확성기를 들고 어디론가 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "act": "부수다",
+                    "emotion": "비장하다",
+                    "content": "건물주가 휘발유통을 들고 아파트 앞으로 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "자신감 있다",
+                    "content": "C009는 확성기를 들고 건물 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "act": "부수다",
+                    "emotion": "비장하다",
+                    "content": "건물주는 식당에 불을 내려고 장치를 설치한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "절박하다",
+                    "content": "C009는 건물 옥상에서 확성기를 통해 피리를 불며 로봇들을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "반갑다",
+                    "content": "아기 로봇들이 C009의 피리 소리를 듣고 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "자신감 있다",
+                    "content": "C005은 C001을 다 고친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "애틋하다",
+                    "content": "C007는 아기 로봇들을 찾아가라고 얘기해 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 옥상",
+                    "character": [
+                        "C007",
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "사랑스럽다",
+                    "content": "C001과 C005은 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 옥상",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "사랑스럽다",
+                    "content": "C001과 C005은 아기 로봇들을 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 옥상",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "기쁘다",
+                    "content": "사람들이 지켜보며 좋아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 옥상",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "긴장되다",
+                    "content": "C001과 C005은 하지만 아까의 사고로 인해 사람들을 경계한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하늘",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "자신감 있다",
+                    "content": "C001과 C005은 아기 로봇들과 함께 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_14",
+            "prev_id": "01_1051_13",
+            "next_id": "01_1051_15",
+            "characters": [
+                "C006",
+                "C007"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "해결사가 아파트를 태워버릴 장치를 한다. C006는 아파트 안에 C007가 있는 걸 확인하고 구하러 뛰어든다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "긴장되다",
+                    "content": "건물주가 아파트까지 태우기 위해 장치를 하는데 C006가 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "단호하다",
+                    "content": "C006는 자기가 해결할 거라며 다툰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "불쾌하다",
+                    "content": "C006는 건물주와 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "당황하다",
+                    "content": "그런데 아파트 안에 C007가 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "단호하다",
+                    "content": "C006는 건물주에게 폭파를 막아야 한다지만 건물주는 이미 늦었다고 말하곤 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "담담하다",
+                    "content": "C006는 C007를 구하기 위해 올라온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C006는 아들 행세를 하며 C007를 빼내려고 하지만 갑자기 C007는 C006를 향해 자기 아들이 아니라고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "그립다",
+                    "content": "C007는 방 안으로 들어가 이미 오래전에 사고로 죽은 아들의 기사를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "절박하다",
+                    "content": "C006는 C007에게 나오라고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 지하",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "혼란스럽다",
+                    "content": "폭파를 막아보기 위해 C006가 달려가보지만 이미 아파트에 불이 붙기 시작했다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 집",
+                    "character": [
+                        "C007",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "절박하다",
+                    "content": "C006는 C007를 구하기 위해 불이 난 아파트에 뛰어든다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_15",
+            "prev_id": "01_1051_14",
+            "next_id": "01_1051_16",
+            "characters": [
+                "C008",
+                "C003",
+                "C009",
+                "C002",
+                "C007",
+                "C006",
+                "아기 로봇"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "아파트가 완전히 전소된다. C007는 병원이 실려가고 수많은 로봇들이 아파트를 찾아온다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "사람들은 아파트로 돌아오는 길에 소방차들을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "놀라다",
+                    "content": "사람들은 불타고 있는 아파트를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "자신감 있다",
+                    "content": "C006가 C007를 구출해 비상 사다리로 내려온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "걱정",
+                    "content": "C007는 앰뷸런스에 실려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "부수다",
+                    "emotion": "안타깝다",
+                    "content": "불 때문에 아파트가 완전히 전소된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "부수다",
+                    "emotion": "허무하다",
+                    "content": "C009는 전소된 아파트 앞에서 멍하게 앉아 있는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "부수다",
+                    "emotion": "짜증나다",
+                    "content": "일꾼들은 빨리 밀어버리라는 비서의 명령에 C009가 비키면 일 시작할 거라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C009",
+                        "아기 로봇"
+                    ],
+                    "act": "상승하다",
+                    "emotion": "반갑다",
+                    "content": "C009에게 아기 로봇이 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C009",
+                        "아기 로봇"
+                    ],
+                    "act": "상승하다",
+                    "emotion": "반갑다",
+                    "content": "C009는 아기 로봇을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트 앞",
+                    "character": [
+                        "C009",
+                        "아기 로봇"
+                    ],
+                    "act": "상승하다",
+                    "emotion": "놀라다",
+                    "content": "로봇들은 그 뒤로 하늘을 뒤덮는 수많은 로봇들이 왔다."
+                }
+            ]
+        },
+        {
+            "id": "01_1051_16",
+            "prev_id": "01_1051_15",
+            "characters": [
+                "C007",
+                "C008",
+                "C006",
+                "C003",
+                "C002",
+                "C009"
+            ],
+            "stage": "Resurrection",
+            "storyline": "사람들은 외계 로봇들이 아파트를 새 건물로 만들어 놓은 걸 보고 좋아한다. 빌딩 사이에 조그만 아파트 하나만이 덩그러니 서 있다.",
+            "unit_motif": "세대를 초월한 우정",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C007는 병실에서 퇴원을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "미안하다",
+                    "content": "C006가 미안하다며 꽃을 가지고 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "애틋하다",
+                    "content": "C008는 우는 C007를 안아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "경찰들은 C007, C008, C003, C002를 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C002"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "경찰은 사람들에게 밤새 건물이 복원되었다고 말하자 사람들이 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "감탄하다",
+                    "content": "사람들은 완전히 새 건물로 복원된 아파트를 구경한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기대되다",
+                    "content": "옥상에 C009가 서 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "단호하다",
+                    "content": "사장은 비서를 해고시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아파트",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기대되다",
+                    "content": "사람들은 아파트 안으로 들어선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하늘",
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "로봇들은 하늘을 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C007",
+                        "C008",
+                        "C003",
+                        "C009",
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "편안하다",
+                    "content": "마천루 사이에 C007와 C008의 아파트만이 조그맣게 서 있다."
+                }
+            ]
+        }
+    ]
+}

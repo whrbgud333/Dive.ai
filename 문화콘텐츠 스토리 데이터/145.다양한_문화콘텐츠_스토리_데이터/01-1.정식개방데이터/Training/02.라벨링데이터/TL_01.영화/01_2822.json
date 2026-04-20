@@ -1,0 +1,3648 @@
+{
+    "id": "01_2822",
+    "type": "movie",
+    "title": "오늘부터 초능력자",
+    "genre": [
+        "판타지",
+        "액션"
+    ],
+    "year": 2021,
+    "theme": "성숙",
+    "concept": "C003는 자신의 초능력을 숨기고 평범한 일상을 살아간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "뜻밖의 초능력",
+    "main_character": "히어로",
+    "conflict": "C003는 숨겨왔던 초능력을 발휘해 C001를 저지한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "악마",
+        "C012"
+    ],
+    "units": [
+        {
+            "id": "01_2822_01",
+            "next_id": "01_2822_02",
+            "characters": [
+                "C001",
+                "C002",
+                "C003"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "과거, C001와 C002가 결혼해 C003를 낳는다.",
+            "unit_motif": "결혼",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 신비의 도시로 향하는 입구를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "신비의 도시가 어디지?"
+                },
+                {
+                    "type": "script",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "당신을 죽이고 싶지 않으니, 그만 돌아가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C001가 C002를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C001와 C002가 무술을 하며 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 신비의 도시 입구",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C001와 C002가 가까이에서 눈이 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 아들 C003에게 이야기를 하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그렇게 C001랑 결혼하게 된 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "절대무기를 가진 사람은 엄청 강하잖아요. 근데 어떻게 엄마가 이겼어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "신비의 도시에 사는 사람들은 특별해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C002가 C003의 목에 목걸이를 걸어준다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "이것만 있으면, 언제든 신비의 도시로 돌아갈 수 있어."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_02",
+            "prev_id": "01_2822_01",
+            "next_id": "01_2822_03",
+            "characters": [
+                "C003",
+                "C004"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003는 C004와 호텔에서 일을 한다.",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "content": "C003가 알람 소리에 벌떡 일어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "난감하다",
+                    "content": "C003가 나라 2에 있는 C007에게서 온 엽서를 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "돕다",
+                    "content": "C003가 호텔 손님을 안내한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C004가 손님의 차를 보더니 달려간다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "내가 할래!"
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "난감하다",
+                    "content": "사고 치려고? 안돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "설레다",
+                    "content": "C004가 차에 앉아 시동을 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "설레다",
+                    "content": "절대 사고 안 칠 테니, 같이 가자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003, C004가 함께 차를 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 과속을 하며 차도를 달린다."
+                },
+                {
+                    "type": "script",
+                    "location": "호텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "내가 이럴 줄 알았어!"
+                }
+            ]
+        },
+        {
+            "id": "01_2822_03",
+            "prev_id": "01_2822_02",
+            "next_id": "01_2822_04",
+            "characters": [
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "E001",
+                "E008"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C003가 E003에게 목걸이를 뺏긴다.",
+            "unit_motif": "불편한 만남",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "다음날 아침, C003와 C004가 함께 버스로 출근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C005, C006가 C003에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "무감각함",
+                    "content": "그 목걸이 내놔."
+                },
+                {
+                    "type": "script",
+                    "location": "버스 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "아는 사람이야?"
+                },
+                {
+                    "type": "script",
+                    "location": "버스 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "불안하다",
+                    "content": "모르는 사람이야. 사람 잘못 보신 것 같은데요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "무감각함",
+                    "content": "C005, C006가 C003를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "때리다",
+                    "emotion": "단호하다",
+                    "content": "C003가 C005, C006를 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "E001이 비명을 지른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "E008가 갑작스러운 난동을 보다가 다른 자동차와 부딪힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "E008"
+                    ],
+                    "act": "쓰러지다",
+                    "content": "E008가 정신을 잃고 쓰러진다."
+                },
+                {
+                    "type": "script",
+                    "location": "버스 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "네가 가서 운전해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "얼떨결에 C004가 운전대를 잡고 운전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "content": "C003가 C005, C006를 차 밖으로 떨어트린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "당황하다",
+                    "content": "C003가 목걸이가 없어진 걸 알아챈다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_04",
+            "prev_id": "01_2822_03",
+            "next_id": "01_2822_05",
+            "characters": [
+                "C003",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003가 C004에게 비밀을 털어놓는다.",
+            "unit_motif": "비밀의 공유",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003가 급하게 집으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "C004가 C003를 따라 들어가며 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "어디 가려고?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "나라 2에 살고 있는 여동생이 위험할지도 몰라."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "난 네 오랜 친구야. 너에게 뭔가 비밀이 있다고 생각했지만 모른 척했어. 하지만 너 오늘 죽을 뻔했잖아! 대체 너 정체가 뭐야?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "아까 그 사람들은 내 아버지가 보낸 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004가 C003의 말에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "content": "비행기에서 마저 이야기해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2행 비행기",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 자신의 과거에 대해 털어놓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2행 비행기",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나는 C001에 의해 어릴 때부터 조직원으로 키워졌어."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2행 비행기",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "놀라다",
+                    "content": "그랬구나. 어쩐지 아까 싸움을 엄청 잘하더라."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2행 비행기",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 내게 살인도 지시했었어. 하지만 난 차마 살인까지는 할 수 없었어. 그래서 도망쳤어."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_05",
+            "prev_id": "01_2822_04",
+            "next_id": "01_2822_06",
+            "characters": [
+                "C003",
+                "C004",
+                "E002",
+                "C007"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003와 C007이 재회한다.",
+            "unit_motif": "가족 불화",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003와 C004가 클럽 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "E002이 C003를 안내한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "저는 여동생을 만나러 왔는데요."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기대되다",
+                    "content": "싸움에서 이기면 C007을 찾게 도와줄게요."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "기대되다",
+                    "content": "너 잘 싸우잖아! 할 수 있어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "거부감",
+                    "content": "C003가 마지못해 링 위로 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C007이 링 위로 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003가 C007을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "content": "C007이 C003를 무자비하게 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "아버지가 널 찾아! 네가 위험할까 봐 온 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "배신감",
+                    "content": "날 버리고 갈 때는 언제고, 이제 와서 날 걱정해?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나라 2 클럽 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "C007이 C003를 세게 때린다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_06",
+            "prev_id": "01_2822_05",
+            "next_id": "01_2822_07",
+            "characters": [
+                "C003",
+                "C004",
+                "C007"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001의 조직원들이 C007의 목걸이를 뺏으러 온다.",
+            "unit_motif": "가족 불화",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "content": "C003, C004가 사무실에 앉아있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C007이 사무실 안으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "네가 여기 사장이야?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무감각함",
+                    "content": "그래. 용건이 뭐야?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "C001 조직에서 내 목걸이를 훔쳐 갔어. 아마 너의 목걸이도 뺏으러 올 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C007이 자신의 목에 걸린 목걸이를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "거부감",
+                    "content": "난 오빠 도움 같은 거 필요 없어."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "그러면 엽서는 왜 보내?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무감각함",
+                    "content": "그런 거 보낸 적 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C003가 당황한 채 C007을 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "content": "갑자기 클럽 안이 어수선하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "도망치다",
+                    "content": "C007이 E003이 온 것을 눈치채고 사무실을 빠져나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_07",
+            "prev_id": "01_2822_06",
+            "next_id": "01_2822_08",
+            "characters": [
+                "C003",
+                "C004",
+                "E003",
+                "C007",
+                "C006",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C003가 C001와 재회한다.",
+            "unit_motif": "재회",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003가 창문을 깨고 탈출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "C003가 C004에게 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "도망쳐야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "무섭다",
+                    "content": "C004가 아찔한 높이에 기겁하며 거절한다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "여기를 어떻게 건너라고?"
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "다른 방법이 없잖아!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "공격하다",
+                    "content": "E003이 C003를 따라와 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "C004가 아래로 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "돕다",
+                    "emotion": "담담하다",
+                    "content": "C007이 나타나 C004를 붙잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "무감각함",
+                    "content": "C006가 C007의 목걸이를 훔친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실 외벽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C006가 사무실로 다시 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003가 C006를 쫓아 사무실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 사무실로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "그립다",
+                    "content": "네가 보고 싶었는데, 이렇게 만나는구나. 이제 집으로 돌아가자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C003가 말없이 C001를 본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_08",
+            "prev_id": "01_2822_07",
+            "next_id": "01_2822_09",
+            "characters": [
+                "C001",
+                "C003",
+                "C004",
+                "C007",
+                "E003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 신비의 도시 안에 C002가 살아있다고 말한다.",
+            "unit_motif": "상황 파악",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C007"
+                    ],
+                    "act": "먹는다",
+                    "content": "C001의 집으로 돌아간 C001, C003, C004, C007이 함께 식사를 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "짜증나다",
+                    "content": "내가 어디 있는지 어떻게 알았어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "네 위치는 늘 알고 있었어. 이제 내 옆에서 날 도와라."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "거부감",
+                    "content": "싫어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 죽은 후에, 나는 C002의 목소리를 들었어."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "무슨 말씀이세요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C002가 자신을 신비의 도시에서 빼내달라고 소리쳤어."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "괘씸하다",
+                    "content": "C002는 나와 결혼해서 신비의 도시에서 같이 살고 싶었지만, 신비의 도시에서는 나를 받아주지 않았어."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "content": "그래서 신비의 도시에 있는 감옥에 C002를 영원히 가둬버린 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "C002는 돌아가셨어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "content": "C001가 C003와 C007의 목걸이를 조작해서 지도를 손에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003, C004, C007이 놀라서 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "드디어 손에 넣었다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "C001가 E003에게 외친다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "신비의 도시로 쳐들어가서 C002를 구해오자!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "E003이 일제히 소리를 지른다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불안하다",
+                    "content": "신비의 도시 사람들이 문을 못 열게 할 수도 있잖아요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그러면 다 죽여버릴 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "당신의 주장은 망상에 불과해요!"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "저들을 가둬라!"
+                }
+            ]
+        },
+        {
+            "id": "01_2822_09",
+            "prev_id": "01_2822_08",
+            "next_id": "01_2822_10",
+            "characters": [
+                "C003",
+                "C004",
+                "C007",
+                "C008",
+                "C009"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C003, C004, C007, C008는 C009의 안내를 받아 신비의 도시로 가기로 한다.",
+            "unit_motif": "탈출",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "C003, C004, C007이 갇힌 채 방을 서성인다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "혼란스럽다",
+                    "content": "난 처음에 C001가 거짓말을 하는 줄 알았는데, 지도를 보고 혼란스럽네."
+                },
+                {
+                    "type": "script",
+                    "location": "창고",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "혼란스럽다",
+                    "content": "C002가 어렸을 때 신비의 도시에 대해 자주 말해줬어. 하지만 그냥 지어낸 이야기라고 생각했는데, 이제는 잘 모르겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "창고",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001 말이 사실이라면?"
+                },
+                {
+                    "type": "script",
+                    "location": "창고",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "답답하다",
+                    "content": "C002의 동료들이 C002를 가뒀단 말이야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "궁금하다",
+                    "content": "그때, C003가 동굴 안에서 신음소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C003",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "C003, C007, C004가 동굴 쪽으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "소리치다",
+                    "content": "C008가 동굴 안에서 연기를 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C003",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C003, C007, C004가 당황한 채 C008를 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "왜 여기 잡혀 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "매주 여기서 공연 중이야."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그러니까 그냥 광대라는 거네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "숨어있던 C009가 모습을 드러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C003",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003, C007, C004가 특이한 외형의 C009를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "도대체 저게 뭐예요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "귓속말하다",
+                    "content": "C009가 C008에게 귓속말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자기가 C002와 함께 신비의 도시에서 살았다는구나. 신비의 도시로 돌아가고 싶어 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "반갑다",
+                    "content": "C003가 반가운 듯 C009를 쓰다듬는다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "content": "자신이 숲에 가면 신비의 도시로 갈 수 있는 길이 열린다는구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "부수다",
+                    "content": "C007이 동굴 벽을 박살 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "창고 안 동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "어서 도망치자."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_10",
+            "prev_id": "01_2822_09",
+            "next_id": "01_2822_11",
+            "characters": [
+                "C003",
+                "C004",
+                "C007",
+                "C009",
+                "C008"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C003, C004, C007, C009, C008가 신비의 도시에 도착한다.",
+            "unit_motif": "여정",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차고",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "도망치다",
+                    "content": "C003, C004, C007, C009, C008가 차를 타고 C001의 집을 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003, C004, C007, C009, C008가 숲 앞에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "초조하다",
+                    "content": "C003, C004, C007, C009, C008가 길이 열리길 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "언제까지 여기서 기다리고 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C009가 지금 가면 된대!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C004가 숲 사이로 운전해 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "불안하다",
+                    "content": "C003와 C007이 울창한 숲을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "스피드를 올려."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "왜요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "content": "차가 지나온 숲이 빠르게 사라지고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003와 C007이 숲을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "대체 이게 무슨 일이야?"
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "신비의 도시를 보호하는 거지. 안 그러면 위험해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시로 가는 숲 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "초조하다",
+                    "content": "C004가 다급하게 운전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C003, C004, C007, C009, C008가 신비의 도시에 도착한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_11",
+            "prev_id": "01_2822_10",
+            "next_id": "01_2822_12",
+            "characters": [
+                "C003",
+                "C004",
+                "C007",
+                "C009",
+                "C008",
+                "E004",
+                "E009",
+                "C010"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C003가 C010을 통해 신비의 도시의 지하 감옥에 대해서 알게 된다.",
+            "unit_motif": "새로운 만남",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003, C004, C007, C009, C008가 창밖의 신비한 동물들을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "의심스럽다",
+                    "content": "E004이 모여있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007",
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003, C004, C007, C009, C008가 차에서 내린다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "안녕하세요. 저의 어머니가 여기 살았다고 들었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "E009"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "단호하다",
+                    "content": "좋은 말로 할 때 당장 여기서 떠나라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "단호하다",
+                    "content": "E004이 창을 들고 경계한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "C010이 신비의 도시 사람들 앞을 막는다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "다들 뭐 하는 거야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "보다",
+                    "emotion": "애틋하다",
+                    "content": "C010이 C003, C007을 번갈아본다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "애틋하다",
+                    "content": "나는 C002의 언니야. 오랜만이구나."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "초조하다",
+                    "content": "C001가 신비의 도시로 오고 있는 것을 전하러 왔어요. 신비의 도시가 위험합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "신비의 도시에는 지하 감옥이 있어. 우리는 그걸 지키고 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "content": "C001는 그곳에 C002가 있다고 생각해요."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 말했대요."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "혹시 C001가 아직도 절대무기를 갖고 있니?"
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "그게 상관있나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C003",
+                        "C007",
+                        "C010"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C010의 안내에 따라 C003, C007이 이동한다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "옛날에 악마가 신비의 도시를 쳐들어왔어. 그리고 어느 날 수호자가 나타났지."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그가 악마를 막고, 지하 감옥 안에 악마를 봉인했어."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "지하 감옥을 부수려는 자들은 모두 어떤 유혹에 빠졌어. 자신이 가장 원하는 것을 손에 얻을 수 있다는 유혹 말이야."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "악마가 C001를 유인한다는 이야기죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 끼고 있는 절대무기가 악마를 해방시킬 수 있거든."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 안",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "C007, C003가 서로를 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_12",
+            "prev_id": "01_2822_11",
+            "next_id": "01_2822_13",
+            "characters": [
+                "C010",
+                "C007",
+                "C003",
+                "E004",
+                "C004",
+                "E009"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C003, C007, C004는 싸움에 대비해 각각 열심히 수련한다.",
+            "unit_motif": "수련/훈련",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "준다",
+                    "content": "C010이 C003와 C007에게 갑옷을 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "너희 엄마가 너희에게 주라고 하셨어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "애틋하다",
+                    "content": "C007과 C003가 갑옷을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "수련한다",
+                    "content": "E004이 C001의 습격을 대비해 수련을 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "content": "C007이 E004을 멍하니 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C010이 C007에게 무기를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "비장하다",
+                    "content": "C003는 C010에게 무술을 가르쳐달라고 부탁한다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "비장하다",
+                    "content": "C002는 C001를 이긴 유일한 사람이었어요. 저도 그 방법을 알려주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "비장하다",
+                    "content": "C010이 C003에게 무술을 가르친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "수련한다",
+                    "emotion": "비장하다",
+                    "content": "C007은 무기를 가지고 혼자 수련을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "한편, C004가 화살들을 안고, E009에게 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E009"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "E009가 C004를 보고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "화살 쏘는 연습을 시켜주마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "수련한다",
+                    "emotion": "비장하다",
+                    "content": "C004도 화살 쏘는 수련을 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_13",
+            "prev_id": "01_2822_12",
+            "next_id": "01_2822_14",
+            "characters": [
+                "C003",
+                "C004"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C003는 C004에게 자신이 살인을 했다고 고백한다.",
+            "unit_motif": "진실 고백",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "슬프다",
+                    "content": "C003가 과거의 일을 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 C003 옆에 다가가 앉는다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "괜찮아?"
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "내가 E006를 죽였어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "C004가 C003의 말에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "죽이고 후회했지만, 잊을 수가 없어."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "불안하다",
+                    "content": "C001는 너를 어릴 때부터 인간 병기로 키웠어. 그게 잘못된 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "이제는 C002의 고향까지 없애려고 해. 내가 C001를 죽이는 수밖에 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 자리를 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "C004가 C003를 걱정되는 눈으로 쳐다본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_14",
+            "prev_id": "01_2822_13",
+            "next_id": "01_2822_15",
+            "characters": [
+                "C002",
+                "C003",
+                "조직 1",
+                "E006",
+                "C007",
+                "C001"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 C002와 결혼한 이후 절대무기를 봉인하고 평화로운 삶을 살아갔다. 조직 1에 의해 C002가 살해되자, C001는 다시 폭주한다.",
+            "unit_motif": "연인의 죽음",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "content": "C002가 C003에게 무술을 가르치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "조직 1"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "조직 1이 C001의 집으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "C002가 조직 1을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "E006"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "비장하다",
+                    "content": "C001에게 빚을 갚으러 왔다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "아이들은 내버려 둬."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "E006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무감각함",
+                    "content": "그럼 네가 빚을 갚아라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 C003, C007에게 안으로 들어가라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "C003, C007이 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "걱정",
+                    "content": "C003가 집 안에서 창문으로 C002와 조직 1의 싸움을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "몇 시간 후, C001가 집으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "난장판이 된 집 마당에 C002가 쓰러진 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "슬프다",
+                    "content": "C003가 C002를 흔들어깨워본다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "일어나요, 엄마."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 C001의 집 마당",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "화나다",
+                    "content": "내가 절대무기를 봉인하지 않았더라면, C002는 죽지 않았을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 조직 1 본거지",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001, C003가 조직 1 본거지로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 조직 1 본거지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "무감각함",
+                    "content": "C001가 절대무기를 이용해 조직 1 일원들을 가차 없이 죽인다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_15",
+            "prev_id": "01_2822_14",
+            "next_id": "01_2822_16",
+            "characters": [
+                "E004",
+                "C001",
+                "E003",
+                "C003",
+                "C007",
+                "C010"
+            ],
+            "stage": "Defeat",
+            "storyline": "E004과 C001 간의 싸움이 시작된다.",
+            "unit_motif": "전쟁/전투/토벌",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "E004"
+                    ],
+                    "act": "기다리다",
+                    "content": "다음날 아침, E004이 마을 수호를 위해 무장을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001",
+                        "E003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001가 E003과 신비의 도시 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001",
+                        "E003",
+                        "E004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "비장하다",
+                    "content": "C001, E003, E004이 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "비장하다",
+                    "content": "C003, C007이 걸어오는 C001를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "C002를 가둔 자들을 보호하겠다는 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "답답하다",
+                    "content": "그건 악마의 농간에 불과해. 진실을 아직도 모르겠어?"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "화나다",
+                    "content": "길을 비켜라."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "거부감",
+                    "content": "절대 안 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "C001가 E003에게 공격을 지시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "E003",
+                        "E004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "비장하다",
+                    "content": "E003, E004이 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C003, C007도 함께 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 지하 감옥을 향해 걸어간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_16",
+            "prev_id": "01_2822_15",
+            "next_id": "01_2822_17",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "C003와 C001가 대립한다.",
+            "unit_motif": "가족 분열",
+            "causality": "Distortion(뒤틀림/왜곡)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "content": "C003는 C001가 지하 감옥으로 가려는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003가 C001의 뒤를 쫓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "너 혼자 나를 막을 수 있다고 생각해?"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "난 아버지가 두렵지 않으니까요."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "넌 내가 두려워서 평생 숨어 다니기만 했잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "C001가 C003를 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "넌 엄마가 죽을 때도 창문 뒤에서 지켜보기만 했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "content": "C003가 C001를 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "엄마가 죽은 후, 나랑 C007에게는 C001가 필요했어요!"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "하지만 당신은 절대무기에 집착했고, 나를 인간 병기로 키우기까지 했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C002가 다시 살아난들, 이렇게 바뀐 당신을 좋아할 것 같아요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "단호하다",
+                    "content": "C001가 C003를 때려 물에 빠트린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "그립다",
+                    "content": "C001가 지하 감옥을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부수다",
+                    "content": "C001가 절대무기를 이용해 지하 감옥을 부수기 시작한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_17",
+            "prev_id": "01_2822_16",
+            "next_id": "01_2822_18",
+            "characters": [
+                "E010",
+                "C010",
+                "C007",
+                "C005",
+                "C004",
+                "E004",
+                "E003",
+                "C008"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "E010에 맞서기 위해, E004과 E003이 연합한다.",
+            "unit_motif": "동맹",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "E010"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "E010이 부서진 틈 사이로 탈출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "보다",
+                    "emotion": "불안하다",
+                    "content": "C010이 E010이 날아오는 것을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "초조하다",
+                    "content": "C001가 결국 문을 열었다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "C007이 C005에게 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "이제 연합해서 함께 싸워야 해!"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "content": "우리는 그딴 거 필요 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "E010"
+                    ],
+                    "act": "죽이다",
+                    "content": "그때, 단숨에 날아온 E010이 E003을 죽이고, 영혼을 빼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C005은 E010의 강력함을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "그래, 연합해야겠다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "E010"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "E010이 영혼을 지하 감옥에 넣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불안하다",
+                    "content": "저들이 뭘 하는 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "초조하다",
+                    "content": "악마에게 영혼을 먹이는 거야. 그러면 악마가 점점 강해져서 저 문을 뚫고 나올 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "초조하다",
+                    "content": "C004가 E004 틈에서 C003를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "초조하다",
+                    "content": "C004가 C007에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "C003는 어디 간 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "못 봤어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C007, C004가 E010이 자신들을 향해 다가오는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "E004",
+                        "E003"
+                    ],
+                    "act": "방어하다",
+                    "emotion": "비장하다",
+                    "content": "E004, E003이 E010에 대항하기 위해 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "C008는 E010을 보고 두려워한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_18",
+            "prev_id": "01_2822_17",
+            "next_id": "01_2822_19",
+            "characters": [
+                "C003",
+                "C012",
+                "C004",
+                "C007",
+                "C010",
+                "C001",
+                "악마"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "결국 악마가 지하 감옥에서 나와 C001를 죽인다.",
+            "unit_motif": "부모/조부모의 죽음",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "강 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C003가 기절한 채, 물속에서 가라앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "놀라다",
+                    "content": "C003가 눈을 번쩍 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 안",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "물속에 있던 C012이 C003에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 안",
+                    "character": [
+                        "C003",
+                        "C012"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003가 C012을 타고 물 밖으로 튀어나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004",
+                        "C007",
+                        "C010"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004, C007, C010이 C012을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "초조하다",
+                    "content": "가서 C001를 막아야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부수다",
+                    "content": "한편, C001는 계속 지하 감옥을 부순다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003",
+                        "C012"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003가 C012을 타고 지하 감옥 앞에 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "방해하다",
+                    "emotion": "비장하다",
+                    "content": "C003가 C001 앞을 막는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "지하 감옥에는 악마가 있어요. C002는 없다고요."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "거부감",
+                    "content": "당장 비켜라."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "안돼요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C003, C001가 다시 대립한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C001가 절대무기의 절반을 C003에게 던져 C003를 가둔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "content": "C003는 어릴 때 C002에게 배운 무술을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C003가 절대무기 절반의 통제권을 획득하고 C001를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C001가 나머지 절반을 이용해 C003를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "방어하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 절대무기를 모두 가지고, C001 앞을 막는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "애틋하다",
+                    "content": "C002가 안에 있어. 제발 비켜줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "그때, 악마가 C002의 목소리를 내며 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001가 악마를 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "죽이다",
+                    "content": "악마가 C001의 영혼을 빨아들인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "C003는 C001의 마지막 모습을 보고 슬퍼한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_19",
+            "prev_id": "01_2822_18",
+            "next_id": "01_2822_20",
+            "characters": [
+                "악마",
+                "C003",
+                "C012",
+                "E003",
+                "C004",
+                "E004",
+                "E010",
+                "C010"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C003가 절대무기를 이용해 악마를 죽인다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 앞",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "공격하다",
+                    "content": "악마가 신비의 도시 마을로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003",
+                        "C012"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 C012을 타고 악마를 쫓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "악마를 막아야 해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "E003",
+                        "C004",
+                        "E004"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "C004, E004, E003이 악마를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "정말로 악마가 있을 줄이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C012이 악마를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "E010"
+                    ],
+                    "act": "준다",
+                    "content": "E010이 악마에게 영혼을 가져다준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "먹는다",
+                    "content": "악마가 영혼을 먹고 다시 세진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "공격하다",
+                    "content": "악마가 C012의 영혼을 먹으려고 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "초조하다",
+                    "content": "C012의 영혼까지 먹으면 전부 끝장이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가 건너편",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C004가 화살로 악마의 목을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "악마"
+                    ],
+                    "act": "다치다",
+                    "content": "악마가 다쳐서 C012을 풀어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "C003가 절대무기를 날려서 악마의 몸 안에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하 감옥 강가",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "비장하다",
+                    "content": "C003가 악마의 몸을 찢어 죽인다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_20",
+            "prev_id": "01_2822_19",
+            "next_id": "01_2822_21",
+            "characters": [
+                "E003",
+                "E004",
+                "C004",
+                "C003",
+                "C007",
+                "C010",
+                "C012"
+            ],
+            "stage": "Resurrection",
+            "storyline": "살아남은 C003, C007, C004, E003, E004, C010은 희생자들을 추모한다.",
+            "unit_motif": "부모/조부모의 죽음",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E003",
+                        "E004",
+                        "C004",
+                        "C003",
+                        "C007",
+                        "C010"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "슬프다",
+                    "content": "한편, 악마가 죽고 C003, C007, C004, E003, E004, C010은 장례를 치른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C007"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "슬프다",
+                    "content": "C003, C004, C007은 꽃을 들고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "content": "전쟁으로 희생된 사람들을 위해 기도합시다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "content": "그들은 가족이었습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E003",
+                        "E004",
+                        "C004",
+                        "C003",
+                        "C007",
+                        "C010"
+                    ],
+                    "act": "준다",
+                    "content": "E003, E004, C003, C007, C004는 꽃을 놓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "편히 쉬세요, 아버지."
+                },
+                {
+                    "type": "script",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "슬프다",
+                    "content": "어머니도 이제 편히 쉬세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "슬프다",
+                    "content": "C003, C004가 서로 어깨에 기댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "E003",
+                        "E004"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "E003, E004이 슬픈 표정으로 추모한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "신비의 도시 마을",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C012이 마을 하늘을 날아다닌다."
+                }
+            ]
+        },
+        {
+            "id": "01_2822_21",
+            "prev_id": "01_2822_20",
+            "characters": [
+                "C003",
+                "C004",
+                "E011",
+                "E007",
+                "E012"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C003, C004는 E012에게 소환된다.",
+            "unit_motif": "해피엔딩",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "E011",
+                        "E007"
+                    ],
+                    "act": "먹는다",
+                    "content": "C003, C004, E007, E011이 식사를 하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "난 C012에 매달려 악마와 대격전을 했어."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "화살 쏘는 법을 배우자 마자 악마의 부하들이랑 싸워야 했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007",
+                        "E011"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "E007, E011이 당황한 표정으로 C004, C003를 번갈아본다."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "악마의 부하들은 영혼까지 먹어치운다니까."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C012 영혼도 먹으면 우주가 끝장날 뻔한 거지. 그래서 내가 화살을 쐈어."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "그래서 내가 절대무기로 악마를 죽여버렸어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "E007이 C003와 C004에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "다 놀렸어?"
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "뭔 소리야?"
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "며칠 전까지 호텔에서 일하던 애들이 우주를 구해?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E012"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "그때, E007 뒤에서 E012이 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004,C003가 E012의 등장에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "내 말 듣고 있는 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "네 뒤를 좀 봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "E007이 E012을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E012"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C003가 누구지?"
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "전데요."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E012"
+                    ],
+                    "act": "묻는다",
+                    "content": "절대무기를 갖고 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "네, 있죠."
+                },
+                {
+                    "type": "script",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E012"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "의논할 게 있으니, 따라와. C004도 따라와."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "E007",
+                        "E011"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "E007, E011이 E012과 C004, C003의 대화를 듣고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "레스토랑 안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003, C004가 E012과 함께 사라진다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1827 @@
+{
+    "id": "04_3438",
+    "type": "comics",
+    "title": "말 잘 듣는 개가 될게 11",
+    "genre": [
+        "드라마",
+        "판타지",
+        "멜로/로맨스"
+    ],
+    "year": 1996,
+    "theme": "모험",
+    "concept": "C001가 과거로 시간 여행을 한 후 C002와 함께 아이템 조각을 찾기 위해 모험을 떠난다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "보물찾기",
+    "main_character": "제자/학생",
+    "conflict": "C001와 C002, C004가 아이템을 찾기 위해 C006와 대립한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006"
+    ],
+    "units": [
+        {
+            "id": "04_3438_01",
+            "next_id": "04_3438_02",
+            "characters": [
+                "병사들",
+                "몬스터들",
+                "C001",
+                "C002",
+                "C004"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C002 일행이 아이템 조각의 흔적을 발견한다. C004가 일행에서 이탈한다.",
+            "unit_motif": "이별",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "병사들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "병사들이 성으로 돌아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "몬스터들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "몬스터들이 병사들에게 다가온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "몬스터들"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "즐겁다",
+                    "content": "몬스터들이 병사들을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "안타깝다",
+                    "content": "C001, C002, C004가 죽은 병사들을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "죽은 사람들은 모두 간이 없어. 아마 몬스터가 죽인 것 같아."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "아이템을 가진 몬스터가 한 짓인 것 같습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "피 냄새 사이에서 먹물 냄새가 나."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "C004, 아이템 조각을 찾으면 그건 내 거다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "담담하다",
+                    "content": "아이템 조각을 찾는 사람이 갖게 되는 거군요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 C002 일행에서 이탈해 혼자 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_02",
+            "prev_id": "04_3438_01",
+            "next_id": "04_3438_03",
+            "characters": [
+                "C001",
+                "C002",
+                "C003"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C002가 먹물 냄새에 대해 C001와 C003에게 공유한다.",
+            "unit_motif": "상황 설명",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001, C002, C003가 몬스터들의 흔적을 쫓아 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "C001와 C003가 C004의 이탈을 아쉬워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "같이 움직이면 아이템 조각을 더 빨리 모을 텐데. 아쉬워."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "단호하다",
+                    "content": "C002가 화가1을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "몬스터 냄새가 나!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "단호하다",
+                    "content": "C002가 화가1을 붙잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "C001가 주문을 외쳐 C002를 제압한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "평범한 사람을 왜 갑자기 잡아?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "아까 병사들이 죽은 자리에 몬스터 냄새가 남아 있었다고."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C004가 아이템 조각을 가져가기 전에 서둘러야지!"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "왜 그렇게 C004를 싫어해? 나는 C004 씨가 좋은데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C002가 크게 충격받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무안하다",
+                    "content": "농담이니까 진정해."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_03",
+            "prev_id": "04_3438_02",
+            "next_id": "04_3438_04",
+            "characters": [
+                "C004",
+                "병사들",
+                "영주1의 딸",
+                "C006"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C006가 병사들에게 구타당한다. 영주1의 딸이 병사들을 말리고, C004가 영주1의 딸을 따라간다.",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "한편, C004가 마을에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "병사들"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "병사들이 C006를 구타한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 길가",
+                    "character": [
+                        "병사들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "아가씨를 몰래 보다니, 더러운 놈이구나!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "content": "C004가 구타당하는 C006를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "C006라는 사람, 무언가에 홀린 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "영주1의 딸"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "안타깝다",
+                    "content": "영주1의 딸이 병사들을 말린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "감탄하다",
+                    "content": "C004가 영주1의 딸을 보고 미모에 감탄한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "안타깝다",
+                    "content": "예쁘지만 그냥 두면 위험할 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "도망치다",
+                    "content": "C006가 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "짧게 갈등하던 C004가 영주1의 딸을 쫓아간다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 길가",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "단호하다",
+                    "content": "여자부터 구해줘야지."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_04",
+            "prev_id": "04_3438_03",
+            "next_id": "04_3438_05",
+            "characters": [
+                "C006",
+                "C002",
+                "C001",
+                "C003",
+                "몬스터1"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002와 C001, C003가 C006를 발견한다. C006가 능력을 사용한 후 도망친다.",
+            "unit_motif": "도망/도피/잠적",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006가 마을 밖으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "자신이 그린 영주1의 딸의 그림을 보고 기뻐한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기쁘다",
+                    "content": "이제 아가씨는 내 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "단호하다",
+                    "content": "C002가 C006를 붙잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001와 C003가 C002에게 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "경멸하다",
+                    "content": "C002가 C006에게서 사람 냄새가 나는 것을 알아챈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C006가 C002의 손을 뿌리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "비장하다",
+                    "content": "C006가 그림을 사용해 몬스터1을 불러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001와 C003가 그 모습을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "도망치다",
+                    "content": "C006가 도망친다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "궁금하다",
+                    "content": "저 사람은 평범한 사람인데, 어떻게 몬스터를 부리는 거지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "단호하다",
+                    "content": "C002가 몬스터1을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "몬스터1"
+                    ],
+                    "act": "죽다",
+                    "content": "몬스터1이 죽으며 대량의 먹물과 피를 뿜어낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을 외곽",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "혼란스럽다",
+                    "content": "C002가 그 냄새에 취해 쓰러진다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_05",
+            "prev_id": "04_3438_04",
+            "next_id": "04_3438_06",
+            "characters": [
+                "C004",
+                "영주1",
+                "영주1의 딸",
+                "C001",
+                "C002",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C004가 영주1의 딸이 겪는 일에 대해 듣고 돕기로 결심한다. C001, C002, C003가 C004를 찾아온다.",
+            "unit_motif": "만남",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004",
+                        "영주1",
+                        "영주1의 딸"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "그날 밤, C004와 영주1, 영주1의 딸이 담소를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1의 딸"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "매일 밤 몬스터가 저에게 다가오는 꿈을 꿔요."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1의 딸"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "그 몬스터는 저를 이상한 곳으로 데려가 혼자 둡니다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1의 딸"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "하지만 누군가가 저를 빤히 보고 있어요. 그것만은 알 수 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "영주1이 영주1의 딸을 걱정한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "아가씨에게 몬스터가 붙은 것 같습니다. 잠시 아가씨와 저 둘만 있도록 해주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "영주1이 잠시 나간다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "아가씨, 제 후손을 만들어주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "그때, C001와 C002, C003가 C004에게 도착한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "왜 여기로 온 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "네가 쓰러져서 걱정되니까 그렇지. C004 씨는 믿을만하잖아."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_06",
+            "prev_id": "04_3438_05",
+            "next_id": "04_3438_07",
+            "characters": [
+                "C006",
+                "C001",
+                "C004",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C006가 계략을 꾸민다. C001와 C004가 정보를 공유한다.",
+            "unit_motif": "상황 파악",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "그놈은 나한테 어떻게 간의 냄새를 맡은 거지?"
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "자신감 있다",
+                    "content": "걱정할 필요 없어. 나한테는 몬스터들이 있다고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "content": "C006가 영주1의 딸을 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "화나다",
+                    "content": "그림이 잘 그려지지 않아 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "자신감 있다",
+                    "content": "영주1의 딸을 오늘도 데리고 오겠다 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "한편, C001와 C004가 담소를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그 사람은 사람인데 몬스터1을 마음대로 부렸어요."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그 사람이 아이템 조각을 사용하고 있을 가능성이 있네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "content": "C002가 C001와 C004를 무시한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "어떻게 저를 찾은 겁니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "성을 지나가다가 아이템 조각을 느꼈어요. 아이템 조각을 여러 개 갖고 있죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "왜 나한테 안 알려줬어?"
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "제 겁니다. 안 줄 거예요."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_07",
+            "prev_id": "04_3438_06",
+            "next_id": "04_3438_08",
+            "characters": [
+                "C004",
+                "영주1의 딸",
+                "C001",
+                "C002",
+                "몬스터들"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C004, C002, C001가 계략을 짠다. 그날 밤 몬스터들이 영주1의 딸을 데려간다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C004가 자신의 계획에 대해 영주1의 딸에게 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "매일 밤 몬스터가 아가씨를 이상한 곳으로 데려간다 하셨죠."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "제가 반드시 해결하겠습니다. 오늘까지만 그곳으로 따라가주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "영주1의 딸"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "무섭다",
+                    "content": "영주1의 딸이 수락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "content": "C001, C002, C004가 몬스터들이 찾아오기를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "C002는 C006에게서 맡은 피와 사람, 몬스터 냄새가 다가오는 것을 알아챈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "몬스터들"
+                    ],
+                    "act": "데려가다",
+                    "content": "몬스터들이 영주1의 딸을 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001, C002, C004가 몬스터들을 따라간다."
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "저번의 그 화가가 이 일이랑 연관이 있을 거야!"
+                },
+                {
+                    "type": "script",
+                    "location": "영주1의 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "자신감 있다",
+                    "content": "게다가 화가는 아이템 조각도 갖고 있어!"
+                }
+            ]
+        },
+        {
+            "id": "04_3438_08",
+            "prev_id": "04_3438_07",
+            "next_id": "04_3438_09",
+            "characters": [
+                "C006",
+                "C003",
+                "C001",
+                "C002",
+                "C004",
+                "몬스터들"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C006가 영주1의 딸로 위장한 C003를 발견한다. C002와 C004가 C006의 몬스터들과 대립한다.",
+            "unit_motif": "적의 등장",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "기다리다",
+                    "content": "C006가 영주1의 딸을 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "기쁘다",
+                    "content": "C006가 영주1의 딸이 도착한 것을 알아챈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "영주1의 딸로 위장한 C003가 정체를 드러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "화나다",
+                    "content": "C006가 C003를 알아보고 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "화나다",
+                    "content": "저건 필요 없으니 죽여."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001, C002, C004가 C006의 집에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "몬스터들"
+                    ],
+                    "act": "공격하다",
+                    "content": "몬스터들이 C001, C002, C004를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "C001, C002, C004가 몬스터들이 그림이라는 사실을 알아챈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "사용하다",
+                    "content": "C006가 그림에서 몬스터들을 더 소환한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "C002와 C004가 몬스터들과 전투하기 위한 준비를 한다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_09",
+            "prev_id": "04_3438_08",
+            "next_id": "04_3438_10",
+            "characters": [
+                "C006",
+                "몬스터1"
+            ],
+            "stage": "Another Story",
+            "storyline": "C006가 아이템 조각을 얻은 경위를 회상한다. C006는 영주1의 딸을 그리고 싶어 한다.",
+            "unit_motif": "회상",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "회상하다",
+                    "content": "C006가 아이템 조각을 얻은 경위를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006가 끔찍한 그림을 그리기 위해 전장을 돌아다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C006가 아이템 조각을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전장",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "감탄하다",
+                    "content": "C006가 아이템 조각의 아름다움에 감탄한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "감탄하다",
+                    "content": "C006가 아이템 조각의 힘을 빌려서 그림을 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 전장",
+                    "character": [
+                        "몬스터1"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "그림에서 몬스터1이 튀어나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 전장",
+                    "character": [
+                        "몬스터1"
+                    ],
+                    "act": "말하다",
+                    "content": "더 많은 피를 줘."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 전장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "생각하다",
+                    "content": "아이템 조각의 힘을 빌리려면 사람의 피가 필요하다는 것을 알게 되었다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 마을",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "생각하다",
+                    "content": "너무 많은 사람을 죽여 도망 다녀야 했다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거의 마을",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "설레다",
+                    "content": "C006가 영주1의 딸을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거의 마을",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "설레다",
+                    "content": "아가씨를 그려, 나만의 여자를 만들 수 있다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_10",
+            "prev_id": "04_3438_09",
+            "next_id": "04_3438_11",
+            "characters": [
+                "C002",
+                "C001",
+                "C004",
+                "몬스터들"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002와 C004가 협력하여 몬스터들을 죽인다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "자신감 있다",
+                    "content": "C002가 C001를 업은 채로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C002가 무기로 C006가 만들어낸 몬스터들을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "혼란스럽다",
+                    "content": "C002가 몬스터들의 피 냄새에 취해 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "걱정",
+                    "content": "C001가 C002를 걱정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "비장하다",
+                    "content": "C004가 C002와 C001를 보호한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "비장하다",
+                    "content": "제 뒤에 있으세요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "비장하다",
+                    "content": "C004가 초능력을 사용한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "몬스터들"
+                    ],
+                    "act": "죽다",
+                    "content": "몬스터들이 초능력에 빨려 들어가 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "피곤하다",
+                    "content": "초능력을 사용한 C004가 피곤해 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "거부감",
+                    "content": "C004의 도움을 받은 것에 C002가 거부감을 느낀다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_11",
+            "prev_id": "04_3438_10",
+            "next_id": "04_3438_12",
+            "characters": [
+                "C006",
+                "C002",
+                "C001",
+                "C004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C006가 도망가고 C002가 쫓는다.",
+            "unit_motif": "추적/수색",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "도망치다",
+                    "content": "C006가 자신이 만들어낸 몬스터1을 타고 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 C006를 쫓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "괜찮겠어? 너 몬스터들의 피 냄새를 맡으면 취하잖아."
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "비장하다",
+                    "content": "아이템 조각은 어디에 있어? 그걸 뺏어야 모든 게 끝나!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "C001가 아이템 조각의 위치를 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "짜증나다",
+                    "content": "그리고 C004! 잘난 척하지 마!"
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저 말 C002의 본심이 아니에요. 뒤는 자신이 알아서 하겠다는 이야기에요."
+                },
+                {
+                    "type": "script",
+                    "location": "C006의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "듣다",
+                    "emotion": "무안하다",
+                    "content": "그런 상냥한 의미가 아닌 것 같은데요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "비장하다",
+                    "content": "C002가 몬스터1을 붙잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "사용하다",
+                    "content": "C006가 그림에서 몬스터를 더 소환한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "자신감 있다",
+                    "content": "C002가 손으로 몬스터들을 공격한다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_12",
+            "prev_id": "04_3438_11",
+            "next_id": "04_3438_13",
+            "characters": [
+                "C004",
+                "C001",
+                "몬스터1",
+                "C002",
+                "C006"
+            ],
+            "stage": "Defeat",
+            "storyline": "C006가 C002에게 자신의 목숨을 살려달라 구걸한다. C002가 받아들인다.",
+            "unit_motif": "부탁/제안",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C002가 소환된 몬스터들을 다 죽였으니 이제 안심이네요."
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "하지만 C002는 무기를 못 써요."
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "지금 C002는 화가와 충분히 가까워요. 죽일 수 있을 겁니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "몬스터1"
+                    ],
+                    "act": "공격하다",
+                    "content": "몬스터1이 C002를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "content": "C002가 몬스터1의 공격을 무시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C002가 C006를 위협한다."
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "애원/구걸하다",
+                    "emotion": "절박하다",
+                    "content": "제발 살려줘!"
+                },
+                {
+                    "type": "script",
+                    "location": "공중",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "emotion": "절박하다",
+                    "content": "아이템 조각도 줄게. 이것만 아니었으면 나는 평범하게 살아갔을 거라고."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "C002가 C006를 죽이려다가 멈춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "감탄하다",
+                    "content": "C004가 그런 C002를 보고 감탄한다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_13",
+            "prev_id": "04_3438_12",
+            "next_id": "04_3438_14",
+            "characters": [
+                "C006",
+                "C002",
+                "C004",
+                "C001"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C006가 아이템 조각으로 인해 사망한다.",
+            "unit_motif": "죽음",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공중",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "자신감 있다",
+                    "content": "C006가 몬스터1에게 C002를 공격하라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "절박하다",
+                    "content": "C006가 아이템 조각을 들고 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 C006를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "content": "C002가 C006의 아이템 조각이 이상하다는 것을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "아이템 조각을 버려!"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "비아냥거리다",
+                    "content": "내가 이걸 왜 버려? 할 수 있는 일이 얼마나 많은데!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공격하다",
+                    "content": "C006가 자신이 가진 아이템 조각으로 인해 고통받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 C006를 돕기 위해 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "죽다",
+                    "emotion": "괴롭다",
+                    "content": "C006가 괴로워하며 죽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "안타깝다",
+                    "content": "이러니까 버리라는 거였는데."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "화가가 가진 아이템 조각이 결국 그를 죽게 했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "안타깝다",
+                    "content": "C001가 C006의 실패한 영주1의 딸의 그림을 발견한다."
+                }
+            ]
+        },
+        {
+            "id": "04_3438_14",
+            "prev_id": "04_3438_13",
+            "characters": [
+                "C004",
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001가 아이템 조각을 정화한다. C004가 C002 일행에 합류하기로 결정한다.",
+            "unit_motif": "동료가 됨 (전투/모험의 경우)",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "안타깝다",
+                    "content": "C004가 더러워진 아이템 조각을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "안타깝다",
+                    "content": "아이템 조각이 더러운 마음에 물들었어. 위험해 보여서 못 줍겠네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "담담하다",
+                    "content": "C001가 아이템 조각을 집어 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 아이템 조각을 정화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C004가 그 모습을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "이거는 누가 가질까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C001 씨가 가지세요."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "감탄하다",
+                    "content": "방금 C001 씨가 아이템 조각을 정화했어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C001가 C003와 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "content": "C004가 사망한 C006를 위해 기도한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "C006는 나쁜 놈이잖아. 하여간 인간이 말하는 자비 같은 건 잘 이해가 안 돼."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "당신도 C006를 죽이지 않고 살렸잖아요. 그것도 자비입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "담담하다",
+                    "content": "C004가 C002 일행에 합류하기로 결정한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001 씨랑 같이 있으면 즐겁고, C002도 생각보다 착한 사람인 것 같거든요."
+                }
+            ]
+        }
+    ]
+}

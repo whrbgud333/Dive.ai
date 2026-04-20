@@ -1,0 +1,1729 @@
+{
+    "id": "01_1574",
+    "type": "movie",
+    "title": "잡을테면 잡아봐",
+    "genre": [
+        "드라마",
+        "스릴러"
+    ],
+    "year": 2002,
+    "theme": "모험",
+    "concept": "돈이 가족을 다시 합칠 수 있다고 믿는 C016는 위조지폐를 만든다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "고등사기꾼",
+    "main_character": "천재",
+    "conflict": "천재 위조지폐 사기꾼 C016와 그를 잡으려는 FBI 요원과의 추격을 한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012",
+        "C013",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C018"
+    ],
+    "units": [
+        {
+            "id": "01_1574_01",
+            "next_id": "01_1574_02",
+            "characters": [
+                "퀴즈쇼 mc",
+                "C012",
+                "C016",
+                "C010",
+                "C015"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "퀴즈쇼에서 윌리엄의 이력을 소개한다.",
+            "unit_motif": "수수께끼",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "퀴즈쇼",
+                    "character": [
+                        "퀴즈쇼 mc",
+                        "C012",
+                        "C016"
+                    ],
+                    "act": "묻는다",
+                    "content": "퀴즈쇼 mc는 윌리엄의 이력을 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "퀴즈쇼",
+                    "character": [
+                        "퀴즈쇼 mc",
+                        "C012",
+                        "C016"
+                    ],
+                    "act": "묻는다",
+                    "content": "퀴즈쇼 mc는 3명의 주인공에게 윌리엄의 진실에 대해 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "프랑스 교도소 밖",
+                    "character": [
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "말하다",
+                    "content": "1969년 C010은 미국 죄수인 C016를 인수받기로 했다며 C015과 언어가 불편한 듯 대화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 감방앞",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "content": "C010은 감방 앞에서 조항을 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 감방앞",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "content": "C016가 계속해서 기침을 하지만 C010은 자신마저 속이려고 하냐고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 감방앞",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "content": "C016는 결국 실신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 감방앞",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "content": "C016가 쓰러지자 의사를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교도소 치료실",
+                    "character": [
+                        "C010",
+                        "C016",
+                        "C015"
+                    ],
+                    "act": "도망치다",
+                    "content": "간수들과 C010가 의사를 부르는 것에 대한 실랑이를 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교도소 치료실",
+                    "character": [
+                        "C010",
+                        "C016",
+                        "C015"
+                    ],
+                    "act": "도망치다",
+                    "content": "갑자기 쓰러져 있던 C016가 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교도소 복도",
+                    "character": [
+                        "C010",
+                        "C016",
+                        "C015"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "교도관과 C010가 뛰어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교도소 복도",
+                    "character": [
+                        "C010",
+                        "C016",
+                        "C015"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "기침을 하며 복도를 기어가는 C016가 C010에게 항복한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_02",
+            "prev_id": "01_1574_01",
+            "next_id": "01_1574_03",
+            "characters": [
+                "C018",
+                "C016",
+                "C017",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C016는 가족과 화목한 시간을 보낸다. // 전학을 간 C016는 학교에서 대리교사를 사칭하게 된다.",
+            "unit_motif": "고등사기꾼",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "연설장",
+                    "act": "공감하다",
+                    "content": "1963년 회원제인 클럽에서 C017는 생쥐가 허우적거리다 크림을 버터로 만든다는 연설을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "연설장",
+                    "act": "공감하다",
+                    "content": "사람들은 C016의 연설에 감동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C018"
+                    ],
+                    "act": "놀다",
+                    "content": "C007는 엄마와의 만남을 이야기하고 엄마는 와인을 흘린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C018"
+                    ],
+                    "act": "놀다",
+                    "content": "C016는 흘린 와인을 밟고 춤추는 부모님을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "양복점",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "무시하다",
+                    "content": "C016의 C007는 양복을 빌리려 하지만 문 열 시간이 아니라며 여직원은 단호하게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "양복점",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "무시하다",
+                    "content": "C016의 C007는 목걸이로 유혹한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C007 고급차의 운전기사가 된 C016는 차의 문을 열어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C016는 C007에게 다음 해야 될 일을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "은행안",
+                    "act": "말하다",
+                    "content": "은행 지점장은 C016의 C007에게 세금 문제가 있다며 돈을 빌려줄 수 없다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "자동차 매매소",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "차 파는 걸 이해 못 하는 C016에게 C007는 500달러를 얻을 수 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 마당",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "받는다",
+                    "content": "재정난으로 C016는 작은 집으로 이사를 하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 마당",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "받는다",
+                    "content": "C016의 C007는 작은 집은 청소가 편할 거라며 부인을 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 마당",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "받는다",
+                    "content": "C016는 짐을 나른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "준다",
+                    "content": "C016 생일을 기억한 C007는 C016에게 통장을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "준다",
+                    "content": "C007는 C016에게 은행에서 50개의 수표를 쓸 일원이 됐다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차안",
+                    "act": "말하다",
+                    "content": "어머니는 C016에게 새로운 학교를 소개하며 교복은 입을 필요 없다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 복도",
+                    "act": "모욕하다/욕하다",
+                    "content": "여학생에게 17호를 묻는 C016를 밀치며 남학생들이 시비를 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교실",
+                    "character": [
+                        "C016",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "새로운 교사라고 소개하는 C016는 시비 건 C002에게 책 읽기를 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교실",
+                    "character": [
+                        "C016",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "C016는 대리 교사를 돌려보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교실",
+                    "character": [
+                        "C016",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "C016는 대리 교사를 사칭한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교장실",
+                    "act": "말하다",
+                    "content": "C016의 C007와 어머니는 한주 동안 대리 교사 역할을 했다고 말하는 교장 선생님의 말에 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교장실 밖 행정실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "C016는 수업에 빠질 메모를 가져온 여학생에게 부모님들은 종이를 접는다는 팁을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교장실 밖 행정실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "교장실에서 나온 아빠와 C016는 서로를 보며 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_03",
+            "prev_id": "01_1574_02",
+            "next_id": "01_1574_04",
+            "characters": [
+                "C016",
+                "C011",
+                "C007",
+                "C010"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C016는 엄마와 아빠의 이혼으로 방황한다.",
+            "unit_motif": "가족분열(이산가족)",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "소리치다",
+                    "content": "C016는 엄마의 방에서 아빠의 친구가 나오는 것을 보곤 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "소리치다",
+                    "content": "아빠의 친구가 급하게 나가려 하자 C016를 회장 뺏지가 떨어졌다며 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "말이 없는 C016에게 C007에게 비밀로 하자며 엄마는 10달러를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016는 자신의 방으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C016",
+                        "C011"
+                    ],
+                    "act": "소리치다",
+                    "content": "못 보던 차를 발견하는 C016는 거실에 C011을 발견하자 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집 거실",
+                    "character": [
+                        "C016",
+                        "C011"
+                    ],
+                    "act": "소리치다",
+                    "content": "C011는 옆방에 모두가 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타주-집, 거리",
+                    "character": [
+                        "C016",
+                        "C007",
+                        "C011"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "아빠와 엄마의 이혼과 누구랑 살지 선택해야 한다는 사실에 C016는 혼란스러워하며 거리를 달린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "묻는다",
+                    "content": "기차역에 도착한 C016가 기차표를 수표로 해도 되냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "프랑스 호텔방",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "공감하다",
+                    "content": "1969년 C010가 이곳은 FBI가 묵을 수 있는 호텔이라고 말하자 좋지 않은 곳도 있었다며 C016는 생각이 잠긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회상-호텔방",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "수표 2장이 은행에서 돌아왔다며 C016는 호텔에서 쫓겨난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 방",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "생각에 잠긴 C016는 위조지폐를 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "은행안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "은행 수표를 현금으로 바꿔주지 않는 여직원에게 목걸이를 선물하려다 C016는 남자 직원에게 걸린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타주-상점들",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "다양한 곳에서 위조 수표를 바꾸려 하지만 C016는 매번 거절당한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_04",
+            "prev_id": "01_1574_03",
+            "next_id": "01_1574_05",
+            "characters": [
+                "C016",
+                "비행기 C009",
+                "C013"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C016는 파일럿이 되기로 결심한다.",
+            "unit_motif": "취향의 재발견",
+            "causality": "Approaching the threshold(임계점 도달)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리, 호텔",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "택시에서 내리는 항공사 여직원들과 파일럿에게 사인을 받는 아이들을 보며 C016는 무언가 깨닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리, 문구점",
+                    "act": "말하다",
+                    "content": "C007는 비행기 C009가 되겠다는 C016의 편지를 읽고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "항공사",
+                    "character": [
+                        "C016",
+                        "비행기 C009"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "학생 기자로 항공사 C009에게 인터뷰를 하던 C016는 C009에게 필요한 연방항공국 면허증을 갖게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "전화박스",
+                    "character": [
+                        "C016",
+                        "C013"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C016는 유니폼이 필요하다고 항공사에 전화하자 브로드웨이로 찾아가란 말을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "유니폼 공장",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "부조종사 유니폼을 맞춘 C016는 수표로 계산하려 하자 사원번호만 있으면 된다는 말에 미소를 띤다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "여자들은 유니폼을 입고 당당하게 걷는 C016를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C016는 아빠에게 도망쳐 미안하다는 편지를 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "프랑스 은행",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만나다",
+                    "content": "유니폼을 입고 돈을 빌리는 C016에게 방문해 감사하다며 지점장이 악수를 청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "호텔방을 계산하려는 C016에게 직원은 항공사 월급 수표는 300달러까지 가능하단 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "C007에게 항공사 직원이 되기로 했다며 편지 보낸 C016는 열심히 타이포로 가짜 수표를 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "C016는 항공사 모형 장난감 비행기에서 로고를 떼어내고 가짜 월급 수표를 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "은행안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 가짜 월급 수표를 현금으로 바꾸며 여직원에게 눈이 이쁘다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "욕조에는 로고가 없는 항공사 모형 장난감 비행기가 담겨있고 거실에는 위조수표가 나란히 놓여있다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_05",
+            "prev_id": "01_1574_04",
+            "next_id": "01_1574_06",
+            "characters": [
+                "C016",
+                "C017",
+                "C001",
+                "C010"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C016는 비행기 C009를 사칭하며 위조수표를 만든다.",
+            "unit_motif": "고등사기꾼",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "은행안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "은행에 돈을 빌리려는 C016에게 은행 지점장은 공항 안 항공사에 가면 돈을 빌려줄 거라는 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "찾는다",
+                    "content": "항공사에 들른 C016는 C009는 무임승차도 가능하다는 걸 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016는 조종실 뒷자리에 무임승차를 하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016 집 거실",
+                    "character": [
+                        "C017"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 자신이 부조종사며 가족들은 공짜니 크리스마스에 하와이로 가자고 C007에게 편지를 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C016",
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "C016는 항공사 여직원 C001에게 목걸이를 선물한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방 침실",
+                    "character": [
+                        "C016",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "content": "C001와 격렬하게 사랑을 하는 C016는 위조수표를 더 많이 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "은행안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "찾는다",
+                    "content": "C016는 은행 여직원을 꼬셔 수표의 특별한 코드를 알아낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "경매장",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016는 수표의 코드를 해독하고 코드화하는 기계를 산다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "C010는 수표의 코드 경로와 코드 숫자가 바뀔 경우 시간이 걸리며 그동안 범인은 돈을 쓸 수 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고급 레스토랑",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "파일럿이 된 C016는 C007에게 캐딜락을 선물하지만 C007는 국세청에 감시가 있다며 거절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고급 레스토랑",
+                    "character": [
+                        "C016",
+                        "C017"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C007는 어머니와의 추억에 젖으며 C016를 자랑스러워한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_06",
+            "prev_id": "01_1574_05",
+            "next_id": "01_1574_07",
+            "characters": [
+                "C016",
+                "C010",
+                "C009",
+                "C006"
+            ],
+            "stage": "Another Story",
+            "storyline": "C010는 C016를 현장에서 놓친다. // C010는 추적 끝에 C016의 엄마를 만나게 된다.",
+            "unit_motif": "도망자",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차안",
+                    "act": "만나다",
+                    "content": "C010는 현장조사가 처음인 2명의 직원들과 일하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔로비",
+                    "act": "찾는다",
+                    "content": "C010는 지배인이 건네는 수표를 확인하곤 C016가 아직 호텔에 묵고 있다는 사실을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "201호 호텔방",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "도망치다",
+                    "content": "C016가 노인과 인사를 나누며 복도를 지나가고 C010은 201호를 기습적으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "201호 호텔방",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "도망치다",
+                    "content": "C016는 자신을 정보부 요원으로 연기하며 수표 찍는 기계를 들고 C010 앞에서 유유히 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "201호 호텔방",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "소리치다",
+                    "content": "한숨을 돌린 후 C016의 지갑을 확인해본 C010은 거리를 사라지는 C016를 발견하곤 분노한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "C010는 FBI 본부에 위조범인 C016의 얼굴을 봤다며 잡을 수 있다고 확신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "항공사",
+                    "character": [
+                        "C016",
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "content": "기자로 가장한 C016는 C009에게 스카이 맨이 하늘의 제임스 본드란 이야기를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장안",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "놀다",
+                    "content": "C016는 제임스 본드에 관한 영화를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "양복점, 도로",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "제임스 본드에 빠진 C016는 본드의 옷을 3벌 주문한 후 경주용 외제차도 구매한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔복도",
+                    "character": [
+                        "C016",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "content": "외제차가 C016의 차냐고 묻는 배우 C006은 방에 펜이 있냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "세탁소",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "기다리다",
+                    "content": "C010는 할머니들 사이에 세탁물을 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방",
+                    "character": [
+                        "C016",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "content": "C016와 C006은 격렬하게 키스를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호텔방",
+                    "character": [
+                        "C016",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "content": "하룻밤에 얼마를 주겠냐는 C006에게 C016는 천 달러를 주겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "세탁소",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C010는 세탁물을 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "크리스마스에도 일을 하던 C010는 C016에게 전화를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 미안하다고 말다며 자신의 311호 방위치를 알려주지만 믿을 수 없다는 C010는 전화할 때가 없는 C016를 비웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "음식점",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "음식점에서 수표의 번호를 체크하던 C010는 직원에게서 만화책 수집광이냐는 이야기를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "전화박스",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "FBI 직원에게 위조범은 만화를 좋아하는 아이라며 C016는 뉴욕시의 가출 청소년을 찾아보라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016 엄마의 집",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "C016의 엄마를 찾은 C010는 C016가 17살이며 졸업앨범의 C016를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016 엄마의 집",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "엄마는 C016의 돈을 갚겠다고 하지만 130만 달러의 위조지폐를 만들었다고 말하자 엄마는 놀란다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_07",
+            "prev_id": "01_1574_06",
+            "next_id": "01_1574_08",
+            "characters": [
+                "C016",
+                "C003",
+                "C010"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C016는 의사가 되기로 결심한다.",
+            "unit_motif": "취향의 재발견",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C016의 새집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "놀다",
+                    "content": "C016는 값비싼 옷과 새집에서 파티를 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 새집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "놀다",
+                    "content": "거실에 랜스가 떨어졌다는 말을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C016",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "의사에게 혼나 울고 있는 C003를 위로하는 C016는 자신이 의사라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "밤에 병원에서 일한다며 병원에 일할 서류를 위조하며 C016는 아빠에게 편지를 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 원장 사무실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "상승하다",
+                    "content": "서류에 만족해하는 원장은 새벽 응급실 관리자를 원한다고 말하자 C016는 간호사는 자신이 뽑겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 사무실",
+                    "act": "무시하다",
+                    "content": "C016는 자신과 함께 일할 간호사와 의사를 호명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 사무실",
+                    "act": "무시하다",
+                    "content": "C003는 호명하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "놀다",
+                    "content": "C016는 소파에 누워 팝콘을 먹으며 의료 영화를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 사무실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "키스하다",
+                    "content": "C016는 교정기 뺀 C003에게 키스한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 사무실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "키스하다",
+                    "content": "둘이 격하게 키스를 나누던 중 응급실에서 C016의 호출이 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "응급실,청소부 창고",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "소리치다",
+                    "content": "피가 범벅인 아이를 바라보며 상대 의사의 말대로 진행하라며 급하게 나가 C016는 세면대에 토한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C017의 집",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "C017에게 아들을 찾는다며 자신의 번호를 책상에 내려놓다 C010는 편지 속에 C016의 주소를 알아낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "전화박스",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C010는 C016가 살고 있는 아파트 주소를 동료에게 불러준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_08",
+            "prev_id": "01_1574_07",
+            "next_id": "01_1574_09",
+            "characters": [
+                "C016",
+                "C003",
+                "C010",
+                "C004",
+                "C005"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C016는 행복한 가족을 만들려고 한다.",
+            "unit_motif": "희생하는 자식",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016",
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "content": "C003는 자신은 첫 경험이 아니고 2년 전 유산했다며 운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C016",
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "content": "C016는 순수한 C003에게 청혼한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 집",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "C010는 C016의 방에서 하버드 의사 졸업장을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 부엌",
+                    "character": [
+                        "C016",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 C003의 부모님을 만나 루터교 신자며 버클리 대학을 나왔다며 변호사를 할까 생각 중이라 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C010는 C016의 병원 직무실에 습격하지만 C016는 보이지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 서재",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "C005가 진실을 말해달라 말하자 C016는 자신은 사랑에 빠진 아이라 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 서재",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "그 말에 로맨틱한 남자로 생각하며 C005는 결혼을 승낙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "변호사 시험장",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "C016는 루이지애나주 변호사 시험을 치른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "묻는다",
+                    "content": "C016는 변호사 시험에 어떻게 합격했냐는 C010의 질문에 대답하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기 안",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "묻는다",
+                    "content": "C010는 꼭 알아내고 말겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "변호사 사무실",
+                    "character": [
+                        "C016",
+                        "C005"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "변호사 시험에 합격한 C016는 C005와 함께 일하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016 방",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "놀다",
+                    "content": "C016는 법정영화를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "법정",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "영화를 재연하며 변호하는 C016에게 판사는 예심이라 피고도 배심원도 없다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_09",
+            "prev_id": "01_1574_08",
+            "next_id": "01_1574_10",
+            "characters": [
+                "C016",
+                "C004",
+                "C010",
+                "C005",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "자신의 가족을 만들려는 C016와 C010는 C016를 쫓는다.",
+            "unit_motif": "도망자",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 거실",
+                    "character": [
+                        "C016",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "content": "TV에서 합창단 공연을 보며 합창하는 C003의 가족과 함께 C016는 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 부엌",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "공감하다",
+                    "content": "음악에 맞춰 접시를 닦는 C005와 어머니의 모습을 보며 C016는 생각에 잠긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "act": "준다",
+                    "content": "C016는 C007에게 약혼 초대장을 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "act": "준다",
+                    "content": "C007와 엄마의 재결합을 원하는 C016에게 FBI가 찾고 있으니 C007는 힘내라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "act": "준다",
+                    "content": "C016는 그의 말에 화낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 크리스마스에 C010의 사무실에 전화해 끝내고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "그의 진실을 믿지 않는 C010는 신문에서 C016의 결혼 발표를 찾아보라 동료에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 약혼식",
+                    "character": [
+                        "C010",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "약혼식에 FBI가 나타나고 C005에게 C016를 찾고 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 방",
+                    "character": [
+                        "C003",
+                        "C016"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C016는 C003에게 나이, 직업, 이름은 모두 거짓이었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 마당",
+                    "character": [
+                        "C010",
+                        "C005"
+                    ],
+                    "act": "수색하다",
+                    "content": "C010와 C005는 C016를 찾고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 방",
+                    "character": [
+                        "C016",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 C003에게 이틀 후 마이애미 국제공항 아침 10시에 만나자고 약속하며 창문 밖으로 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 방",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "만나다",
+                    "content": "C010가 C016의 방에 들어가자 창문은 열린 채 위조지폐를 손에 들고 떨고 있는 C003가 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_10",
+            "prev_id": "01_1574_09",
+            "next_id": "01_1574_11",
+            "characters": [
+                "C016",
+                "스튜어디스",
+                "C010"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C016는 세계를 돌며 위조 수표를 만든다.",
+            "unit_motif": "고등사기꾼",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공항 밖",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "찾는다",
+                    "content": "C016는 택시에 내린 C003를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항 밖",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "찾는다",
+                    "content": "C016는 공항 주변에 경찰이 깔렸다는 걸 발견하고는 차를 돌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항 내부",
+                    "act": "말하다",
+                    "content": "C010는 공항 근처에 100명의 사복경찰을 풀어져 있으니 도망갈 수 없다고 자신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항내 전화박스",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 항공사가 대학생들을 채용한다며 전화통화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "C016는 미래의 스튜어디스를 8명을 뽑겠다고 연설한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항 밖",
+                    "act": "수색하다",
+                    "content": "C010과 FBI 요원들은 공항에서 떼를 지어 다니며 C016를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016는 여대생들을 면접하고 8명의 직원을 뽑는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항 안",
+                    "character": [
+                        "스튜어디스",
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "도망치다",
+                    "content": "C016는 8명의 스튜어디스와 당당히 지나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항 안",
+                    "character": [
+                        "스튜어디스",
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "도망치다",
+                    "content": "C010과 FBI 요원들은 돈을 준 운전자를 C016로 착각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI 팀장실",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "세계를 돌며 위조 수표를 만들고 다니는 C016를 잡기 위해 스페인으로 가겠다는 C010를 팀장은 더 이상 믿지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI 사무실",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "수색하다",
+                    "content": "C016는 세계지도와 위조 수표를 만져본다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_11",
+            "prev_id": "01_1574_10",
+            "next_id": "01_1574_12",
+            "characters": [
+                "지폐 전문가",
+                "C010",
+                "C016",
+                "C014",
+                "C007",
+                "스튜어디스"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C007의 죽음, 어머니의 새 가족을 보고 C016는 희망을 잃는다.",
+            "unit_motif": "취향의 재발견",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지폐 전문가 사무실",
+                    "character": [
+                        "지폐 전문가",
+                        "C010"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C010은 전문가에게 위조 수표를 만들려면 프랑스라는 말을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지폐 전문가 사무실",
+                    "character": [
+                        "지폐 전문가",
+                        "C010"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C010는 어머니의 고향을 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "프랑스 몽트리샤드",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "크리스마스에 C016의 위조 수표 공장을 찾는 C010는 밖에는 경찰들이 있다며 4살 된 딸을 걸고 약속한다고 말하자 C016는 수갑을 찬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공장밖",
+                    "character": [
+                        "C016",
+                        "C010",
+                        "C014"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C016가 수갑을 차고 나오자 성가대가 노래를 부르고 잠시 후 프랑스 경찰이 달려와 C016를 태운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기안",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "묻는다",
+                    "content": "착륙하면 C007와 통화할 수 있게 해달라는 C016에게 C010는 C007는 돌아가셨다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기안 화장실",
+                    "character": [
+                        "C016",
+                        "C007"
+                    ],
+                    "act": "공감하다",
+                    "content": "토하고 싶다며 화장실로 들어가 흐느끼는 C016는 행복했던 가족들의 모습을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기안 화장실",
+                    "character": [
+                        "C010",
+                        "스튜어디스"
+                    ],
+                    "act": "도망치다",
+                    "content": "C010은 비행기 안 화장실 문을 부수고 들어가지만 C016는 사라졌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "비행기안",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "content": "C010는 착륙하는 비행기에서 도망가는 C016를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "엄마의 집 마당",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "공감하다",
+                    "content": "엄마의 집으로 달려간 C016는 행복한 엄마와 어린 딸을 보고 실망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "엄마의 집 마당",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "경찰이 마당을 둘러싸자 C016는 스스로 항복한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1574_12",
+            "prev_id": "01_1574_11",
+            "characters": [
+                "C016",
+                "C010"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C016는 수감되지만 FBI를 도와 위조 사기범 잡는 일을 하게 된다.",
+            "unit_motif": "취향의 재발견",
+            "causality": "Retaliation(보복/복수)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C016는 미국 재판법에 따라 12년형을 받게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥의 면담소",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "C010는 크리스마스에 C016를 찾아오고 위조범에 대해 몇 가지 증거들을 이야기하자 C016는 창구 직원이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥의 작은방",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "위조 수표를 정확하게 알아보는 C016에게 소장은 FBI 금융 범죄 부서의 일을 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "말하다",
+                    "content": "FBI 본부를 찾은 C016에게 C010는 수표 사기범을 찾으러 매일 출근해야 된다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI C016의 방",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C016의 방에는 수표 사기범의 서류가 가득하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "공감하다",
+                    "content": "C016는 길을 걷다 C009 복장 가게 앞에 걸음을 멈춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C010의 사무실",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "주말을 가족들과 함께할 마음에 바쁘게 일하는 C010와는 다르게 C016는 주말에 약속이 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C016의 사무실",
+                    "character": [
+                        "C016"
+                    ],
+                    "act": "만들다",
+                    "content": "검거됐다는 자신의 서류를 보며 C016는 사진을 떼어낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항",
+                    "character": [
+                        "C016",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "C009 복장을 하고 떠나려는 C016에게 C010는 월요일이면 다시 돌아올 것을 믿는다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "기다리다",
+                    "content": "C010는 10시가 넘었지만 돌아오지 않는 C016를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016가 돌아오자 변호사 시험에 어떻게 합격했냐는 C010의 질문에 당당하게 시험을 쳤다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "FBI본부",
+                    "character": [
+                        "C010",
+                        "C016"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C016와 C010는 내일 아침 사기범을 잡자고 말한다."
+                }
+            ]
+        }
+    ]
+}

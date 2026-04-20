@@ -1,0 +1,2085 @@
+{
+    "id": "01_1437",
+    "type": "movie",
+    "title": "도와줄게",
+    "genre": [
+        "판타지"
+    ],
+    "year": 1989,
+    "theme": "도전",
+    "concept": "뛰어난 산불진화 조종사인 C005는 업무 수행 중 사고에 휘말려 목숨을 잃는다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "귀신소환",
+    "main_character": "귀신",
+    "conflict": "C005는 천국으로 가던 중 천 사장의 명령으로 신참 C004에게 비행술을 전수하기 위해 그와 약혼녀 C001의 주위를 맴돈다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005"
+    ],
+    "units": [
+        {
+            "id": "01_1437_01",
+            "next_id": "01_1437_02",
+            "characters": [
+                "노인들",
+                "C005",
+                "C002",
+                "소방대원들",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "노인들이 한가하게 보트를 타고 낚시를 하고 있다.",
+            "unit_motif": "사고사",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "호수",
+                    "character": [
+                        "노인들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "노인들이 한가하게 보트를 타고 낚시를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "호수",
+                    "character": [
+                        "노인들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "소방 비행선이 낮게 날고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "소방 비행선들이 화재가 난 산을 향해 날고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "C005가 동료 C002에게 작전을 지시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들이 소방 비행선의 출격을 애타게 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "애틋하다",
+                    "content": "C005의 애인 C001가 C005에게 너무 무리하지 말라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 위",
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "C005의 소방 비행선이 화재를 진압한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "당황하다",
+                    "content": "연료가 떨어진 C005가 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "act": "받아들이다/수락하다",
+                    "emotion": "불안하다",
+                    "content": "C001는 C005의 소방 비행선을 불안하게 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "소방대원들"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "안심/안도하다",
+                    "content": "피터의 소방 비행선이 활주로에 무사히 착륙한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_02",
+            "prev_id": "01_1437_01",
+            "next_id": "01_1437_03",
+            "characters": [
+                "C005",
+                "소방대원들",
+                "C001",
+                "C002",
+                "C004"
+            ],
+            "stage": "Main Character",
+            "storyline": "화재가 난 산으로 출동한 소방 비행선 운전수 C005는 최고의 실력으로 화재를 진압한다.",
+            "unit_motif": "사고사",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "소방대원들"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "소방대원들이 달려와 환호한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "화가 난 C001가 소방 비행선을 타고 이륙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C005에게 친구인 C002이 다가와 오늘 C001 생일이라고 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C005가 생일을 몰랐다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "C005가 소방 비행선에 내려온 C001에게 다가가 운행 실수에 대해 지적하자 C001가 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "C001는 자전거를 타고 그냥 가 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "설레다",
+                    "content": "C005는 C001에게 생일 선물을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "감동하다",
+                    "content": "선물이 웨딩드레스이자 C001가 감동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기쁘다",
+                    "content": "C005는 C002에게 가서 맥주를 마신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "단호하다",
+                    "content": "C002이 소방 학교에서 애들을 가르쳐보라고 C005는 거절한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_03",
+            "prev_id": "01_1437_02",
+            "next_id": "01_1437_04",
+            "characters": [
+                "C005",
+                "C002",
+                "C001",
+                "C004",
+                "소방대원들"
+            ],
+            "stage": "Setting-up",
+            "storyline": "관제탑에서 일하는 C001와 사랑하는 사이인 C005, 미래를 꿈꾸는 사이 또 다른 화재 사건에 출동하게 된다. 하지만 C005는 동료 C002의 소방 비행선을 구하다가 죽고 만다.",
+            "unit_motif": "갑작스런 사고",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "설레다",
+                    "content": "웨딩드레스를 입고 나오는 C001를 보고 C005와 다른 소방대원들 모두 넋이 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "설레다",
+                    "content": "C005와 C001가 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "긴장되다",
+                    "content": "평소에 C001에게 관심을 가지던 C004가 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기대되다",
+                    "content": "소방 대원들이 자기들과도 춤을 추자고 하니 C001가 씻고 오라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "emotion": "기대되다",
+                    "content": "모두들 화장실로 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "소방대원들이 세면대에서 손을 씻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "부수다",
+                    "emotion": "긴장되다",
+                    "content": "C005의 소방 비행선이 가까스로 하늘로 올라온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "부수다",
+                    "emotion": "긴장되다",
+                    "content": "C005의 소방 비행선이 폭발하고 만다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "놀라다",
+                    "content": "C002은 C005의 소방 비행선이 안 보이자 충격에 싸인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "슬프다",
+                    "content": "슬퍼하는 C001에게 C002이 와서 위로해준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_04",
+            "prev_id": "01_1437_03",
+            "next_id": "01_1437_05",
+            "characters": [
+                "C005",
+                "C003",
+                "C004"
+            ],
+            "stage": "1st Accident",
+            "storyline": "죽은 C005는 천사 C003을 만나게 되고, C001의 주변을 맴돌게 된다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Catharsis(카타르시스)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "슬프다",
+                    "content": "C005는 화재 진압이 된 산을 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "놀라다",
+                    "content": "C005는 기다리고 있는 천사 C003을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C005의 머리를 깎아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C005가 C003에게 자기가 죽었냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C005에게 그렇다고 답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "초원",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C005를 초원에 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "초원",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "슬프다",
+                    "content": "경비행기가 날자, C005가 저 비행기로 시작했다고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C005가 활주로를 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방학교 앞",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "C005가 소방학교에 있는 C004를 유심히 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방학교 앞",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "놀라다",
+                    "content": "지나가는 사람들이 자신을 알아보지 못하자 신기해한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_05",
+            "prev_id": "01_1437_04",
+            "next_id": "01_1437_06",
+            "characters": [
+                "C005",
+                "C002",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C005는 초보인 C004를 코치해주고 C002은 C001에게 다시 같이 일하자고 한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "소방학교 사무실",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "슬프다",
+                    "content": "C005가 C002을 찾아가 소리치지만 C002은 듣지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방학교 사무실",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "반갑다",
+                    "content": "C002에게 C004가 와서 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방학교 사무실",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "놀라다",
+                    "content": "C004가 C002의 담배에 불을 붙여 주다가 담배를 온통 태운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방학교 사무실",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "당황하다",
+                    "content": "밖에서 소방대원들이 C004를 보고 비웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "언덕",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "담담하다",
+                    "content": "C002이 언덕에 파라솔을 치고 훈련을 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "담담하다",
+                    "content": "C005가 C004 뒤에 앉아 코치를 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "담담하다",
+                    "content": "C004는 무의식적으로 C005의 말대로 따라 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "언덕",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "화나다",
+                    "content": "소방 비행선이 C002이 있는 언덕에다 물을 뿌리고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "화나다",
+                    "content": "화가 난 C002이 C004에게 와서 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "좌절하는 C004에게 C005는 옆에서 C005가 자기도 처음에는 그랬다며 격려한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_06",
+            "prev_id": "01_1437_05",
+            "next_id": "01_1437_07",
+            "characters": [
+                "C004",
+                "C005",
+                "C002",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C004를 도와주던 C005는 C001를 다시 보게 되자 기뻐한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "여자가 C004에게 와서 말을 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "술집",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C005는 옆에서 연애 코치까지 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "단호하다",
+                    "content": "C002은 해안경비대에 접근 허가를 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "해안 경비대",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C002의 목소리를 알아들은 C001가 C002에게 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소 안",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "C002은 C001의 숙소에서 TV를 함께 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소 거실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "단호하다",
+                    "content": "C002이 사무실에 전화를 걸어 조종사를 추천하겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소 거실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "기대되다",
+                    "content": "C002은 C001가 나오자 같이 가자고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소안",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C002이 C001의 짐을 자기가 직접 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소안",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "그립다",
+                    "content": "C002이 C001에게 자기도 C005가 그립다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소안",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "슬프다",
+                    "content": "C001가 울면서 C005 없인 못 산다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_07",
+            "prev_id": "01_1437_06",
+            "next_id": "01_1437_08",
+            "characters": [
+                "C005",
+                "C004",
+                "C001",
+                "노숙자",
+                "C002"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C005와 C004가 폐가에서 노숙자를 만난다.",
+            "unit_motif": "귀신소환",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "기대되다",
+                    "content": "C005가 C004 뒤에 앉아 코치를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "기대되다",
+                    "content": "소방 비행선이 활주로에 착륙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "불안하다",
+                    "content": "불안하게 운전하는 소방 비행선이 지나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "불안하다",
+                    "content": "C005가 운전수가 C001란 것을 직감한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하늘 위",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "안심/안도하다",
+                    "content": "소방 비행선이 악천후에 불시착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C005와 C004가 불시착한 소방 비행선에서 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "노숙자"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "불편하다",
+                    "content": "C005와 C004가 폐가로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "노숙자"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "놀라다",
+                    "content": "C005와 C004, 노숙자를 만나는데 노숙자가 C005의 말을 들을 줄 안다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "노숙자"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "놀라다",
+                    "content": "C005는 노숙자의 입을 통해 인생의 조언을 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002과 춤을 춘다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_08",
+            "prev_id": "01_1437_07",
+            "next_id": "01_1437_09",
+            "characters": [
+                "C005",
+                "C002",
+                "C001",
+                "C004"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C005의 C004에게 소방 비행선 조종 코칭을 하게 된다.",
+            "unit_motif": "귀신소환",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기대되다",
+                    "content": "C001에게 소방 대원들이 와서 줄을 선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "창고",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C005가 계단에 서서 C001를 보며 미소 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C004의 활주로에 착륙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "기대되다",
+                    "content": "C004의 소방 비행선이 술집에서 만난 레이첼이 탄 카트를 따라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "놀라다",
+                    "content": "아무도 타지 않은 카트가 C001의 집을 부순다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "놀라다",
+                    "content": "C001가 집에서 나오자 C005는 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C005는 집으로 들어와 C001를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "C005가 옆에 와서 인사하지만 C001는 알지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C004가 들어와 C001에게 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "이어 C002이 들어와 당장 집을 고쳐주겠다며 호들갑을 떤다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_09",
+            "prev_id": "01_1437_08",
+            "next_id": "01_1437_10",
+            "characters": [
+                "C005",
+                "C004",
+                "C002",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C005의 코치의 힘입어 C004는 소방 비행선 에이스가 되고 C001와 가까워진다.",
+            "unit_motif": "귀신소환",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "C005는 C004 뒤에 타서 코치를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "언덕",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002이 의자에 앉아 훈련을 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "담담하다",
+                    "content": "C005는 긴장할 때면 휘파람을 불어 보라고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "훈련장",
+                    "character": [
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자랑스럽다",
+                    "content": "C004의 소방 비행선이 불이 난 지점을 정확하게 끈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C004의 차를 타고 이동하는 C001, C005가 뒤에 타고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C004가 C001는 화낼 때가 이쁘다고 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "앞에 가던 스쿨버스가 휘청거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "C004와 C001가 추월해서 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "스쿨버스에서 운전수가 나와 기절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "C001가 인근 집에 구급차를 불러달라고 부탁한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_10",
+            "prev_id": "01_1437_09",
+            "next_id": "01_1437_11",
+            "characters": [
+                "C001",
+                "C005",
+                "C004"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C004가 심폐소생술을 하여 운전수를 살려낸다.",
+            "unit_motif": "귀신소환",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "스쿨버스에 있는 아이들이 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "C004가 심폐소생술을 하면서 아이들을 달래준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "당황하다",
+                    "content": "운전수는 이미 죽고 C005 옆에 서 있는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "당황하다",
+                    "content": "운전수가 C004의 도움으로 살아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "놀라다",
+                    "content": "C005가 옆에 보자 운전수가 사라지고 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 장을 보고 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "담담하다",
+                    "content": "C001가 요리를 만들고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 C004를 초대해서 같이 식사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "담담하다",
+                    "content": "C005는 집을 불러 본다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_11",
+            "prev_id": "01_1437_10",
+            "next_id": "01_1437_12",
+            "characters": [
+                "C001",
+                "C005",
+                "C004",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C004와 식사하는 C001는 아직 C005가 그리운지 다음에 만나자고 한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Possession(집착)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "그립다",
+                    "content": "C001와 C004는 대화를 하다 C005 이야기가 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "슬프다",
+                    "content": "오늘이 C005가 죽은 지 일 년이 되는 날인 것을 안 C001가 침울해 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "설레다",
+                    "content": "C004가 음악을 틀더니 C001와 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "설레다",
+                    "content": "C005는 두 사람이 키스를 하자 질투심이 난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "화나다",
+                    "content": "C005는 C003에게 여기서 나가게 해달라고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "그립다",
+                    "content": "C001가 C004에게 나중에 추자고 하자, C004가 집을 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "그립다",
+                    "content": "혼자 남은 C001가 C005를 그리워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "그립다",
+                    "content": "C001는 거울에 비친 웨딩드레스를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "잠에서 깬 C005를 옆에서 C003이 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "C003은 사랑하는 사람과 작별을 하라고 보낸 거지, 미련을 가지라고 하지 않았다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_12",
+            "prev_id": "01_1437_11",
+            "next_id": "01_1437_13",
+            "characters": [
+                "C005",
+                "C003",
+                "소방대원들",
+                "C004",
+                "C002",
+                "직원들",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "화재 사건에 투입되는 C004는 C005의 도움으로 최고의 실력으로 진압에 성공한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "C005는 아직 준비가 안됐다고 하자 C003이 기회를 한 번 더 주기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들이 화재 진압을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "자신감이 생긴 C004가 운전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "자신감 있다",
+                    "content": "C004의 소방 비행선이 불이 난 곳에 정확하게 물을 뿌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C002",
+                        "직원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C002이 관제탑으로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 C004와 통화한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "C002이 여유를 가지라고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "긴장되다",
+                    "content": "C004가 연료가 없다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C004의 소방 비행선이 활주로에 착륙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "안심/안도하다",
+                    "content": "C002과 C001가 C004를 칭찬한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_13",
+            "prev_id": "01_1437_12",
+            "next_id": "01_1437_14",
+            "characters": [
+                "C002",
+                "C001",
+                "소방대원들",
+                "C004",
+                "소방대장",
+                "C005"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C002과 C004는 고립된 소방대원들이 있자 난감해한다.",
+            "unit_motif": "갑작스런 사고",
+            "causality": "Distortion(뒤틀림/왜곡)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "관제탑",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "놀라다",
+                    "content": "다른 직원도 C005 이후로 저렇게 잘 타는 놈은 처음 본다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들이 화재 진압을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "C004가 C002의 사무실로 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "무전기로 소방대원들이 퇴로가 차단됐다고 도움을 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대장"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "소방대장이 빠져나갈 길은 남서쪽의 협곡뿐이라고 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "C004가 관제탑에 정보를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "C005가 옆에서 오류를 지적하자 다시 정보를 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실 밖",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C002과 C004가 소방 비행선으로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실 밖",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "소방 비행선 뒤에 C005가 따라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들이 불을 피해 대피한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_14",
+            "prev_id": "01_1437_13",
+            "next_id": "01_1437_15",
+            "characters": [
+                "운전수들",
+                "C002",
+                "소방대원들",
+                "C004",
+                "C005",
+                "C001"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "소방 비행선에 직접 오르는 C001는 C005의 도움으로 소방대원들이 탈출할 수 있는 퇴로를 만드는 성공한다. C001는 C005의 도움으로 목숨을 구한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선",
+                    "character": [
+                        "운전수들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "운전수들이 소방 비행선에 탑승한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 C001에게 전화를 걸어 C004가 협곡으로 출발할 거라고 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들은 더 이상 피할 곳이 없다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "걱정",
+                    "content": "회의를 하는 C004를 밖에서 C001가 보고는 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실",
+                    "character": [
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "슬프다",
+                    "content": "C005가 창밖으로 C001를 보고는 C004를 사랑하고 있음을 눈치챈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 소방 비행선에 오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사무실 밖",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "걱정",
+                    "content": "C005는 C001를 걱정스럽게 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001의 소방 비행선이 이륙한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C005가 C001에게 이건 C004의 임무이고, 넌 아직 실력이 안된다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C005는 할 수 없이 C001를 코치해준다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_15",
+            "prev_id": "01_1437_14",
+            "next_id": "01_1437_16",
+            "characters": [
+                "소방대원들",
+                "C001",
+                "C005",
+                "소방대장"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001가 C005를 떠올리며 웃는다.",
+            "unit_motif": "귀신소환",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "긴장되다",
+                    "content": "소방대원들이 폭죽으로 위치를 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001의 소방 비행선이 산 불 위를 위태롭게 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대장"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "당황하다",
+                    "content": "C001의 소방 비행선이 실패한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 속",
+                    "character": [
+                        "소방대장"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "소방대장이 더 하강해서 오라고 하한 다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산 불 위",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "안심/안도하다",
+                    "content": "마지막 기회인 C001는 침착하게 C005의 지시대로 운전을 해 퇴로를 여는데 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 가",
+                    "character": [
+                        "소방대원들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "기쁘다",
+                    "content": "강 가로 탈출에 성공한 소방대원들이 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "임무 수행을 성공적으로 마친 C001가 C005를 떠올리며 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "그립다",
+                    "content": "C005가 C001에게 작별 인사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "그립다",
+                    "content": "C005가 자기 말이 들리면 머리를 쓰다듬으라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "놀라다",
+                    "content": "신기하게도 C001가 머리를 쓰다듬는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1437_16",
+            "prev_id": "01_1437_15",
+            "characters": [
+                "C001",
+                "C005",
+                "C004"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001와 C005는 활주로에 서서 작별 인사를 한다.",
+            "unit_motif": "귀신소환",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "강 가",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "부수다",
+                    "emotion": "긴장되다",
+                    "content": "C001의 소방 비행선이 강으로 불시착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "놀라다",
+                    "content": "소방 비행선에 물이 차오르기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "놀라다",
+                    "content": "물에 잠긴 C001가 자포자기하는데 옆에 C005가 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "소방 비행선 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001가 C005의 손을 잡고 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 물 위",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "안심/안도하다",
+                    "content": "강 물 위로 떠 오른 C001가 죽다 살아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강 물 위",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "그립다",
+                    "content": "C001가 C005를 외친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "그립다",
+                    "content": "C001와 C005가 활주로에 서서 작별을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "반갑다",
+                    "content": "C001가 앞으로 걸어가면 C004가 달려와 안는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "안심/안도하다",
+                    "content": "C005가 보면서 그래야 내 사랑이고 내 제자이지 하면서 미소 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "활주로",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "안심/안도하다",
+                    "content": "돌아서서 걸어가는 C005가 홀연히 사라진다."
+                }
+            ]
+        }
+    ]
+}

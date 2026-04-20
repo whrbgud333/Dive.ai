@@ -1,0 +1,2293 @@
+{
+    "id": "01_3211",
+    "type": "movie",
+    "title": "도와줘요, 탐정님!",
+    "genre": [
+        "판타지",
+        "스릴러",
+        "액션"
+    ],
+    "year": 2020,
+    "theme": "모험",
+    "concept": "갑자기 사라진 엄마를 찾기 위해 C001가 모험을 떠난다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "부모 찾기",
+    "main_character": "용감함",
+    "conflict": "엄마를 찾기 위해 모험을 떠난 C001가 C005 실종 사건에 휘말리지만 사건의 배후를 찾아 해결하고, 엄마로부터 독립한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012",
+        "C013"
+    ],
+    "units": [
+        {
+            "id": "01_3211_01",
+            "next_id": "01_3211_02",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001는 어렸을 때부터 엄마에게 수련을 받아왔으나, 어느 날 엄마가 사라진다.",
+            "unit_motif": "수련/훈련",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "나레이션",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "황당하다",
+                    "content": "제 이름 C001는 엄마가 지은 이름인데, 홀로라는 단어를 섞어서 만든 이름이에요."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 집1",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "자신감 있다",
+                    "content": "C001, 넌 혼자서도 잘 살 거란다."
+                },
+                {
+                    "type": "script",
+                    "location": "나레이션",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "아버지는 어렸을 때 돌아가셨고, 두 오빠도 집을 떠나서 저는 엄마랑 단둘이 자랐어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 회상",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수련한다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 C002에게 어릴 때부터 독서, 과학, 운동 등 갖가지 훈련을 받았다."
+                },
+                {
+                    "type": "script",
+                    "location": "나레이션",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "행복하다",
+                    "content": "엄마는 내 전부였지만, 내게 비밀이 있었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 집1 서재",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 C002와 의문의 여성들이 회의를 하는 것을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나레이션",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "속상하다",
+                    "content": "엄마는 최고의 미덕인 사생활이 자주 지켜지지 않는 것에 대해 불만이 있었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 집1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "C001의 열여섯 살 생일에 엄마가 보이지 않아 엄마를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 집1 거실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "슬프다",
+                    "content": "C001가 엄마가 집을 떠난 것을 깨닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 집1 부엌",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "궁금하다",
+                    "content": "C001는 엄마가 준비한 생일 선물인 꽃말 카드와 여러 도구를 C006에게 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역 가는 길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001가 자전거를 타고 기차역으로 향한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_02",
+            "prev_id": "01_3211_01",
+            "next_id": "01_3211_03",
+            "characters": [
+                "C001",
+                "C003",
+                "C004",
+                "C007"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003와 C004가 어머니의 단서를 찾는다. 한편, C003는 C001를 기숙학교에 보내기로 한다.",
+            "unit_motif": "가족 불화",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "기대되다",
+                    "content": "C001가 오빠 C003와 C004를 마중 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "놀라다",
+                    "content": "C003와 C004는 오랜만에 만난 C001의 모습에 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 가는 길",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "놀라다",
+                    "content": "C001와 C003, C004이 마차를 타고 집1로 향한다. C003는 관리가 안 된 집1의 외관을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "담담하다",
+                    "content": "C003와 C004이 어머니의 방을 조사한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "담담하다",
+                    "content": "어머니는 납치당한 게 아니야, 스스로 떠나신 거지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C003가 페미니즘 서적을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "험담하다",
+                    "emotion": "답답하다",
+                    "content": "C003는 C001가 가정교사 없이 혼자서 공부한 것이 마음에 들지 않는다."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 당구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "내가 C001를 기숙학교에 보낼 테니, 너는 어머니를 찾아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 마당",
+                    "character": [
+                        "C003",
+                        "C007"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "걱정",
+                    "content": "C003가 C001를 맡길 기숙학교의 선생 C007을 맞이한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 당구장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 엉망이야. 어머니 대신 내가 보호자야. 천방지축인 C001를 고쳐놔야겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C001의 방",
+                    "character": [
+                        "C001",
+                        "C007"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "거부감",
+                    "content": "C001가 기숙학교 교복 치수를 재는데, C007과 말싸움을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 안방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "애원/구걸하다",
+                    "emotion": "괴롭다",
+                    "content": "제발 기숙학교에 보내지 말고 여기 집1에서 계속 행복하게 살게 해주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 안방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "지금 네 상태로는 결혼할 수가 없어. 그래서 기숙학교에 가서 교육받아야 해."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 안방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "화나다",
+                    "content": "어머니가 너를 가르친 꼴을 보아하니 결혼은 못 하겠구나. 넌 신부수업을 받아야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 안방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "화나다",
+                    "content": "C003가 엄마를 무시하자, C001가 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "집1 안방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "담담하다",
+                    "content": "대단한 엄마는 왜 널 버리고 갔니?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 안방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "C003가 내일 직접 C001를 기숙학교에 데려가기로 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_03",
+            "prev_id": "01_3211_02",
+            "next_id": "01_3211_04",
+            "characters": [
+                "C004",
+                "C001",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C004의 말을 듣고, 엄마가 남긴 단서를 찾아 나선다.",
+            "unit_motif": "깨달음",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "걱정",
+                    "content": "C004가 나무 위에 혼자 있는 C001에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "행복하다",
+                    "content": "어렸을 때 너는 참 고집 세고, 천방지축이었어."
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "속상하다",
+                    "content": "엄마는 이제 돌아오지 않을 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "기대되다",
+                    "content": "어머니만의 방식으로 할 일이 있어서 떠나신 걸 거야. 그리고 이런 미스터리를 푸는 것은 재미있단다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "화나다",
+                    "content": "C001는 엄마가 다시 돌아오길 바란다."
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "기대되다",
+                    "content": "감정은 도움이 안 돼. 남아 있는 단서를 찾아서 진실을 알아내."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 엄마가 준 선물 속에 남긴 단서를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 엄마의 국화 그림에서 엄마가 남긴 돈과 편지를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 기억",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "C001 네가 정한 길을 갈지, 남이 정한 길을 갈지 선택해야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "뿌듯하다",
+                    "content": "C001가 자신이 직접 길을 선택하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C004의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "기대되다",
+                    "content": "C001가 C004이 어렸을 때 입은 옷으로 변장해서 도망친다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_04",
+            "prev_id": "01_3211_03",
+            "next_id": "01_3211_05",
+            "characters": [
+                "C001",
+                "C008",
+                "C009",
+                "C010",
+                "C003",
+                "C005",
+                "C004",
+                "C006"
+            ],
+            "stage": "1st Accident",
+            "storyline": "집을 떠난 C001가 C005를 만나 위험에 휘말린다.",
+            "unit_motif": "도망/도피/잠적",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 도망치는 길에 거짓 증거를 남긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 다른 지역의 기차역으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C008",
+                        "C009",
+                        "C010"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "걱정",
+                    "content": "한편, C005의 가족 이 C005를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "C001가 C005의 가족 쪽을 향해 인사하고 기차에 타는 갈색 중절모를 쓴 남자를 목격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C001의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "괘씸하다",
+                    "content": "C003는 C001가 사라진 것을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 가방 안에 숨어 있던 C005를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "제가 지금 숨어있는 처지라서 객실 밖으로 나가면 안 돼요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "짜증나다",
+                    "content": "객실 밖으로 나가라는 C001와 안 된다는 C005가 말다툼을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "짜증나다",
+                    "content": "갈색 중절모를 쓴 남자가 아직 당신을 찾고 있는데, 여기서 발견되면 나도 위험해질 테니 당장 여기서 나가요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "C005가 객실을 나가자마자 자신을 쫓는 C011을 보고 다시 객실 안으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 안 복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "걱정",
+                    "content": "객실을 떠난 C001가 C005의 비명을 듣고 다시 객실로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 객실 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "돕다",
+                    "emotion": "걱정",
+                    "content": "C001가 죽을 위기에 처한 C005를 C011에게서 구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C005가 C011을 피해 도망친다."
+                },
+                {
+                    "type": "script",
+                    "location": "기차 밖",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "긴장되다",
+                    "content": "시간 계산만 잘 하면 도망칠 수 있어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차 밖",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C005가 C011을 피해 기차에서 뛰어내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "담담하다",
+                    "content": "한편, C004가 사라진 C001를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집1 C002의 방",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "걱정",
+                    "content": "C006이 사라진 C001를 걱정하며, C004에게 C001를 꼭 찾아달라고 부탁한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_05",
+            "prev_id": "01_3211_04",
+            "next_id": "01_3211_06",
+            "characters": [
+                "C001",
+                "C005",
+                "런던 시민1",
+                "C004",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001와 C005가 런던에 도착하고, 두 사람은 각자 갈 길 간다.",
+            "unit_motif": "이별",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "짜증나다",
+                    "content": "C001와 C005가 말다툼하며 들판을 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "즐겁다",
+                    "content": "C005가 들판에서 먹을 것을 발견하고, C001가 불을 피우면 저녁을 먹기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "C001와 C005는 담소를 나누다가 두 사람 모두 아버지를 여의었다는 사실을 알게 된다."
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "나는 기숙학교에 가기 싫어서 집을 나왔어. 너는?"
+                },
+                {
+                    "type": "script",
+                    "location": "들판",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "나는 귀족원에 입성해서 사유지 관련 법안을 상정하려고 했는데, 가족들이 군에 입대하라고 해서 도망쳤어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "C005가 런던에서 함께 지내자고 제안하지만 C001는 거절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "들판",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "단호하다",
+                    "content": "C001가 C005의 변장을 위해 그의 머리를 움켜쥐며 머리를 자른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 중심가 거리",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "런던에 도착하고, C001와 C005는 헤어지며 각자 갈 길을 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 중심가 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "놀라다",
+                    "content": "처음 와 본 런던에 C001는 정신이 없어서 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 중심가 거리",
+                    "character": [
+                        "런던 시민1"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "단호하다",
+                    "content": "런던 시민1이 거리에서 개정안이 통과되어야 한다며 사람들에게 외치고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 옷 가게 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C001가 드레스를 입고 숙녀로 변장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 살롱",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "답답하다",
+                    "content": "한편, C003와 C004이 C001의 행방을 찾고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 살롱",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "보람차다",
+                    "content": "C004이 신문 기사를 보고 C001의 행방에 대한 단서를 얻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 살롱",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "걱정",
+                    "content": "선거법 개정안이라니. 이 나라에 무지한 유권자는 필요 없는데, 이러다가 영국은 망할 거야."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_06",
+            "prev_id": "01_3211_05",
+            "next_id": "01_3211_07",
+            "characters": [
+                "C001",
+                "C013"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 엄마와 함께 회의를 하던 C013를 만나고, 엄마의 암호를 풀어낸다.",
+            "unit_motif": "계략을 파악",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "당황하다",
+                    "content": "C001가 허름한 곳에 숙소를 얻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 신문사",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 엄마가 평소 읽던 신문들의 광고란에 엄마를 향한 암호를 남긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 찻집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001가 엄마가 항상 편지를 부치던 찻집으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001",
+                        "C013"
+                    ],
+                    "act": "만나다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 찻집 위층에 있는 주짓수 수련장에서 자신에게 주짓수를 알려준 첫 번째 선생님 C013를 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001는 C013에게 엄마의 행방을 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "C002는 널 만나고 싶지 않을 수 있어. 게다가 C002는 할 일이 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C013가 C002가 하려는 일을 말해주지 않자 C001가 C013를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "C001가 C013에게 주짓수 기술2 동작을 취하지만, 실패한다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "단호하다",
+                    "content": "런던에서 엄마 찾느라 시간 낭비하지 말고, 주체적으로 살아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 수련장 구석에서 엄마의 서재에 있던 똑같은 상자를 발견하고, 그곳에서 폭탄을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 주짓수 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 엄마가 회의 때마다 말하던 암호가 지역3이라는 것을 알아낸다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_07",
+            "prev_id": "01_3211_06",
+            "next_id": "01_3211_08",
+            "characters": [
+                "C001",
+                "C002",
+                "C011"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 지역3에서 엄마가 하려는 일을 알아낸다. 그곳에서 C011에게 위협당하지만, 기지를 발휘해 물리친다.",
+            "unit_motif": "기습",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "여성 인권 운동가 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 지역3에서 엄마와 여성인권운동가들이 쓰던 보라색 끈으로 표시되어 있는 의문의 장소를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여성 인권 운동가 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "설레다",
+                    "content": "여성인권운동가 아지트에서 엄마와 쓰던 실험 기구들과 여성 참정권을 촉구하는 회의 전단지 그리고 폭탄2 폭탄을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "여성 인권 운동가 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "C003 오빠의 말처럼 엄마는 위험하고, C004 오빠의 말처럼 엄마에게는 계획이 있구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 집1 실험실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 C002가 어린 C001와 폭발 실험을 했던 과거를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여성 인권 운동가 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "당황하다",
+                    "content": "C001는 C002의 계획을 궁금해하고, C002를 계속 찾아도 되는지 고민한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "C011이 여성 인권 운동가 아지트에서 나오던 C001를 기습공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "괘씸하다",
+                    "content": "C011이 C001를 물고문하며 C005의 행방을 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C005가 어디 있는지 모른다고 해도 너는 내 얼굴을 봐서 죽여야겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "유쾌하다",
+                    "content": "C001가 죽은 척 연기하고, C011이 방심한 사이 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C001",
+                        "C011"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C011이 몸싸움을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 C011에게 주짓수 기술2 기술을 걸지만, 실패하고 여성인권운동가의 아지트로 내던져진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지역3 거리",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C011이 C001를 죽이려 칼을 휘두른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "여성 인권 운동가 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "비장하다",
+                    "content": "C001가 기지를 발휘하여 아지트를 폭파시키고 C011으로부터 달아난다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_08",
+            "prev_id": "01_3211_07",
+            "next_id": "01_3211_09",
+            "characters": [
+                "C001",
+                "C009",
+                "C012",
+                "C004",
+                "C013",
+                "C003"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 C005가 위험한 상황임을 알고 구하기로 결심하고, 집7을 조사하기 시작한다. 한편, C004과 C003는 C001의 행방에 한 발 더 가까워진다.",
+            "unit_motif": "조사/정찰",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "비장하다",
+                    "content": "C001는 C005를 구하기로 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "유쾌하다",
+                    "content": "C001가 과부로 변장해서 이름을 속인 채 집7을 방문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "C009가 C001의 방문을 거절한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "저는 C004의 조수예요. 제게 먼저 사전조사를 하라고 해서 왔습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "괘씸하다",
+                    "content": "넌 C004의 조수가 아니야. C004은 혼자 일하거든."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C012가 C001를 의심하자 C001가 누구의 말이 맞는지 C004에 대한 퀴즈를 통해 가려내자고 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "C009가 C001와 C012를 집에서 쫓아낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 밖",
+                    "character": [
+                        "C012",
+                        "C001"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "자신감 있다",
+                    "content": "C012와 C001가 쫓겨났는데도 서로에게 C004에 관한 문제를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 밖",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C012가 떠나고 C001가 조사를 더 진행하기 위해 정원사에게 옷을 주고 사 정원사로 변장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 찻집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "한편, C004가 C013를 만나 엄마의 행방을 묻지만 대답을 듣지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 찻집",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "당신은 이미 만족한 삶을 살고 있기 때문에 세상을 바꾸는 데 관심 없어요. 변화하는 세상을 직면하세요. 그래도 여동생 일에는 관심 있어서 다행이네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 이발소",
+                    "character": [
+                        "C003",
+                        "C012"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "C003가 이발소에서 은밀히 C012를 만난다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 이발소",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C001를 찾아오면 포상금을 많이 주도록 하지."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_09",
+            "prev_id": "01_3211_08",
+            "next_id": "01_3211_10",
+            "characters": [
+                "C001",
+                "C008",
+                "C005"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 집7에서 C005 사건에 대한 단서를 수색하고, 런던에서 C005와 합류한다. 한편, C001와 C005는 서로 향한 감정을 깨닫는다.",
+            "unit_motif": "감정 자각",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집7 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 C005의 아지트를 조사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 C005의 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "설레다",
+                    "content": "C001가 C005가 남긴 흔적들을 보며 추억을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 C005의 아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "감탄하다",
+                    "content": "C001가 C005가 남긴 단서들을 보며 감탄한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 C005의 아지트",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "담담하다",
+                    "content": "그곳은 위험하니, 내려오는 것이 좋을 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 숲",
+                    "character": [
+                        "C001",
+                        "C008"
+                    ],
+                    "act": "만나다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 C008에게 들킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 숲",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "우리는 조상에게 땅을 물려받았으니, 불안정한 세상에서 영국의 안정과 안보를 보호해야 해요."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 숲",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "실망하다",
+                    "content": "C005의 아빠는 항상 진보적인 생각을 했어요. 손자도 마찬가지인 것 같아요. 이제 며느리나 아들한테 잡히기 전에 가봐요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C008에게 C005를 만나면 안부를 전해달라는 부탁을 듣고 집7을 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 꽃 시장",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "설레다",
+                    "content": "C001가 런던 꽃 시장에서 C005를 만난다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 꽃 시장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "설레다",
+                    "content": "널 안 본 사이에 조금 더 좋아하게 됐고, 네가 위험하다는 것을 알게 돼서 만나러 왔어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 꽃 시장",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "기쁘다",
+                    "content": "C005도 C001가 그리웠다고 고백한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 꽃 시장",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "위험한 상황이기 때문에 C001와 C005는 함께 행동하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 꽃 시장",
+                    "content": "C001를 수배하는 전단지가 런던 꽃 시장 기둥에 붙어 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C005",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C005가 C001의 숙소에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C005가 C001의 방을 둘러보다가 C001가 모아둔 신문들을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "슬프다",
+                    "content": "엄마는 내가 엄마를 찾기를 바랄 줄 알았는데, 그런 것 같지 않아. 그래서 내가 보낸 메시지에 대해 엄마가 신문을 통해 답장을 보냈을까 봐 보고 있었어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "화나다",
+                    "content": "C001가 C005에게 동정하지 말라고 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "씁쓸하다",
+                    "content": "사람들은 우리를 싫어하는 것 같은데, 우리는 서로가 있어서 다행이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "설레다",
+                    "content": "C001와 C005 사이에 묘한 기류가 흐르자, C001가 자리를 피한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_10",
+            "prev_id": "01_3211_09",
+            "next_id": "01_3211_11",
+            "characters": [
+                "C001",
+                "C005",
+                "C012",
+                "옷 가게 주인"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 C012에게 잡히고, C005는 도망간다.",
+            "unit_motif": "기습",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "답답하다",
+                    "content": "C005가 자신을 왜 죽이려는 것 같냐고 묻자 C001가 C005의 가족이 C005를 죽이려고 했다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "혼란스럽다",
+                    "content": "가족들이 날 왜 죽이려고 해?"
+                },
+                {
+                    "type": "script",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "답답하다",
+                    "content": "널 죽이려는 이유는 너무 많아. 너의 아버지를 죽인 이유랑 똑같겠지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "화나다",
+                    "content": "C005는 자신의 아버지는 살해당한 것이 아니라며 C001의 말을 믿지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "네가 깔려 죽을 뻔한 나뭇가지를 보니까 일부러 사람이 잘린 자국이 있었어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 숨어있던 C012를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 숙소 주방",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "절박하다",
+                    "content": "C001와 C005가 C001의 방으로 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소 방문 앞",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C012가 C001와 C005가 닫은 방문을 열기 위해 안간힘을 쓴다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 C001의 숙소 방안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "비장하다",
+                    "content": "너는 잡히면 목숨이 위험하고, 나는 잡히면 기숙학교로 가는 것뿐이니까, 도망가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소 방안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "슬프다",
+                    "content": "C005가 고민하다가 C001를 남겨두고 도망간다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 C001의 숙소 방안",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "보람차다",
+                    "content": "포상금이 더 많았던 도련님보다 당신을 잡는 것이 더 기쁘네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소 방안",
+                    "character": [
+                        "옷 가게 주인"
+                    ],
+                    "act": "보다",
+                    "emotion": "만족하다",
+                    "content": "옷 가게 주인이 C001의 수배지를 들고 의기양양하게 서있다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_11",
+            "prev_id": "01_3211_10",
+            "next_id": "01_3211_12",
+            "characters": [
+                "C003",
+                "C001",
+                "C007",
+                "C004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 C003에게 잡혀 기숙 학교생활을 하게 되고, C004를 통해 엄마의 사랑을 깨닫는다.",
+            "unit_motif": "고민 해결",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "기숙학교 가는 길 마차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "너는 내가 싫고, 내가 하는 일이 옳지 않다고 생각하겠지만, 네 어머니도 결혼을 했어. 난 네가 행복하길 바라서 이러는 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "기숙학교 가는 길 마차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "화나다",
+                    "content": "아뇨, 오빠는 평판 때문에 이러는 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 가는 길 마차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C001가 풀어달라고 하자, C003가 화를 내며 안된다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "답답하다",
+                    "content": "C001는 기숙학교에서 신부수업을 받지만, 반항한다."
+                },
+                {
+                    "type": "script",
+                    "location": "기숙학교 C001의 방",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "자신감 있다",
+                    "content": "난 너희 엄마와 달리 절대 버리지 않아. 언젠가 결혼을 하게 되면, 내게 고마워할 거다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "화나다",
+                    "content": "C001가 스스로 코르셋을 조인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "C004가 C001를 만나러 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "엄마를 막을 거냐는 C001의 물음에 C004는 막지 않을 거라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "화나다",
+                    "content": "C001가 왜 자신을 찾았냐며 C004와 말다툼한다."
+                },
+                {
+                    "type": "script",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "걱정",
+                    "content": "나는 네가 걱정돼서 찾은 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "애틋하다",
+                    "content": "C004가 C001에게 상어를 잡기 위해서는 유인해야 한다며 C005 사건에 대한 조언을 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "애틋하다",
+                    "content": "C004가 어머니 베개 밑에 있던 C001 어린 시절 장난감을 건네준다."
+                },
+                {
+                    "type": "script",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "애틋하다",
+                    "content": "어머니는 항상 널 특별하게 생각하셨어. 나도 그렇게 생각해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "애틋하다",
+                    "content": "C001는 C004를 통해 C002와 C004가 자신을 사랑한다는 것을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 응접실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "C001는 C005가 선거법 개정안 때문에 위협을 받고 있음을 알아낸다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_12",
+            "prev_id": "01_3211_11",
+            "next_id": "01_3211_13",
+            "characters": [
+                "C005",
+                "C001",
+                "C011"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C005의 도움으로 기숙학교에서 도망친 C001는 진범을 잡기 위해 집7로 향하고, 그곳에서 공격받는다.",
+            "unit_motif": "기습",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 C001의 방",
+                    "character": [
+                        "C005",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "기쁘다",
+                    "content": "C001와 기숙학교에 몰래 숨어 들어온 C005가 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기숙학교 C001의 방",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001와 C005가 기숙학교에서 도망치는 데 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7로 가는 길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "비장하다",
+                    "content": "C001는 C005 사건의 진범을 잡기 위해 집7로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7로 가는 길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "C001는 C005의 삼촌이 선거법 개정안 때문에 C005를 죽이려고 한 것일 거라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 앞",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C005가 집7에 도착한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무섭다",
+                    "content": "왜 우리가 이 일을 해야 해?"
+                },
+                {
+                    "type": "script",
+                    "location": "집7 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "나는 엄마한테 직접 보고 들으라고 배웠어. 나를 믿고, 답을 찾으러 가자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C005가 하인이 없는 저택을 돌아다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C011이 어둠 속에서 나타나 C001와 C005를 향해 총을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "C001와 C005가 C011의 저격을 피해 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001",
+                        "C011"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 C011과 싸우다가 기절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "무감각함",
+                    "content": "C011이 C005의 목을 조른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C001가 C011에게 주짓수 기술2 기술을 성공해 쓰러뜨린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "C001가 C011에게 누구를 위해 일하냐고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C011"
+                    ],
+                    "act": "죽다",
+                    "emotion": "비장하다",
+                    "content": "난 영국을 위해 일한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_13",
+            "prev_id": "01_3211_12",
+            "next_id": "01_3211_14",
+            "characters": [
+                "C008",
+                "C001",
+                "C005"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "진범인 C008가 나타나고 C005를 죽이려고 하지만 실패한다.",
+            "unit_motif": "상황의 전말을 알게 됨",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "담담하다",
+                    "content": "C011이 죽고, C008가 등장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "슬프다",
+                    "content": "조국의 미래를 위해 너를 죽여야겠구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베질웨더  저택 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "놀라다",
+                    "content": "C008가 C001마저 총으로 쏘려고 하지만 총알이 떨어져서 실패한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베질웨더  저택 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "화나다",
+                    "content": "C001가 C008에게서 총을 뺏는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "애원/구걸하다",
+                    "emotion": "슬프다",
+                    "content": "C001가 쓰러진 C005에게 달려가 일어나라고 애원한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "안심/안도하다",
+                    "content": "죽은 줄 알았던 C005가 C001의 손을 움켜쥔다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "나는 바보가 아니라고 말했잖아. 넌 싸움을 잘하는구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "안심/안도하다",
+                    "content": "C005가 몸속에 숨겨놓은 철판을 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "안심/안도하다",
+                    "content": "C001가 안도하며 C005를 껴안는다."
+                },
+                {
+                    "type": "script",
+                    "location": "집7 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "단호하다",
+                    "content": "할머니의 시대는 갔어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집7 안",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "절망하다",
+                    "content": "C005의 말을 듣고 C008가 망연자실한다."
+                }
+            ]
+        },
+        {
+            "id": "01_3211_14",
+            "prev_id": "01_3211_13",
+            "characters": [
+                "C004",
+                "C012",
+                "C005",
+                "C001",
+                "C003",
+                "C002"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C005는 무사히 의원이 되어 선거법 개정안을 통과시킨다. C001는 엄마와 만나게 되고, 스스로 선택하며 사는 삶을 살기로 한다.",
+            "unit_motif": "결심",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "런던 경시청 레스트레이듸 사무실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "자신감 있다",
+                    "content": "C004가 C012에게 C005 사건의 진범을 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 경시청 레스트레이듸 사무실",
+                    "character": [
+                        "C012"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "근데 어떻게 여동생이 오빠보다 먼저 사건을 해결했죠?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 경시청 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "자랑스럽다",
+                    "content": "C004가 C001의 활약을 생각하며 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 의회 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "긴장되다",
+                    "content": "한편, C005가 첫 의회 참석을 준비하며 가족들과 담소를 나누고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 의회 앞",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "설레다",
+                    "content": "C001와 C005가 의회 문을 사이에 두고 담소를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 의회 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "설레다",
+                    "content": "내가 부탁한다면, 나랑 같이 지내줄래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 의회 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "미안하다",
+                    "content": "C001가 C005의 제안을 거절하며, C005의 손을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 의회 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "애틋하다",
+                    "content": "C005가 C001의 손등에 키스하며 작별을 고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 신문에서 엄마가 남긴 듯한 암호를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "괘씸하다",
+                    "content": "신문 속 암호가 엄마가 아닌 C004가 보낸 것을 알아차린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 왕실 예술원 앞",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "궁금하다",
+                    "content": "C003와 C004가 왕실 예술원에서 C001를 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 왕실 예술원 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "만약 C001를 찾게 되면, 이제 내가 보호자 역할을 할 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 왕실 예술원 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "짜증나다",
+                    "content": "C005의 등장으로 한 표 차이로 선거법 개정안이 통과되어서 C003는 짜증 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 왕실 예술원 앞",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "애틋하다",
+                    "content": "C004가 왕실 예술원을 나가던 중 C001가 일부러 남긴 어린 시절 장난감을 보고 웃음을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 왕실 예술원 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "애틋하다",
+                    "content": "한편, C001가 남장을 하고 왕실 예술원에 와있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "그립다",
+                    "content": "C001가 C002와 만난다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "미안하다",
+                    "content": "너를 사랑하지 않아서가 아니라 널 위해서 떠난 거야. 너에게 더 좋은 세상을 물려주기 위해서 싸워야 했어. 너의 의견을 듣길 바란다면, 소리 내서 말해야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002는 C001가 선거법 개정안을 통과시켰다며 자랑스러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "런던 C001의 숙소",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "애틋하다",
+                    "content": "C001와 C002가 포옹한다."
+                },
+                {
+                    "type": "script",
+                    "location": "런던 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "자신감 있다",
+                    "content": "저도 오빠들, 엄마처럼 홀로 삶을 개척하면서 스스로 살아갈 거예요."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2802 @@
+{
+    "id": "01_2156",
+    "type": "movie",
+    "title": "공포의 수녀원",
+    "genre": [
+        "공포(호러)"
+    ],
+    "year": 2018,
+    "theme": "도전",
+    "concept": "C001 신부, C002 수녀는 성국의 명령으로 국가2의 수녀원에서 봉인이 풀린 악마를 다시 봉인하려고 한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "퇴마사",
+    "main_character": "성직자",
+    "conflict": "수녀원의 수녀 악마와 악마를 봉인하기 위해 성국에서 파견된 C001 신부, C002 수녀가 대립한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006"
+    ],
+    "units": [
+        {
+            "id": "01_2156_01",
+            "next_id": "01_2156_02",
+            "characters": [
+                "E001",
+                "수녀1"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "수녀원에서 수녀1, E001가 봉인에서 풀려난 악마를 다시 봉인하려고 한다.",
+            "unit_motif": "죽음",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001",
+                        "수녀1"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "E001, 수녀1이 복도를 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "정말 할 수 있을 거라 생각하세요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "다른 선택지가 없어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "content": "수녀1가 열쇠를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "content": "수녀1가 가볍게 기도를 하고 문을 연다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "그 유물로 정말 우리가 할 수 있을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "우리는 할 수 있을 겁니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "content": "수녀1가 어두운 방으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "무섭다",
+                    "content": "E001 겁에 질린 채 기도를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "content": "어두운 방에서 수녀1의 피 묻은 손이 튀어나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "어서 도망가요! 악마가 열쇠를 뺐으려고 당신을 쫓을 거예요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀1"
+                    ],
+                    "content": "수녀1가 어두운 방으로 끌려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "E001가 열쇠를 가지고 도망간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_02",
+            "prev_id": "01_2156_01",
+            "next_id": "01_2156_03",
+            "characters": [
+                "E001",
+                "C003"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "E001는 악마에게서 수녀원의 한 방으로 도망가고 창문 밖으로 뛰어내려 자살한다.",
+            "unit_motif": "죽음",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "E001가 C003에게서 방으로 도망쳐 들어와 문을 잠근다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "무섭다",
+                    "content": "E001가 밧줄을 들고 짧은 기도를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 잠근 문이 저절로 열린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 창가로 올라선다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무섭다",
+                    "content": "저를 용서하세요. 다른 방법이 없어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 밧줄을 자신의 목에 감는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "content": "복도에 켜져 있는 촛불이 하나씩 꺼진다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무섭다",
+                    "content": "하느님, 죄송합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 창밖으로 뛰어내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C003이 창밖으로 E001를 쳐다본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_03",
+            "prev_id": "01_2156_02",
+            "next_id": "01_2156_04",
+            "characters": [
+                "주교",
+                "C001",
+                "신부1",
+                "신부2"
+            ],
+            "stage": "Main Character",
+            "storyline": "성국 수도원에서 수녀원에서 일어난 자살 사건을 조사하기 위해 C001를 소환한다.",
+            "unit_motif": "임무 부여",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "주교"
+                    ],
+                    "act": "말하다",
+                    "content": "C001 신부님, 시간 괜찮습니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "성국 수도원",
+                    "character": [
+                        "C001",
+                        "주교"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001와 주교가 복도를 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "주교"
+                    ],
+                    "act": "말하다",
+                    "content": "얼마 만에 돌아오신 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "전쟁이 끝나고 왔으니 오래됐죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성국 수도원",
+                    "character": [
+                        "C001",
+                        "주교"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001와 주교가 복도의 한 방으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "신부1"
+                    ],
+                    "act": "말하다",
+                    "content": "C001 신부님, 국가2의 수녀원에서 수녀가 자살했습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "자살은 죄가 맞지만, 제가 소환된 이유가 되나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "신부1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그렇지만 그 수녀원에서 무슨 일이 일어나고 있는 것 같습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성국 수도원",
+                    "character": [
+                        "신부2"
+                    ],
+                    "act": "준다",
+                    "content": "신부2가 C001에게 서류를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "신부2"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "여기 수녀를 발견한 사람의 주소가 있습니다. 그를 먼저 만나세요."
+                },
+                {
+                    "type": "script",
+                    "location": "성국 수도원",
+                    "character": [
+                        "신부1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그리고, 동행할 수녀를 정해줄 테니 찾아가세요."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_04",
+            "prev_id": "01_2156_03",
+            "next_id": "01_2156_05",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001가 C002 수녀를 수녀원에 동행시키기 위해 찾아간다.",
+            "unit_motif": "임무 부여",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002이 정원을 같이 걷는다."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "성국에서 수녀님을 추천하더군요, 며칠 안 걸릴 겁니다. 장소는 국가2 입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "하지만, 저는 국가2에 가본 적이 없는걸요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 C002을 돌아본다."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "무언가 착오가 있는 것 같아요."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "과연 그럴까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002은 정원의 연못까지 걸어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "헛걸음하게 해서 죄송합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "성국에서 수녀님을 데려가라 하는 데는 이유가 있겠죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성빈센트 병원",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002은 정원을 계속 산책한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_05",
+            "prev_id": "01_2156_04",
+            "next_id": "01_2156_06",
+            "characters": [
+                "C004",
+                "C001",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001 신부와 C002 수녀는 수녀원에서 자살한 수녀의 시체를 목격한 C004를 찾아간다.",
+            "unit_motif": "임무 부여",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "무섭다",
+                    "content": "C004가 악몽에서 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "content": "문 두드리는 소리가 난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 문을 연다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004씨 되십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "늙은이하고 미인이 우리 집에 무슨 일로 왔죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "당신이 발견한 수녀 일로 찾아왔어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 C001의 짐을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "뭐야, 신부예요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004씨, 수녀원은 여기서 얼마나 걸리죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "멀지는 않지만, 시간은 좀 걸리죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 가축들에게 먹이를 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "거기에 데려다줄 수 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "거부감",
+                    "content": "그 수녀원에 별로 다시 가고 싶지는 않네요."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "난감하다",
+                    "content": "부탁드립니다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_06",
+            "prev_id": "01_2156_05",
+            "next_id": "01_2156_07",
+            "characters": [
+                "C001",
+                "C002",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004, C001, C002은 수녀원으로 출발한다.",
+            "unit_motif": "임무 수행",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C004, C002, C001는 마차를 타고 숲속을 지나고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 마차를 갑자기 멈춰 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "모르스가 마차에서 내려 말을 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "갑자기 무슨 일이죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "큰일인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "말이 더 이상 안 가려고 하네요. 어쩔 수 없이 걸어가야 돼요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "담담하다",
+                    "content": "C002과 C001가 마차에서 내린다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "말이 좀 이상하네요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그게 아니라, 숲이 무서워서 그래요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002이 묘비로 다가간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_07",
+            "prev_id": "01_2156_06",
+            "next_id": "01_2156_08",
+            "characters": [
+                "C002",
+                "C001",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004, C002, C001는 수녀원 인근에 도착하고 수녀원으로 이동하면서 C004는 자살한 수녀를 어디에 두었는지 말한다.",
+            "unit_motif": "임무 수행",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C001 신부님, 교황청은 왜 신부님을 여기로 보낸 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "교황청은 저를 보통 설명할 수 없는 초자연적인 현상을 조사하거나 귀신 사냥을 할 때 저를 파견하곤 합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C004, C002, C001는 수녀원 인근 묘지로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 수녀원의 무너진 벽을 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "전쟁의 흔적인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "네, 엄청난 비행기 폭격으로 무너졌다고 하더군요. 마을 사람들은 수녀원에 대한 말만 나와도 침을 뱉어서 알아낼 수가 없었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "왜 그런 행동을 하죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "악마를 쫓는다는 말도 안 되는 미신 때문에 그런다고 하더군요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 주변에 꽂혀 있는 십자가들을 가리킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "여기 있는 십자가들이 악마가 못 나오게 한다고 하더라고요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "content": "C004, C002, C001는 멈춰 선다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "그 수녀의 시신은 어디에 있나?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "제가 식품 창고에 잘 모셔두었습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 숲",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 수녀원 창고의 문을 연다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_08",
+            "prev_id": "01_2156_07",
+            "next_id": "01_2156_09",
+            "characters": [
+                "C001",
+                "C002",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004, C001, C002은 식품창고에 있는 E001의 시신을 발견하지만 E001의 시신이 C004가 눕혀놨던 모습과는 다르게 앉아 있다.",
+            "unit_motif": "임무 수행",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C004, C001, C002은 식품 창고로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 식품창고에 있는 수녀1의 시신을 발견하고 시신에 다가가려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "방해하다",
+                    "content": "하지만 C004가 C001를 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "뭔가 이상해요, 신부님."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "갑자기 왜요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "저는 분명히 시신을 눕혀 놨는데 지금은 앉아 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 수녀1의 시신으로 다가가 살펴본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 수녀1의 시신의 손에 쥐어져 있는 열쇠를 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "그게 뭘까요, 신부님?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 식품창고",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "글쎄요, 열쇠처럼 생겼네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 식품창고",
+                    "content": "뒤에 있는 문이 저절로 열린다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_09",
+            "prev_id": "01_2156_08",
+            "next_id": "01_2156_10",
+            "characters": [
+                "C001",
+                "C002",
+                "C004",
+                "C005"
+            ],
+            "stage": "Setting-up",
+            "storyline": "수녀원으로 들어간 C004, C002, C001는 C005를 만나게 되고 수녀원에서 무슨 일이 있었는지 물어보지만 C005는 대답을 회피한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C004, C002, C001는 수녀원 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "긴장되다",
+                    "content": "C004, C002, C001는 주위를 살피다가 앉아 있는 C005를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "혹시 C005님 되시나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "네, 그런데 무슨 일이죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저희는 성국에서 수녀 자살 사건을 조사하기 위해 파견되었습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자살 사건이라뇨?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "제가 봤어요, 수녀님이 자살하셨잖아요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 C005에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "정말 아무것도 모르시나요? 성국은 수녀님들의 안전을 아주 중요하게 생각하고 있습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "분명히 말하지만, 여기는 안전합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "확실한가요? 그렇지 않다면 성국에서는 사람을 계속 보낼 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그럼 수녀원 숙소에서 쉬면서 내일 다시 오시죠. 그때 답변드리겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001, C002, C004는 수녀원 숙소로 향한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_10",
+            "prev_id": "01_2156_09",
+            "next_id": "01_2156_11",
+            "characters": [
+                "C001",
+                "E003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "수녀원에서 밤을 보내게 된 C001는 한 소년 귀신을 만나게 된다.",
+            "unit_motif": "시련",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "content": "수녀원 숙소 방안에 있던 축음기가 저절로 켜진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "당황하다",
+                    "content": "C001가 축음기 소리가 들리자 잠에서 깨고 방안을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "담담하다",
+                    "content": "방 안에서 한 소년이 C001를 보자 달아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "C001가 소년의 뒤를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E003"
+                    ],
+                    "content": "소년이 C001의 뒤에서 어깨를 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "담담하다",
+                    "content": "E003이 다시 달아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "C001가 E003의 뒤를 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "당황하다",
+                    "content": "수녀원의 묘지까지 E003을 쫓아간 C001는 주변을 살핀다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "설마, E003 너니?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "E003"
+                    ],
+                    "content": "E003의 입에서 갑자기 뱀이 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "놀라다",
+                    "content": "놀란 C001는 무덤에 쓰러지고 무덤이 스스로 닫힌다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_11",
+            "prev_id": "01_2156_10",
+            "next_id": "01_2156_12",
+            "characters": [
+                "C002",
+                "C001",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001를 찾기 위해 수녀원의 묘지로 가게 된 C002은 묘지의 무덤 안에서 C001를 발견하게 된다.",
+            "unit_motif": "시련",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "당황하다",
+                    "content": "잠에서 깨어난 C002은 사라진 C001를 찾기 위해 수녀원의 묘지로 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "누가 좀 도와줘요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "묘지에 도착한 C002은 묘지의 한 사당에 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "사당 안의 거울을 보던 C002은 거울 속에서 한 수녀를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C002의 뒤에서 수녀가 C002의 어깨를 잡고 소리를 지른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "content": "사당 안에서 거울이 깨지고 십자가가 무너진다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "C002 수녀님! 살려줘요!"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "C001 신부님, 어디세요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "content": "묘지의 무덤들에서 종소리가 들린다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "도와줘요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 C001가 있는 무덤 앞으로 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "기쁘다",
+                    "content": "C001 신부님! 여기 계신가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "기쁘다",
+                    "content": "여기서 절 꺼내줘요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "무섭다",
+                    "content": "C002이 근처의 삽으로 무덤을 파기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "무덤 안에서 갑자기 손이 튀어나와 C001의 얼굴을 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "이러다가 죽겠어요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 무덤에서 C001를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "긴장되다",
+                    "content": "무덤에서 나올 때 C001는 무덤 안에서 한 낡은 책을 발견한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_12",
+            "prev_id": "01_2156_11",
+            "next_id": "01_2156_13",
+            "characters": [
+                "C002",
+                "수녀2",
+                "C006"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "다음날 아침 수녀원에 다시 들어간 C002은 수녀원의 기도실로 들어가게 된다.",
+            "unit_motif": "의심",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002이 수녀원의 기도실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "수녀2"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "담담하다",
+                    "content": "기도실에서 한 수녀가 기도를 하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저기요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002이 수녀에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "수녀2"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "담담하다",
+                    "content": "수녀는 신경 쓰지 않고 계속 기도를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C006"
+                    ],
+                    "content": "C006가 수녀에게 다가가는 C002을 막아선다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "안됩니다! 저희는 기도를 멈출 수가 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "죄송해요 몰랐습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저희한테 더 큰 시련도 많았어요 저는 C006 신부입니다. 당신을 기다렸어요. 잠시 저와 가시죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C006와 C002이 기도실을 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_13",
+            "prev_id": "01_2156_12",
+            "next_id": "01_2156_14",
+            "characters": [
+                "C002",
+                "C006",
+                "수녀3"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C006는 C002에게 수녀원에서 무슨 일이 일어났는지 설명한다.",
+            "unit_motif": "의심",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002과 C006가 수녀원의 한 방으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "수녀3"
+                    ],
+                    "content": "한 수녀가 방의 문을 연다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "여기서에서는 저하고 수녀님이 개인적으로 말하는 걸 원하지 않아요. 죄송하게 되었습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "그래도 도와주셔서 고마워요. 혹시 여기서 무슨 일이 일어나고 있는지 말해주실 수 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "과거 수녀원에서 한 공작이 악마를 소환하려고 했고 성국이 그 일을 하게 되어서 저지했었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "제가 어젯밤에 한 수녀를 만났는데 다른 수녀님하고 너무 달랐어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "당신도 봤나요? 저희와 다르게 굉장히 사악한 존재예요. 우리들을 계속 타락시키려 하죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "수녀3"
+                    ],
+                    "content": "수녀3이 방으로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "수녀3"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "거기까지 하시죠. 이제 수녀님이 기도하실 차례입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "바로 갈게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 수녀원실",
+                    "character": [
+                        "수녀3"
+                    ],
+                    "content": "수녀3이 다시 방에서 나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_14",
+            "prev_id": "01_2156_13",
+            "next_id": "01_2156_15",
+            "characters": [
+                "C001",
+                "C005"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "수녀원의 악마를 조사하던 C001는 C005와 만나게 된다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 수녀원의 지도를 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "긴장되다",
+                    "content": "어디 있는 거야? 도대체."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "수녀원에 들어오는 다른 방법은 없습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "원장님이신가요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 C005의 목소리가 들리는 곳으로 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "뭐가 문제인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "이곳의 기운이 매우 좋지 않습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 C005의 앞에서 멈춰 선다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "오다가 어떤 열쇠를 찾았습니다. 이것의 용도가 무엇이죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002 수녀를 구할 수는 없을 겁니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "content": "C001가 들고 있던 촛불이 갑자기 꺼진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 C005의 베일을 벗기려고 손을 뻗는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C005"
+                    ],
+                    "content": "C005가 C001의 손을 갑자기 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 C005의 손을 쳐내다가 C005의 손이 바닥에 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 정문",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C001가 다시 고개를 C005 쪽으로 돌리자 C005는 사라져 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_15",
+            "prev_id": "01_2156_14",
+            "next_id": "01_2156_16",
+            "characters": [
+                "C002",
+                "E001",
+                "C003"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "수녀원의 숙소에서 자고 있던 C002은 E001의 모습을 보게 된다.",
+            "unit_motif": "추적/수색",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "무섭다",
+                    "content": "C002 수녀가 잠에서 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "무섭다",
+                    "content": "E001가 C002 수녀의 방구석에서 작게 기도를 하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "누구시죠?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "울다",
+                    "emotion": "무섭다",
+                    "content": "E001가 흐느껴 울기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "C002이 E001에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 손을 떨자 E001의 손에 있던 묵주의 구슬들이 바닥에 굴러떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 떨어진 묵주의 구슬을 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "신께서 당신을 구원하시길."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "E001"
+                    ],
+                    "content": "E001가 밧줄을 목에 감은 채 창문에서 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 숙소",
+                    "content": "방안의 문이 스스로 열린다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 숙소",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "수녀님, 저를 따라오세요."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_16",
+            "prev_id": "01_2156_15",
+            "next_id": "01_2156_17",
+            "characters": [
+                "C002",
+                "C003",
+                "C006"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C003의 목소리를 따라간 C002 수녀는 수녀원 지하의 한 방 문 앞에 가게 된다.",
+            "unit_motif": "추적/수색",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "C002은 신의 영역은 여기까지라는 명패가 적힌 문 앞에 선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "content": "문이 저절로 열린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "문 안쪽에 있던 C003이 C002을 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "C002이 뒤돌아서 도망치려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "바람이 불어와 C002이 방으로 다시 끌려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "content": "열쇠가 C002의 주머니에서 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C002을 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 열쇠를 다시 잡기 위해 뛰어든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "담담하다",
+                    "content": "C003이 C002의 뒤에서 C002을 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "무섭다",
+                    "content": "C002이 C003을 뿌리치고 다시 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C006"
+                    ],
+                    "content": "C006가 C002의 뒤에서 C002의 입을 막는다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "귓속말하다",
+                    "emotion": "긴장되다",
+                    "content": "조용히 해요. 지금 교회로 오세요. 저희는 기도를 해야만 합니다!"
+                }
+            ]
+        },
+        {
+            "id": "01_2156_17",
+            "prev_id": "01_2156_16",
+            "next_id": "01_2156_18",
+            "characters": [
+                "C002",
+                "수녀들",
+                "수녀4",
+                "C003",
+                "C001",
+                "C004",
+                "E002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "강해진 C003을 막기 위해 C002은 교회에서 수녀원의 수녀들과 기도를 한다.",
+            "unit_motif": "시련",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 기도실",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 교회에 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀들"
+                    ],
+                    "content": "수녀원의 수녀들이 C002의 뒤를 따라 교회에 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀들"
+                    ],
+                    "content": "수녀들이 십자가 앞에 무릎 꿇고 기도를 하기 시작한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "수녀4"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "무슨 일이 벌어지든 간에 기도를 멈춰 서는 안됩니다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "무섭다",
+                    "content": "C002이 기도를 하기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "content": "바람이 불어와 수녀들이 날아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C002의 뒤에서 C002에게 상처를 입힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "무섭다",
+                    "content": "C002은 기도를 계속한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "긴장되다",
+                    "content": "C002! 괜찮나요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 교회의 문을 연다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "여기서 무슨 일이 있는 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "저하고 다른 수녀님들이 같이 기도하고 있었어요!"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "하지만 아무도 기도를 하고 있지 않습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 뒤를 돌아본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "분명히 저하고 다른 수녀님들도 있었어요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "content": "C004, C001, C002은 교회에 있는 시체에 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "수녀원은 더 이상 안전하지 않아요. 여기서 나가야 합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E002"
+                    ],
+                    "content": "시체가 일어나 십자가로 C001의 다리를 찌른다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "제 가방에 있는 성수를 꺼내세요 빨리요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 E002에게 성수를 뿌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 시체의 얼굴에 십자가를 올려놓고 기도를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "E002"
+                    ],
+                    "content": "불이 붙은 E002이 C001와 C002에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 E002에게 총을 쏜다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "E001 수녀님은 자신의 영혼을 뺏기지 않으려고 희생하신 거였어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무섭다",
+                    "content": "제발 여기서 이제 나가죠."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "아직은 안돼요. 저희는 악마를 다시 봉인해야 돼요."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_18",
+            "prev_id": "01_2156_17",
+            "next_id": "01_2156_19",
+            "characters": [
+                "C002",
+                "C001",
+                "C004"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C002, C001, C004는 C003을 봉인하기 위해 액체가 담겨 있는 고대 유물을 찾아 지하묘지로 간다.",
+            "unit_motif": "시련",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "content": "C002, C001, C004는 지하묘지로 내려온다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "어떻게 된 거죠? 아무것도 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "이럴 리가 없어요. 분명히 여기 있어야 돼요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 성모 마리아 석상 손가락에서 나오는 빛을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "아뇨 유물은 여기 있을 겁니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C002도 성모 마리아 석상의 손가락을 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 지하묘지의 한 구멍에 열쇠를 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "기쁘다",
+                    "content": "숨겨진 문이 열리고 C002은 그 안에서 고대 유물을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기쁘다",
+                    "content": "C001가 기도를 하면서 고대 유물을 집어 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 고대 유물을 C002의 목에 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하묘지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "오직 진정한 성직자만이 유물을 사용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_19",
+            "prev_id": "01_2156_18",
+            "next_id": "01_2156_20",
+            "characters": [
+                "C002",
+                "C004",
+                "수녀들",
+                "C003",
+                "C001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C002, C001, C004는 C003을 봉인하기 위해 C003의 영역으로 향하고 C002은 액체를 이용해 C003을 다시 봉인하는데 성공한다.",
+            "unit_motif": "시련",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "C002이 방안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "방 한가운데서 켜져 있는 촛불을 발견한 C002은 촛불로 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "content": "C002 주변에서 촛불들이 켜진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 고개를 들자 포대를 쓴 수녀들이 앞에 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "C002이 비명을 지르다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "무슨 일이죠?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 C002이 있는 방문을 총을 쏴서 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "수녀들"
+                    ],
+                    "content": "C004 앞에 머리에 포대를 쓰고 있는 수녀들이 나타난다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004, 저 좀 도와주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "무섭다",
+                    "content": "C004가 포대를 쓰고 있는 수녀들을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "무섭다",
+                    "content": "C004가 공중에 떠있는 C002을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 C002의 머리에 씌어 있는 포대를 벗긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "content": "C003에 빙의된 C002이 소리를 지른다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "그냥 도망갔어야지 C004, 너의 한심한 인생처럼 오늘 한심하게 죽겠구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C004"
+                    ],
+                    "content": "C004가 손에 묻어있던 액체를 C002의 얼굴에 문지른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "괴롭다",
+                    "content": "C002이 고통스럽게 비명을 지르자 C003이 C002의 몸에서 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C002을 방안의 연못으로 집어던진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "content": "연못 속에서 C003이 나타나 C002의 목을 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "오늘 내가 널 다시 봉인할 것이다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C001를 벽으로 날리고 C002을 물속에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 고대 유물 안에 있는 액체를 입에 머금는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C002을 물속에서 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002이 입안에 있는 액체를 C003에게 뿌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 지하",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "괴롭다",
+                    "content": "C003이 비명을 지르며 사라진다."
+                }
+            ]
+        },
+        {
+            "id": "01_2156_20",
+            "prev_id": "01_2156_19",
+            "characters": [
+                "C002",
+                "C004",
+                "C001"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C003을 봉인한 C002, C001, C004는 각자 자신들이 원래 있던 곳으로 돌아간다.",
+            "unit_motif": "해피엔딩",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "기쁘다",
+                    "content": "C002이 수녀원에서 죽은 수녀들을 위해 기도한다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "더 이상 무섭지 않나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "네, 이젠 무섭지 않아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "content": "C002과 C004는 마차에 올라탄다."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "이제 어디로 가실 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "국가2는 이제 싫어요. 고향으로 돌아가서 토마토 농장이나 하려고요."
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "당신한테 지루할 텐데 괜찮나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "그렇기야 하겠지요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 묘지",
+                    "content": "C004의 목에 역 십자가의 표식이 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "수녀원 인근 묘지",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002, C001, C004는 마차를 타고 떠난다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3157 @@
+{
+    "id": "03_1240",
+    "type": "novel",
+    "title": "기억을 잃은 남자",
+    "genre": [
+        "미스터리",
+        "스릴러"
+    ],
+    "year": 2000,
+    "theme": "복수",
+    "concept": "단기 기억 상실에 걸린 C003는 부인을 죽게 한 범인을 찾아 추적하지만 믿을 수 있는 것은 아무것도 없다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "기억상실증",
+    "main_character": "살인자/범죄자",
+    "conflict": "단기 기억 상실에 걸린 C003는 부인을 죽게 한 범인을 찾아 추적하지만 사실 범인은 이미 잡혔고 자신의 상황을 이용하려는 사람들에게 둘러싸였다는 것을 알게 된다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007"
+    ],
+    "units": [
+        {
+            "id": "03_1240_01",
+            "next_id": "03_1240_02",
+            "characters": [
+                "C003",
+                "C006"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C003가 C006를 총으로 쏘아 죽이고 살인 현장을 사진으로 남긴다.",
+            "unit_motif": "미결의 살인사건",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "단호하다",
+                    "content": "C003가 살인 현장이 찍힌 폴라로이드 사진을 말리고 들여다보기를 반복한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "해치다",
+                    "content": "C003가 살인 현장을 폴라로이드로 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "해치다",
+                    "content": "C003의 앞에는 C006가 피를 흘리며 쓰러져 있고 총알과 안경이 땅에 떨어져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "때리다",
+                    "content": "C003가 권총을 닦는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "때리다",
+                    "emotion": "단호하다",
+                    "content": "C003는 권총으로 C006를 쏘아 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "때리다",
+                    "content": "C006가 C003를 말린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "궁금하다",
+                    "content": "C003가 방금 깨어나 생각하기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "당황하다",
+                    "content": "얼마나 오래됐는지, 방금 왔는지 구분하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "content": "C003는 잘은 모르지만 낯설다고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "content": "자신이 왜 여기에 있는지 생각한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_02",
+            "prev_id": "03_1240_01",
+            "next_id": "03_1240_03",
+            "characters": [
+                "C003",
+                "C006"
+            ],
+            "stage": "Main Character",
+            "storyline": "C003는 아내를 죽인 살인범이 C006라고 생각하고 그를 죽인다.",
+            "unit_motif": "복수혈전",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003가 모텔 주인에게 C006의 사진을 보여주며 그에 대해 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "그때 C006가 등장해 C003를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C006가 C003를 차에 태우려 하자 C003는 그게 자신의 차냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "C006가 그렇다고 하자 C003는 폴라로이드 사진을 꺼내며 거짓말 말라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "content": "C006는 농담이었다며 넘어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003와 C006가 차를 타고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 C006에게 같이 갈 곳이 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 공터 앞의 트럭 안에서 총알을 발견하고 의문을 품는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "단호하다",
+                    "content": "C003는 C006의 사진을 꺼내 그 아래 적힌 '그가 범인이다. 죽여라'는 메모를 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C006가 따라 들어오자 C003는 C006에게 총을 겨누고 죽이려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "당황하다",
+                    "content": "C006는 기억상실증에 걸린 C003를 비웃으며 진실을 알려주겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 듣지 않고 C006를 총으로 쏜다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_03",
+            "prev_id": "03_1240_02",
+            "next_id": "03_1240_04",
+            "characters": [
+                "C003",
+                "모텔 주인",
+                "C006"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "단기 기억 상실증을 앓게 된 C003는 자신의 몸에 기억해야 할 사실들을 문신으로 새기고 아내를 죽인 범인을 추적해 나간다.",
+            "unit_motif": "기억상실증",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "궁금하다",
+                    "content": "침대에서 일어난 C003는 기억을 떠올리기 위해 메모한 것들을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "괘씸하다",
+                    "content": "C003는 C006의 사진에 '그가 범인이다. 그를 죽여라'는 문장을 쓰고 총을 가지고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 계단",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 모텔 방을 나와 계단을 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "무안하다",
+                    "content": "C003는 모텔 주인과 대화가 원활하지 않자 자신이 단기 기억상실증임을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "요구하다",
+                    "content": "모텔 주인에게 C006의 사진을 보여주면서 그에게서 전화가 오면 바로 연락해달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 현관",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "content": "C006가 나타나 C003를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003가 잠에서 깨어 '면도하기'라고 적힌 쪽지를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 화장실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C003가 면도용품을 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "content": "C003가 침대에 앉아 면도를 하다가 문신 문구들을 확인해본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "content": "그때 전화벨이 울린다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_04",
+            "prev_id": "03_1240_03",
+            "next_id": "03_1240_05",
+            "characters": [
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003는 아내의 죽음을 추적하던 중, C006라는 이름의 남자를 만나게 된다.",
+            "unit_motif": "출세주의자",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "식당 화장실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C003가 손을 씻으며 손등에 쓰인 'C007를 기억하라'는 문신을 살펴본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 평범한 식당의 풍경으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "종업원으로부터 모텔 열쇠와 봉투를 건네받은 C003는 모텔이 있는 위치를 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 자동차를 타고 모텔로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003가 모텔 주자창에 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C003는 종업원에게 받았던 방 열쇠를 가지고 문을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003가 방 안에 들어가서 폴라로이드 사진들을 벽에 붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C001가 보낸 봉투를 열어보니 C006의 주민등록증 사본에 '존 감마'라고 쓰여있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "괘씸하다",
+                    "content": "벽에 붙인 C006의 사진을 떼어 뒷면을 보니 '그의 거짓말을 믿지 마라'고 쓰여 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "동의하다",
+                    "content": "C003는 C006에게 전화를 걸어 만나기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "content": "C003는 옷을 벗고 자신의 몸에 새긴 문신의 문구들을 살펴본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 C006의 주민등록증 사본과 자신이 문신으로 기록해 둔 사실들을 대조해보고 범인임을 확신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C006의 사진에 '그가 범인이다'를 쓰고 셔츠를 벗다가 '존 G가 아내를 강간하고 살해했다.'는 문신을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "단호하다",
+                    "content": "C006의 사진에 '그를 죽여라'는 문장을 덧붙이고 권총을 장전한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_05",
+            "prev_id": "03_1240_04",
+            "next_id": "03_1240_06",
+            "characters": [
+                "C003",
+                "C001",
+                "C003 부인"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003는 C001를 만나 부인을 죽인 범인의 정보를 받게 된다.",
+            "unit_motif": "출세주의자",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003는 전화 상으로 누군가에게 자신의 기억상실증에 대해 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003는 C004의 경우와 자신의 경우를 비교하면서 자신은 체계적으로 메모하는 방법을 생각해냈고 복수를 해야만 하는 이유를 가지고 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 식당 앞 도로변에 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "안심/안도하다",
+                    "content": "C003는 차에서 내려 C001의 사진에 적힌 'C001를 만날 것', '연인을 잃고 동정심에 날 도움'이라는 메모를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 입구",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 식당 안으로 들어선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C001는 범인이 에드워드라고 말하며 관련 서류를 건네준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C001는 C003에게 눈을 감고 부인에 대한 기억을 떠올려 보라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회상-현관 앞",
+                    "character": [
+                        "C003 부인"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C003의 부인이 집안으로 들어선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "애틋하다",
+                    "content": "C003는 사소한 것까지 기억해내려 애쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회상-거실",
+                    "character": [
+                        "C003 부인"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "사랑스럽다",
+                    "content": "C003의 부인이 머리를 묶는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회상-방 안",
+                    "character": [
+                        "C003 부인",
+                        "C003"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "사랑스럽다",
+                    "content": "C003가 부인의 어깨에 손을 올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회상-침실",
+                    "character": [
+                        "C003 부인"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "애틋하다",
+                    "content": "C003 부인이 베개에 얼굴을 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 C003에게 범인을 처치하기 위한 장소도 물색해두었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "사례를 하겠다는 C003에게 C001는 그런 것은 필요 없다고 말하고 자리를 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C003가 손을 씻다가 손등 위에 새긴 'C007를 기억하라'는 문구를 본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_06",
+            "prev_id": "03_1240_05",
+            "next_id": "03_1240_07",
+            "characters": [
+                "C003",
+                "C006"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C003는 보험조사관 시절, 자신의 업무성과에 방해가 되는 고객인 C007를 떠올린다.",
+            "unit_motif": "갑작스런 병",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "전화 상으로 누군가에게 자신이 보험조사관 시절에 C007를 조사했던 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "자신은 그때의 경험으로 사람의 눈과 몸짓을 보면 진실을 알 수 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-회사 사무실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "자신감 있다",
+                    "content": "보험조사관인 C003가 고객이 말하는 모습을 주의 깊게 관찰한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003는 수화기에 대고 C004가 자신이 만난 고객 중 최대의 강적이었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C003가 C006와 함께 식사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "불안하다",
+                    "content": "C006는 C003에게 누군가 C003를 이용해서 사람을 죽일 수도 있다고 경고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "단호하다",
+                    "content": "C003는 자신은 기록해둔 사실만 가지고 행동하니 문제없다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "의심스럽다",
+                    "content": "C006는 반신반의한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C003는 기억은 일종의 해석이라고 주장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C003는 방 열쇠를 잃어버렸음을 깨닫는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_07",
+            "prev_id": "03_1240_06",
+            "next_id": "03_1240_08",
+            "characters": [
+                "C003",
+                "모텔 주인",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C003는 자신의 기억상실증을 이용하려는 사람들이 있음을 알게 된다.",
+            "unit_motif": "갑작스런 병",
+            "causality": "Approaching the threshold(임계점 도달)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 모텔로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 모텔 주인에게 열쇠를 잃어버렸다고 말하자, 주인은 방 안에 두고 왔을 거라고 하며 숙소로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 복도",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 모텔 주인과 함께 C003의 방으로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003는 주인이 문을 열어 주자 방 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "열쇠가 보이지 않자 주인은 여기가 아니라 다른 방이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "의심스럽다",
+                    "content": "침대 위 쪽지에서 자신의 글씨를 발견한 C003가 여기가 맞는다고 주장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무안하다",
+                    "content": "주인은 C003의 기억상실증을 이용해 C003의 방을 두 개로 잡고 있었음을 실토한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방 앞",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "당황하다",
+                    "content": "C003는 C001와의 약속 시간이 다 되었음을 깨닫고 모텔 주인을 남겨놓은 채 황급히 방을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003가 식당 앞에 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "C003가 C001를 알아보지 못하고 지나치자 C001가 붙잡는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_08",
+            "prev_id": "03_1240_07",
+            "next_id": "03_1240_09",
+            "characters": [
+                "C003",
+                "C004",
+                "C004 부인"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C003는 보험조사관 시절을 회상하며 기억상실증 환자 C004가 자신을 속인다고 의심했던 것을 떠올린다.",
+            "unit_motif": "갑작스런 병",
+            "causality": "Threshold guardian(마지막 수호자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 전화 통화를 하며 다리를 면도한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "상대에게 C007에 대해서 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "C007가 뇌 검사를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 C004의 뇌 상태를 알기 위해 방문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C004는 TV 내용도 기억을 하지 못해 광고를 좋아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 C004와 그의 부인과 대화를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "의심스럽다",
+                    "content": "C004가 부인에게 당뇨병 약을 주사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "반갑다",
+                    "content": "C004가 다시 방문한 C003를 반긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 자신을 기억하는 듯한 C004의 눈빛에 의심을 품게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 확신을 기하기 위해 몇 가지 테스트를 해보기로 결심한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_09",
+            "prev_id": "03_1240_08",
+            "next_id": "03_1240_10",
+            "characters": [
+                "C003",
+                "C001",
+                "C006",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C003는 자신을 돕는 C001를 만나게 된다.",
+            "unit_motif": "똑똑한 바보",
+            "causality": "Catharsis(카타르시스)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "content": "C003가 C001와 한 침대에서 자고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "궁금하다",
+                    "content": "C001를 알아보지 못하고 몰래 C001의 사진과 그녀에 대한 기록을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "키스하다",
+                    "content": "C001는 범인의 차량 번호를 적어주고 C003에게 키스한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "키스하다",
+                    "content": "그리고는 다음번에는 자신을 기억해달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "미안하다",
+                    "content": "C003는 미안하지만 그러지 못할 거라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 변",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 길가에 세워둔 자신의 차로 걸어 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 변",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C003가 운전석에 앉자 C006가 차로 뛰어들며 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 전화를 통해 C007에 대해 이야기하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 C004가 반복을 통해 학습할 수 있다는 사실을 깨닫고 전문가를 통해 그를 시험해보았다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "때리다",
+                    "content": "C004는 전문가의 지시대로 물건 세 개를 집는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "때리다",
+                    "emotion": "놀라다",
+                    "content": "세 개 중 하나는 전류가 흐르고 있어 C004가 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C004를 테스트했던 목적은 기억이 아닌 본능으로 위험을 피하는지 알아보기 위함이었다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_10",
+            "prev_id": "03_1240_09",
+            "next_id": "03_1240_11",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C003는 기록과 본능을 신뢰하며 자신감을 보이지만 C001가 자신을 돕는 의도와 그녀의 정체를 정확히 알지 못한다.",
+            "unit_motif": "똑똑한 바보",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003가 길가에 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "C003는 씩씩거리며 현관을 향해 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001 집 현관",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "C003가 C001를 불러 C002가 누구냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001 집 현관",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001는 C003가 내민 C002의 피 흘리는 사진을 받아들고 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "고맙다",
+                    "content": "C001는 자신이 C002에게 맞은 것을 보고 C003가 보복해 준 것이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불안하다",
+                    "content": "그러나 C003는 누군가가 자신을 이용해 살인을 하려고 한다며 불안해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "안타깝다",
+                    "content": "C003 몸의 문신을 발견한 C001는 자신도 C005라는 애인을 잃었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C005는 C006라는 사람을 만나러 갔다가 죽었다고 덧붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방 안",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C001는 C003의 복수를 돕겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C003의 무릎 위에서 잠들어 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "괴롭다",
+                    "content": "C003는 아내에 대한 그리움과 기억상실증으로 인한 괴로움을 중얼거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "통로",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 일어나서 침실을 나간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_11",
+            "prev_id": "03_1240_10",
+            "next_id": "03_1240_12",
+            "characters": [
+                "C003",
+                "C001",
+                "C004"
+            ],
+            "stage": "Another Story",
+            "storyline": "C001도 자신과 비슷한 사건을 겪었다고는 것을 알게 되고 C004는 보험금을 지급받지 못해 가난에 쪼들리게 된다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 C001가 애인과 찍은 사진을 들여다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "그립다",
+                    "content": "C001가 C003의 빈자리를 쓰다듬는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "신뢰하다",
+                    "emotion": "안타깝다",
+                    "content": "C001의 사진에 '애인을 잃고, 동정심에 나를 도움'이라고 메모한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 침대로 돌아와 C001 옆에 눕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 통화를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C004를 몇 달간 시험했지만 변화가 없었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "진료실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "C004가 전기가 흐르는 물체를 집고 욕을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "C003가 계속해서 통화를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "뇌 손상이라면 본능적으로 전기 물체를 피해야 하는데 그렇지 않았기 때문에 C004는 심리적 문제로 판정이 났고 보험금 지급이 되지 않았다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "자신감 있다",
+                    "content": "C003는 조건 반사에 실패한 C004와 달리 자신은 본능에 의지해 세상을 사는 방법을 익혔다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_12",
+            "prev_id": "03_1240_11",
+            "next_id": "03_1240_13",
+            "characters": [
+                "괴한",
+                "C003 부인",
+                "C003",
+                "C002",
+                "C006",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C003는 아내가 죽던 날을 떠올리다 벽장 속에 결박되어 있는 C002를 발견하지만, 자신이 왜 그를 잡아두었는지 알지 못한다.",
+            "unit_motif": "미결의 살인사건",
+            "causality": "Crossing(교차)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "욕실 앞",
+                    "character": [
+                        "괴한"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "누군가가 집 내부로 잠입해 욕실로 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "욕실 안",
+                    "character": [
+                        "C003 부인",
+                        "C003"
+                    ],
+                    "act": "해치다",
+                    "content": "C003의 부인이 비닐에 싸인 채로 고통스러워하고 C003는 거울에 머리를 박는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 침대에서 일어나 자신이 있는 장소를 기억하지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "의심스럽다",
+                    "content": "서랍 속에서 권총을 발견하고 의아하게 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 벽장",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "C003가 벽장으로 다다가 문을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 벽장",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "놀라다",
+                    "content": "벽장 안에는 C002가 결박된 채로 신음하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숙소 현관",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "C006가 초인종을 누르고 C003를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "emotion": "안심/안도하다",
+                    "content": "C003는 C006의 사진을 뒤져 이름을 확인한 후 문을 열어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방 안",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "당황하다",
+                    "content": "벽장 속의 C002를 본 C006는 C003를 추궁하지만 C003는 기억이 나지 않는다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방 안",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "C002"
+                    ],
+                    "act": "동의하다",
+                    "content": "두 사람은 C002를 모텔에서 데리고 나가기로 합의한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 계단",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "content": "C003와 C006는 C002의 등에 총을 겨누고 계단을 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 주차장",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002에게 겁을 주고 떠나보낸 후 C003가 C006의 차를 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "수색하다",
+                    "content": "두 사람은 사건의 정황을 알아보기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "현관문을 두드리자 C001가 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 C002의 사진을 내밀며 이 사람이 누구냐고 다그쳐 묻는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_13",
+            "prev_id": "03_1240_12",
+            "next_id": "03_1240_14",
+            "characters": [
+                "C003",
+                "C004",
+                "C004 부인",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C003는 아내를 죽인 범인을 잡기 위해 증거를 모으며 범인을 추격한다.",
+            "unit_motif": "추격자",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C003가 전화 상으로 C007의 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "답답하다",
+                    "content": "심리적인 문제라는 C003의 말을 듣고 C004 부인이 C004를 다그친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 C004 부인이 C004가 연기하는 것일지도 모른다는 의심을 품게 되었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 변기 위에서 술병을 발견하고 이상하게 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "욕실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003가 샤워를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "욕실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "긴장되다",
+                    "content": "유리 문을 통해 누군가가 다가옴을 느낀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "욕실",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "C003가 정체불명의 남자와 격투를 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "욕실",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "술병을 머리를 쳐서 기절시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "청소부가 노크하자 C003는 문을 잠그며 다음에 오라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C003는 기절한 남자의 총을 뺏고 결박해서 벽장에 넣은 후 사진을 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "초조하다",
+                    "content": "사진과 메모지를 뒤적거리고 기록을 남긴 후 전화를 걸어 C006를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "초조하다",
+                    "content": "C003가 침대에 앉아 초조해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003는 C004에 대한 이야기를 끝내고 전화를 끊는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "바늘을 소독한 후 문신 새길 준비를 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_14",
+            "prev_id": "03_1240_13",
+            "next_id": "03_1240_15",
+            "characters": [
+                "C003",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C003는 기억하지 못하지만 C002에게 쫓기고 있다.",
+            "unit_motif": "추격자",
+            "causality": "Possession(집착)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 자신이 왜 쫓기고 있는지도 모르면서 C002를 피해 달아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "안심/안도하다",
+                    "content": "자신의 차를 타고 탈출에 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003는 C002에 관해 적은 메모를 확인하고 그가 있는 모텔로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "content": "C003가 노크를 하고 안에서 문을 열자 가격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "content": "그러나 호수를 잘못 보았음을 깨닫고 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 복도",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "content": "C003가 C002의 방을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C002의 방에 들어가 화장실에 숨는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "궁금하다",
+                    "content": "무기 대용으로 술병을 들지만 잠시 후 자신이 왜 병을 들고 있는지 기억하지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003는 문신할 준비를 마치고 메모지를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "허벅지에 '문신: 사실 5 마약에 손댐'이라는 문구를 적어 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 공터에서 누군가를 기다리다가 차를 타고 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 자신을 쫓아오는 트럭을 발견하고 이상하게 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "당황하다",
+                    "content": "C003가 차를 대자 트럭에서 내린 C002가 쫓아와 총을 겨눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C003가 차에서 내려 달아난다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_15",
+            "prev_id": "03_1240_14",
+            "next_id": "03_1240_16",
+            "characters": [
+                "C003",
+                "C003 부인",
+                "매춘부"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C003는 아내의 죽음을 아는 누군가와 계속해서 통화를 하고 아내의 유품을 태운다.",
+            "unit_motif": "추격자",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "놀라다",
+                    "content": "문신을 새기려는 찰나, 전화벨이 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003가 전화를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 차를 타고 어디론가 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공터",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "애틋하다",
+                    "content": "차에서 내려 불을 피우고 아내의 소지품을 태운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "전화를 받은 C003가 마약 입수 경로에 대해 알아낸 게 있다며 상대와 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003는 보험일 할 때 친했던 경찰이 도와줬다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "자신의 상태가 상태이니만큼 파트별로 기록했다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "그런데 자료가 빈 곳이 있고 없어진 것도 있는 것을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "content": "C003가 아내를 부르다 잠에서 깬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "수색하다",
+                    "content": "자신이 어디에 있는지 확인하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-욕실",
+                    "character": [
+                        "C003 부인"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C003는 비닐에 싸여 신음하는 채 죽어가는 아내의 모습을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C003",
+                        "매춘부"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "놀라다",
+                    "content": "화장실 문을 여니 매춘부가 마약을 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C003",
+                        "매춘부"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "당황하다",
+                    "content": "C003는 그녀에게 당장 나가라고 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_16",
+            "prev_id": "03_1240_15",
+            "next_id": "03_1240_17",
+            "characters": [
+                "C003",
+                "매춘부",
+                "C004 부인"
+            ],
+            "stage": "Defeat",
+            "storyline": "C003는 매춘부에게 의아한 요청을 하고 C004와 C004 부인의 이야기를 계속한다.",
+            "unit_motif": "돈을 노리는 유혹자(Gold Digger)",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003는 통화를 하며 아내를 죽인 범인이 마약 판매상임을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "C003가 차를 타고 모텔로 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "모텔 사진을 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "사진에 메모를 해서 벽에 붙인 후 C003는 전화번호부에서 접대 시설을 찾아 매춘부를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "매춘부"
+                    ],
+                    "act": "요구하다",
+                    "content": "C003는 부인의 소지품을 침대 위에 늘어놓은 후 매춘부에게 자신이 잠들면 화장실 문을 쾅 닫아서 깨게 해달라고 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "매춘부"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003가 잠들자 매춘부는 화장실로 가서 문을 소리 내어 닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 전화로 C004 부인이 C004를 굶겨가면서 기억을 되살리려고 노력했다는 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-보험회사 사무실",
+                    "character": [
+                        "C003",
+                        "C004 부인"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "안타깝다",
+                    "content": "C004 부인이 C003에게 항소하지 않을 테니 진실을 말해 달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-보험회사 사무실",
+                    "character": [
+                        "C003",
+                        "C004 부인"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 C004가 신체적으로는 기억할 수 있다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "통화 중인 C003는 자신은 가볍게 대답했는데 C004의 부인이 그 대답을 굳게 믿었다고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_17",
+            "prev_id": "03_1240_16",
+            "next_id": "03_1240_18",
+            "characters": [
+                "C003",
+                "C006",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001와 C006는 C003의 기억상실증을 이용해 자신의 목적을 달성하려 한다.",
+            "unit_motif": "돈을 노리는 유혹자(Gold Digger)",
+            "causality": "Leads to tragedy(비극의 서막)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불안하다",
+                    "content": "차 안에서 C003를 기다리던 C006는 C001를 믿지 말라고 경고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C003는 C006의 말대로 C001의 사진에 메모한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "괘씸하다",
+                    "content": "하지만 C006의 거짓말을 믿지 말라는 메모를 발견하고는 다시 지운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "모텔에 도착한 C003가 모텔 사진을 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "C003는 전화에 자신의 이야기를 털어놓던 중, '전화받지 말 것'이라는 문신을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "놀라다",
+                    "content": "놀란 C003가 상대방에게 누구냐고 묻자 전화가 끊긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "당황하다",
+                    "content": "C003는 뭔가 적으려고 펜을 찾다가 C001가 들어오자 잊어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C001는 자신이 C002에게 맞았다며 하소연한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "무섭다",
+                    "content": "C001는 마약을 가져오지 않으면 죽는다는 협박을 받았다고 토로한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 C002를 손봐 주겠다며 집을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "기다리다",
+                    "content": "C006는 C001를 믿지 말라고 경고하려고 차 안에서 C003를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "content": "C003가 '전화받지 말 것'이라는 메모를 보는데 전화벨이 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "content": "C003는 전화를 끊고 프런트에 전화해서 전화를 연결하지 말라고 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_18",
+            "prev_id": "03_1240_17",
+            "next_id": "03_1240_19",
+            "characters": [
+                "C003",
+                "C001",
+                "모텔 주인"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C003는 사람들이 자신을 믿지 않는 현실에 괴로워하고, C001, C006에게 농락당한다.",
+            "unit_motif": "명예손상",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "괘씸하다",
+                    "content": "C001가 다급하게 집으로 들어와서 펜을 숨긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "content": "C001는 자신이 C002에게 의심을 받아 쫓기고 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "절박하다",
+                    "content": "C001는 C003에게 돈을 줄 테니 그를 죽여달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "증오하다",
+                    "content": "C003가 받아들이지 않자 C001는 C003 부인을 욕한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "화나다",
+                    "content": "C003는 자신의 병을 이용하려 하는 C001에 대해 적으려 하지만 펜을 찾지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "괘씸하다",
+                    "content": "집을 나갔던 C001가 아무 일도 없었다는 듯이 다시 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "경멸하다",
+                    "content": "그리고 이전 상황을 기억하지 못하는 C003에게 똑같은 말을 반복한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C003가 옆방에 누가 있는지 들어보려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "불안하다",
+                    "content": "모텔 주인이 와서 경찰의 전화를 받으라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003",
+                        "모텔 주인"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 눈을 보며 말해야 믿을 수 있다며 거절한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_19",
+            "prev_id": "03_1240_18",
+            "next_id": "03_1240_20",
+            "characters": [
+                "C003",
+                "C001",
+                "C003 부인",
+                "괴한"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C003는 아내를 죽인 범인을 경찰이 찾아주지 않아 직접 나섰다고 하지만 C001는 믿지 않고 C001는 C003를 이용한다.",
+            "unit_motif": "명예손상",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003가 C001와 함께 C001의 집으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "C001가 C003에게 부인의 죽음과 관련된 정보가 있는데도 경찰에 신고하지 않는 이유를 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "씁쓸하다",
+                    "content": "C003는 경찰이 그런 사람이 없다고 했다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-C003의 집",
+                    "character": [
+                        "C003",
+                        "C003 부인",
+                        "괴한"
+                    ],
+                    "act": "해치다",
+                    "emotion": "놀라다",
+                    "content": "C003가 자다가 부인이 누웠던 자리가 비었음을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-C003의 집",
+                    "character": [
+                        "C003",
+                        "C003 부인",
+                        "괴한"
+                    ],
+                    "act": "해치다",
+                    "content": "무슨 소리가 들려 C003가 총을 들고 욕실로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-C003의 집",
+                    "character": [
+                        "C003",
+                        "C003 부인",
+                        "괴한"
+                    ],
+                    "act": "해치다",
+                    "emotion": "당황하다",
+                    "content": "욕실로 가보니 괴한이 아내를 죽이고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-C003의 집",
+                    "character": [
+                        "C003",
+                        "C003 부인",
+                        "괴한"
+                    ],
+                    "act": "해치다",
+                    "emotion": "절박하다",
+                    "content": "C003가 괴한을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거-C003의 집",
+                    "character": [
+                        "C003",
+                        "C003 부인",
+                        "괴한"
+                    ],
+                    "act": "해치다",
+                    "content": "C003는 괴한에 의해 밀쳐져 거울에 머리를 박고 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C003는 자신의 제공한 정보와 현장 수사 결과가 맞지 않아 경찰로부터 거부당했다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C001는 직장에 가야 한다며 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "보고하다",
+                    "content": "C003는 'C007를 기억하라'는 손등의 문신을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "경멸하다",
+                    "content": "C001가 다시 집으로 들어와 C002가 들이닥칠 것이라며 연기를 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_20",
+            "prev_id": "03_1240_19",
+            "next_id": "03_1240_21",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C001는 C003의 상태를 직접 시험해보고 C003는 경찰에게 자신의 상황을 털어놓지만 믿어주지 않아 불안해한다.",
+            "unit_motif": "명예손상",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "불안하다",
+                    "content": "전화벨이 울리지만 C003는 받지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "불안하다",
+                    "content": "그러자 누군가가 문틈으로 '전화를 받아라'는 메모와 함께 C003의 사진을 밀어 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "content": "C001는 C003를 처음 만난 사람처럼 대한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "경멸하다",
+                    "content": "일부러 C003의 아내에 대한 화제를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "불안하다",
+                    "content": "C003는 불안해하며 수화기를 집어 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "답답하다",
+                    "content": "왜 자신의 이야기를 믿지 않느냐며 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 컵 받침에서 '끝나고 들르세요'라는 C001의 메모를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "준다",
+                    "emotion": "괘씸하다",
+                    "content": "C001는 C003의 옷차림을 지적하며 차갑게 대한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "준다",
+                    "content": "손님에게 술잔에 침을 뱉게 한 후 그 잔을 C003에게 가져다준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "C003는 형사와 통화를 하면서 자신이 C004를 의심했던 것처럼 아무도 자신을 믿지 않는다고 하소연한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_21",
+            "prev_id": "03_1240_20",
+            "next_id": "03_1240_22",
+            "characters": [
+                "C004",
+                "C004 부인",
+                "C003",
+                "C006",
+                "C001"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C003는 아내를 죽였다고 생각되는 범인이 있다는 곳으로 향한다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "답답하다",
+                    "content": "C004의 부인은 마지막으로 남편을 시험해보기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "자신감 있다",
+                    "content": "남편이 기억을 할 수 있다면 인슐린 주사를 반복해서 자신에게 투여하지 않을 것이라고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004",
+                        "C004 부인"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "답답하다",
+                    "content": "그러나 C004는 부인의 요청대로 계속해서 인슐린 주사를 놓아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감호소",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "무시하다",
+                    "content": "부인의 죽었지만 C004는 그 이유도 모르고 감호소에서 지낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C003는 형사와의 통화에서 C004는 자신을 속인 것이 아니었다고 말하며 가슴 아파한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문신 가게",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "답답하다",
+                    "content": "문신을 받고 있는 C003에게 C006가 와서 위험하니 빨리 이곳을 떠나라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문신 가게",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C006는 며칠간 C003에게 전화하며 메모를 집어넣었던 사람은 C003를 이용하려는 부패 경찰이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문신 가게",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "괘씸하다",
+                    "content": "C006의 사진에서 '그의 거짓말을 믿지 마라'는 메모를 발견하고 C003는 그를 무시하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문신 가게",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "C003는 주머니에서 태워버린 폴라로이드 사진을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문신 가게",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 쓴 '끝나고 들르세요'라는 메모를 보고 그녀가 일하는 바로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바 앞",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "C001는 차를 보고 C005인 줄 알고 부르지만 C003를 보고 사람을 잘못 봤다면서 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 경찰과의 통화에서 범인이 마약 판매상임을 확인하고 방을 나선다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_22",
+            "prev_id": "03_1240_21",
+            "next_id": "03_1240_23",
+            "characters": [
+                "C003",
+                "C006",
+                "모텔 주인",
+                "C005"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C003는 C006가 만들어 둔 루트를 따라 C005를 죽이게 된다.",
+            "unit_motif": "부패경찰",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "모텔 주인"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C006가 C003를 발견하고 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모텔 접수처",
+                    "character": [
+                        "C003",
+                        "C006",
+                        "모텔 주인"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C003가 C006를 형사라고 부르자 C006는 모텔 주인을 의식하며 서둘러 데리고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C003가 C006의 사진을 찍고 '감마 형사'라고 쓰려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주차장",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C006는 잠복근무 중이라며 C006라고 쓰라고 권유한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "C003는 홀로 차를 타고 범인이 있다는 목적지로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "죽이다",
+                    "content": "C005가 마약 거래를 위해 폐가로 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "궁금하다",
+                    "content": "C005가 C003를 알아보고 C006는 어디 있냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "당황하다",
+                    "content": "C003가 자신을 죽일 거라고 직감한 C005는 차에 돈이 있으니 갖고 가라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "단호하다",
+                    "content": "C003는 C005를 살인범으로 오해하고 그를 죽인 후 사진을 남긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 지하실",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "content": "C003가 C005의 옷으로 갈아입는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 지하실",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "content": "C003가 C005의 시체를 지하실로 옮긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 지하실",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "C005가 'C004'라는 이름을 중얼거리자 그 이름을 어떻게 아느냐며 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006가 차를 타고 C003를 따라 도착한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1240_23",
+            "prev_id": "03_1240_22",
+            "characters": [
+                "C003",
+                "C006",
+                "C003 부인"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C006는 자신이 부패 경찰임을 고백하고 C003가 스스로 조작된 기억에 의해 살아가고 있음을 얘기하지만 C003는 받아들이지 못하고 다시 혼란에 빠진다.",
+            "unit_motif": "기억상실증",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 C006에게 도움을 요청하는척하고 C006를 가격해 다그친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 C006의 멱살을 잡고 진실을 말하라고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "C006는 자신이 마약상들과 함께 C003를 이용하려 했음을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "답답하다",
+                    "content": "C006는 인슐린 주사를 맞고 죽은 것은 C003의 아내였으며, 범인은 1년 전에 죽었지만 C003가 기억하지 못하고 계속해서 형사 놀이를 하고 있다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "괘씸하다",
+                    "content": "C003는 C006의 말을 받아들이지 못하고 그의 차 번호를 문신 문구로 정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "단호하다",
+                    "content": "C006의 사진에는 '그의 거짓말을 믿지 마라'고 쓰고 C005와 자신의 폴라로이드를 태운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 자신이 죽인 C005의 차를 타고 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "폐가 앞",
+                    "character": [
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006가 말리지만 C003는 C005로 사는 것이 나을지도 모른다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 기억은 나지 않을지라도 마음 밖의 세상을 믿어야 한다고 중얼거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "침실",
+                    "character": [
+                        "C003",
+                        "C003 부인"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "애틋하다",
+                    "content": "C003가 아내와 다정하게 누워있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "단호하다",
+                    "content": "C003가 나를 알려면 기억이 필요하다고 결론을 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "content": "C006의 차 번호를 손에 든 C003가 타투 가게 앞에 차를 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "혼란스럽다",
+                    "content": "C003는 '내가 뭘 하고 있었지?'라고 물으며 혼란스러워한다."
+                }
+            ]
+        }
+    ]
+}

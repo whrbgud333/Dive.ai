@@ -1,0 +1,1294 @@
+{
+    "id": "02_3311",
+    "type": "series",
+    "title": "게임이 끝나고 난 뒤 2",
+    "genre": [
+        "액션",
+        "판타지"
+    ],
+    "year": 2015,
+    "theme": "모험",
+    "concept": "서비스 종료를 앞둔 게임 속에 갇힌 C001는 지금까지 본 적 없었던 세계에 들어간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "차원이동",
+    "main_character": "회사원",
+    "conflict": "게임 속에 갇힌 C001는 게임 속 세계에서 살아남기 위해 고군분투하다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009"
+    ],
+    "units": [
+        {
+            "id": "02_3311_01",
+            "next_id": "02_3311_02",
+            "characters": [
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006",
+                "C007",
+                "C008",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001는 수호자들에게 던전의 경계 강화를 명령한다.",
+            "unit_motif": "임무 부여",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006",
+                        "C007",
+                        "C008"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "무릎 꿇고 C001를 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "내 부름에 응해주어서 고맙다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "아닙니다. 저는 C001 님에게 충성을 바치는 자들입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "수호자들을 대표해서 C001에게 충성을 맹세한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "만족하다",
+                    "content": "흡족해하며 고마움을 표현한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "지금 던전은 새로운 위협에 직면했다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "content": "C003를 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "내가 명령한 주변 조사는 끝났어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "C001에게 던전 주변의 조사 결과를 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "판단하다",
+                    "emotion": "궁금하다",
+                    "content": "지금의 던전은 어떤 힘에 알 수 없는 땅으로 전이가 된 것 같다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "C002와 C006 둘이 힘을 합쳐 경계를 강화해라."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002",
+                        "C006"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "비장하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "C005는 던전을 은폐해라."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "비장하다",
+                    "content": "알겠습니다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_02",
+            "prev_id": "02_3311_01",
+            "next_id": "02_3311_03",
+            "characters": [
+                "C001",
+                "C007",
+                "C008",
+                "C004",
+                "C005",
+                "C006",
+                "C003",
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001는 수호자들에게 자신이 어떤 인물인지를 물어본다.",
+            "unit_motif": "감정의 표현",
+            "causality": "Mentor(스승)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "수호자들에게 자신이 어떤 인물인지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C007 너부터 대답해봐."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "이 세상에서 가장 아름답고 고귀한 존재입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C008 너도 대답해봐."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "그 누구보다 강하고 지배자에 어울리시는 분입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C004에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "자비와 배려심까지 겸비하신 분입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C005에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "다정하고 따뜻하신 분이라고 생각합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C006에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "뛰어난 판단력과 행동력까지 겸비한 분입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C003에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "저희들과 끝까지 함께해 주시는 자비로우신 분입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "마지막으로 C002 너는?"
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "사랑스럽다",
+                    "content": "최고의 지배자이자 제가 가장 사랑하는 분입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C002의 표현에 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "좋아. 앞으로도 그렇게 충성을 다해라."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_03",
+            "prev_id": "02_3311_02",
+            "next_id": "02_3311_04",
+            "characters": [
+                "C001",
+                "C002",
+                "C007",
+                "C004",
+                "C005",
+                "C003",
+                "C006",
+                "C008"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "수호자들은 서로 C001를 직접 보고 느낀 소감을 말한다.",
+            "unit_motif": "시기/질투",
+            "causality": "Possession(집착)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001가 구역 2에서 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002",
+                        "C007",
+                        "C004",
+                        "C005",
+                        "C003",
+                        "C006"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "만족하다",
+                    "content": "수호자들이 잡담을 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "아까 무서웠지?"
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "열광하다",
+                    "content": "C001 님의 위압감이 엄청났어!"
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "이 정도로 대단할지는 몰랐어."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "이게 바로 C001 님의 진정한 모습이야."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "역시 C001 님이야."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "아까 정말 다정하게 대해주셨는데."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "맞아 마실 것도 내주시고 정말 다정하셨어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "기쁘다",
+                    "content": "C004와 C005의 대화를 듣고 전율을 느낀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C001의 장점을 기뻐하며 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저는 C001 님의 시중을 들기 위해 먼저 가보겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "무슨 일이 있으면 즉시 알려주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "황홀하다",
+                    "content": "C007가 흥분한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "왜 그러지?"
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "설레다",
+                    "content": "위대한 C001 님을 직접 보니 온몸에 자극이 왔어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "화나다",
+                    "content": "C002가 분노한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 2",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "질투하다",
+                    "content": "요망한 녀석."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 2",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "질투하다",
+                    "content": "C007와 다툰다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_04",
+            "prev_id": "02_3311_03",
+            "next_id": "02_3311_05",
+            "characters": [
+                "C001",
+                "C009"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 여러 장비를 착용해 보며 자신의 상태를 테스트해본다.",
+            "unit_motif": "수련/훈련",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "검을 들어 올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "게임처럼 다른 직업의 아이템을 착용하는 것은 불가능한 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "담담하다",
+                    "content": "몬스터가 되어버린 자신의 상태를 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "현실 세계에 있었던 것과 달리 인간으로서의 욕구가 별로 느껴지지 않는 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "마법으로 만들어진 전사 갑옷 방어구를 착용한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "놀라다",
+                    "content": "마법 아이템은 직업에 상관없이 착용이 가능하네?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "content": "검을 휘둘러 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C009 나 잠시 나갔다 올게."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "혼자 가시면 혹시나 위험할 수 있으니 같이 가겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "아냐. 따로 중요하게 할 일이 있어 나 혼자 갈게."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 침실",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_05",
+            "prev_id": "02_3311_04",
+            "next_id": "02_3311_06",
+            "characters": [
+                "C001",
+                "C006",
+                "E001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C006는 혼자 돌아다니고 있는 C001가 걱정이 되어 따라간다.",
+            "unit_motif": "만남",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "구역 1으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "content": "C006의 부하인 E001을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C006",
+                        "E001"
+                    ],
+                    "act": "복종하다",
+                    "emotion": "담담하다",
+                    "content": "C001를 향해 무릎을 꿇는다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C001 님 혼자 이런 곳에 오시다니 무슨 일 있으십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그냥 개인적인 일이야."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "그래도 혼자 돌아다니는 것은 위험하니 제가 함께 가겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "귀찮다",
+                    "content": "어떻게 대답할지 고민한다."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그럼 한 명만 따라와."
+                },
+                {
+                    "type": "script",
+                    "location": "구역 1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "따르다/응하다",
+                    "content": "C001를 따라간다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_06",
+            "prev_id": "02_3311_05",
+            "next_id": "02_3311_07",
+            "characters": [
+                "C001",
+                "C006"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "던전 입구로 이동한 C001는 게임 세상의 밤하늘의 아름다움을 보고 감탄한다.",
+            "unit_motif": "야망",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "구역 1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "구역 1에서 밖으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "하늘을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "이렇게 멋진 하늘은 처음이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사용하다",
+                    "content": "하늘을 나는 스킬을 사용한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "감탄하다",
+                    "content": "밤하늘 풍경을 보고 감탄한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "밤하늘이 이렇게 아름답다니 보석 같아."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "이 세상은 C001 님을 치장하기 위한 보석이기 때문입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나는 아무도 손에 넣지 못한 보석을 갖기 위해 이곳에 온 것인가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자신을 과시하는 말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "비장하다",
+                    "content": "C001 님만 허락하신다면 던전 전군을 모아 바치겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "세계정복도 재밌을 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "게임 세상으로 온 것이 자신뿐일지 생각한다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_07",
+            "prev_id": "02_3311_06",
+            "next_id": "02_3311_08",
+            "characters": [
+                "C005",
+                "C001",
+                "C006"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "자신의 명령을 수행하고 있는 C005를 발견하는 C001는 반지 아이템을 선물로 준다.",
+            "unit_motif": "선물 줌/선물 받음",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "따르다/응하다",
+                    "content": "C001의 명령을 수행하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "content": "C005를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "C005가 열심히 던전을 은폐하고 있구나."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001 님 앞으로의 일정이 어떻게 되십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C005가 열심히 일하는 것 같아서 격려해 줄까 해."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "발견하다",
+                    "content": "C001를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "반갑다",
+                    "content": "C001에게 달려간다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C001 님 여기는 어쩐 일이세요. 제가 무언가 실수했나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "실수라니, 나의 명령을 정말 만족스럽게 수행하고 있어서 기뻐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "반지 아이템을 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "받는다",
+                    "emotion": "기쁘다",
+                    "content": "이렇게 귀한 아이템은 받을 수 없습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "이걸 받고 던전을 위해 더욱 열심히 일하도록 해."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "감사합니다."
+                }
+            ]
+        },
+        {
+            "id": "02_3311_08",
+            "prev_id": "02_3311_07",
+            "characters": [
+                "C005",
+                "C001",
+                "C002",
+                "C006"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 수호자 우두머리인 C002에게 반지 아이템을 선물로 준다.",
+            "unit_motif": "선물 줌/선물 받음",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "근데 C001 님은 왜 갑옷을 입고 계세요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "C005의 질문에 고민한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C002가 나타난다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "감동하다",
+                    "content": "C001 님은 부하들의 일을 방해하지 않기 위해 변장하신거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "감탄하다",
+                    "content": "C001를 추켜세우는 말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "그렇죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "역시 C002는 나의 깊은 뜻을 이해하고 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "당연하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C005 이제는 방해 안 할게. 남은 작업 계속하렴."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "알겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "반지 아이템을 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002 너도 수호자 우두머리니까 받아."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "받는다",
+                    "emotion": "기쁘다",
+                    "content": "C001 님 감사합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C006는 다음에 줄게."
+                },
+                {
+                    "type": "script",
+                    "location": "던전 입구",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "알겠습니다."
+                }
+            ]
+        }
+    ]
+}

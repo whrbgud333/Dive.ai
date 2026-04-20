@@ -1,0 +1,1695 @@
+{
+    "id": "03_1730",
+    "type": "novel",
+    "title": "이런 마법사는 처음이지? 2",
+    "genre": [
+        "SF",
+        "판타지"
+    ],
+    "year": 2019,
+    "theme": "도전",
+    "concept": "비주류 게이머였던 C001가 사고 이후 특이한 능력을 각성하고 새로운 게임 캐릭터를 키우기 시작한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "뜻밖의 초능력",
+    "main_character": "먼치킨/천재",
+    "conflict": "C001는 우연히 얻은 능력을 이용해서 학살자 무리를 퇴치하고 성장한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "욜",
+        "C008",
+        "C009",
+        "C010"
+    ],
+    "units": [
+        {
+            "id": "03_1730_01",
+            "next_id": "03_1730_02",
+            "characters": [
+                "C001",
+                "C003",
+                "의사"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001의 형이 쓰러지고 C001는 마음을 다잡으며 돈을 벌 방법을 생각한다.",
+            "unit_motif": "간호/치료",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 게임에서 로그아웃하고 현실로 돌아온다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "절망하다",
+                    "content": "그 많은 아이템과 스킬을 두고 하필이면 펫이라니!"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "절박하다",
+                    "content": "펫이 좋은 건 알지, 하지만 거래가 불가능하잖아. 나는 당장 돈이 필요하다고!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "content": "그때 C001는 C004가 건 전화를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "형 무슨 일이야?"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "삼촌! 아빠가 쓰러졌어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "content": "집에 도착한 C001는 의사와 통화를 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "알 수 없는 곳",
+                    "character": [
+                        "의사"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "큰 문제는 아닙니다. 일시적으로 혈압이 떨어지셨어요. 혹시 다른 문제가 발생하시면 그때 다시 내원해주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "메시지",
+                    "content": "통화가 끊기고 병원에서 진료비가 결제되었다는 문자가 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "집 앞으로 나온 C001는 벤치에 앉는다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "걱정",
+                    "content": "큰일이 아니라 다행이지만 수술만 한다면 금방 나을 텐데."
+                },
+                {
+                    "type": "script",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "걱정",
+                    "content": "돈이 부족해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "걱정",
+                    "content": "C001가 머릿속으로 생각을 정리한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "비장하다",
+                    "content": "펫은 잊자, 그게 아니더라도 지금 나는 확실히 돈을 벌 방법이 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "비장하다",
+                    "content": "캐릭터 육성과 아이템 판매, 그리고 기왕 나온 펫을 최대로 활용해 보자."
+                }
+            ]
+        },
+        {
+            "id": "03_1730_02",
+            "prev_id": "03_1730_01",
+            "next_id": "03_1730_03",
+            "characters": [
+                "C001",
+                "C002",
+                "시스템"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C001는 게임에 접속하여 레전드 펫과 새로 얻은 스킬의 능력치를 확인한다.",
+            "unit_motif": "보상 획득",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001는 피시방으로 이동한다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "형 왜 금방 다시 오세요? 시간 다 사용하신 거 아니에요?"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "뭐 좀 확인하려고, 자리 좀 부탁해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 게임에 접속한다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "펫 정보부터 확인하자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "펫의 정보를 확인한 C001의 눈이 커지며 크게 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임속",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "심박수가 급격하게 상승하여 게임 강제 로그아웃이 실행됩니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "다음날 C001는 피시방으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "C001는 과거의 레전드 펫을 얻은 다른 플레이어를 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "길드 4의 마스터 C010가 가진 펫도 레전드 펫이었지."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "이러면 이야기가 달라지지."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "앞으로 훨씬 더 조심해서 눈에 띄지 않도록 플레이해야 해."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "잘못 걸리면 게임을 접어야 할 수도 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "형 자리 났어요."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "선불 시간 얼마 안 남았어요."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "귀찮다",
+                    "content": "알았어."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "귀찮다",
+                    "content": "돈에 여유 생기면 꼭 접속장치부터 사야겠다."
+                }
+            ]
+        },
+        {
+            "id": "03_1730_03",
+            "prev_id": "03_1730_02",
+            "next_id": "03_1730_04",
+            "characters": [
+                "C001",
+                "C009",
+                "시스템"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 희귀한 스킬을 배우는 데 성공한다.",
+            "unit_motif": "보상 획득",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 게임에 접속하여 새로 얻은 펫을 시험해 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "담담하다",
+                    "content": "C009가 뛰어가서 몬스터를 순식간에 사냥한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "얘 나보다 센 거 아니야?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "설레다",
+                    "content": "이 정도면 나 혼자 사냥 가능할 것 같은데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "담담하다",
+                    "content": "사냥을 마무리하고 레벨업 한 C001는 배우고 싶은 스킬을 고른다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "content": "염력 스킬을 획득하였습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "C001는 놀라며 염력 스킬에 대하여 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "이거 진짜 희귀 스킬인데."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "예전부터 이걸 가지면 어떻게 사용할까 상상도 많이 했었지."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "한번 사용해보자. C009야 가자!"
+                }
+            ]
+        },
+        {
+            "id": "03_1730_04",
+            "prev_id": "03_1730_03",
+            "next_id": "03_1730_05",
+            "characters": [
+                "C001",
+                "시스템"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 새로 얻은 스킬과 펫으로 몬스터들을 사냥한다.",
+            "unit_motif": "능력 각성",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 사냥터로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "담담하다",
+                    "content": "몬스터들이 몰려오지만 C001는 C009와 함께 무리 없이 사냥에 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 여러 번의 전투 끝에 가장 최적의 사냥 방법을 찾는다."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "이 방법이 제일 효율이 좋네."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "레벨이 올랐습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기쁘다",
+                    "content": "레벨업 하는 속도가 예전과는 비교가 안되네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "그때 갑자기 C001의 캐릭터인 C001의 시야가 붉게 깜빡였다."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "무슨 일이지? 방금 뭔가 반짝한 거 같은데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "content": "숲 사이 하늘에 숫자와 글자가 써져있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C001의 눈에 보스 몬스터의 출현 시간을 알리는 알람이 떴다."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "누가 뭐라고 해도 이 게임의 최고 콘텐츠는 보스 몬스터 사냥이지."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "가장 힘들지만 그만큼 얻는 것도 차원이 다르지."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "이걸 알리기만 해도 돈을 꽤나 받긴 할 테지만."
+                },
+                {
+                    "type": "script",
+                    "location": "사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "한번 잡아볼까?"
+                }
+            ]
+        },
+        {
+            "id": "03_1730_05",
+            "prev_id": "03_1730_04",
+            "next_id": "03_1730_06",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 보스 몬스터를 잡기로 마음먹는다.",
+            "unit_motif": "결심",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C001는 고민을 하면서 잠시 접속을 해제하고 게임 밖으로 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "형 무슨 고민 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "귀찮다",
+                    "content": "응. 돈이 좀 필요하네."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "형 저 돈 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "걱정 마. 너한테 빌릴 생각 없으니까."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "걱정",
+                    "content": "형 수술 시켜주고 C003을 학교에 보내려면 큰돈이 필요해."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "불만족스럽다",
+                    "content": "그래. 고작 정보 팔아서 돈을 벌어봐야 형 수술비나 큰돈은 못 구해."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "내가 보스 몬스터를 잡자."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "도박은 하지 않아. 최상의 컨디션을 만들고 싸워야지."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "C002야, 나 게임 접속 할게!"
+                }
+            ]
+        },
+        {
+            "id": "03_1730_06",
+            "prev_id": "03_1730_05",
+            "next_id": "03_1730_07",
+            "characters": [
+                "C001",
+                "시스템"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 보스 몬스터 사냥에 성공하고 보상을 얻는다.",
+            "unit_motif": "보상 획득",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "게임에 접속한 C001는 보스 몬스터가 나오기 전까지 주변의 다른 몬스터들을 정리한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "챔피언 몬스터가 곧 등장합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "보스 몬스터가 등장하자 C001가 흠칫 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "놀라다",
+                    "content": "C009야 도망치자!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "보스 몬스터를 보며 C001는 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "저 보스 몬스터랑 제대로 붙으면 난 잠깐도 못 버틴다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "도망치기만 해선 안돼. 필요한 건 시간이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 게임에 접속해서 보스 몬스터가 나오기 전까지 준비한 것들을 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "그래, 내가 괜히 일찍 접속해서 이것저것 준비한 게 아니지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "그런 C001의 눈에 표시를 해둔 나무가 보인다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "C009야 뛰어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 C009와 함께 표시해 둔 나무 넝쿨을 크게 뛰어넘는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "content": "순간 땅이 꺼지면서 보스 몬스터가 함정에 빠진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "함정에 빠진 보스 몬스터에게 C001가 스킬을 사용한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 염력 스킬을 사용해서 주변의 돌을 주워 던져 몬스터를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "content": "보스 몬스터가 체력을 잃자 붉은 빛을 띄기 시작한다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "이제 마지막 공격 차례다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "C009야 물어!"
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "보스 몬스터 사냥에 성공하였습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "보스 몬스터 처치 타이틀 여러 개를 획득하였습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "당황하다",
+                    "content": "이렇게 많이?"
+                }
+            ]
+        },
+        {
+            "id": "03_1730_07",
+            "prev_id": "03_1730_06",
+            "next_id": "03_1730_08",
+            "characters": [
+                "C001",
+                "시스템"
+            ],
+            "stage": "Another Story",
+            "storyline": "C001가 보상을 얻고 사용할지 팔아야 할지 고민하는 중에 보험사에서 연락이 와서 도움을 얻게 된다.",
+            "unit_motif": "고민 해결",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001는 보상으로 얻은 타이틀을 살펴본다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "황홀하다",
+                    "content": "너무 좋아서 심장이 다 떨리네 이렇게 많이 나오다니."
+                },
+                {
+                    "type": "narrative",
+                    "location": "보스사냥터",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "보고하다",
+                    "content": "그때 시스템 알림음이 울리고 스킬 선택 창이 뜬다."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "불만족스럽다",
+                    "content": "별로 안 좋은 스킬뿐이네."
+                },
+                {
+                    "type": "script",
+                    "location": "보스사냥터",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "답답하다",
+                    "content": "만약 이게 라이브 방송이었다면 여기서 시청자들이랑 소통하며 후원 좀 받았을 텐데."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "홀가분하다",
+                    "content": "아냐, 라이브는 너무 리스크가 커. 영상이나 판매하자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 게임에서 로그아웃하고 피시방 휴게실로 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "속상하다",
+                    "content": "통장에 돈이 별로 없네. 빨리 아이템 나온 걸 팔아야지."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "망설이다",
+                    "content": "아이템을 팔지 말고 내가 쓰면 딱 좋겠는데. 어디서 돈이라도 떨어졌으면 좋겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "content": "그때 C001는 모르는 번호로 걸려 온 전화를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방 휴게실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "예, 보험사라고요? 그때 그 사고 났던?"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방 휴게실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "기대되다",
+                    "content": "제가 사고로 불안 증세가 생겨서 기억이 잘 안 나서요. 심각한 후유증이 남은 거 같아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "통화를 마친 C001가 휴게실 밖으로 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "보험사에서 전화가 왔구나. 잘 됐다. 보상금 받아내야지."
+                }
+            ]
+        },
+        {
+            "id": "03_1730_08",
+            "prev_id": "03_1730_07",
+            "next_id": "03_1730_09",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001가 보험사에서 보상금을 받을 생각을 하며 게임에 다시 접속한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "피시방 카운터에 C001가 와서 선불 시간을 충전한다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "C002야 선불로 충전 부탁할게."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "얼마 넣으시게요? 평소처럼 넣어드리면 될까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "만족하다",
+                    "content": "아니 그 열 배로 넣어줘."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "돈 없으시다면서요."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "통쾌하다",
+                    "content": "원래 다 방법이 있는 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "통쾌하다",
+                    "content": "보험사 녀석들을 상대하는 방법은 예전에 다 알아놨지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "괘씸하다",
+                    "content": "C001는 과거에 형이 사고 났을 때를 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "피시방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괘씸하다",
+                    "content": "그때 아주 호되게 당한 뒤로 내가 이번에는 제대로 준비했다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002와 대화를 마친 C001는 게임에 접속한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "어디 아이템들을 살펴볼까?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "감탄하다",
+                    "content": "옵션들이 끝내주네!"
+                },
+                {
+                    "type": "script",
+                    "location": "마을",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "기쁘다",
+                    "content": "돈도 여유 생겼겠다, 이제 이건 사용하다 팔아야겠다."
+                }
+            ]
+        },
+        {
+            "id": "03_1730_09",
+            "prev_id": "03_1730_08",
+            "next_id": "03_1730_10",
+            "characters": [
+                "C001",
+                "유저들",
+                "E002",
+                "학살자들"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 학살자들이 약한 사람들을 괴롭히는 것을 목격한다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 C009와 같이 몬스터 사냥에 나선다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "만족하다",
+                    "content": "역시 아이템이 있으니 사냥이 편하구나, 어? 저게 뭐지?"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "여기는 일반적인 사람들이 올 곳이 아닌데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "유저들",
+                        "E002",
+                        "학살자들"
+                    ],
+                    "content": "유저들과 E002, 학살자들이 대치하며 서있다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "유저들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "너네가 그러고도 무사할 줄 알아?"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "어차피 이거 두 번째 캐릭터여서 너네가 고발하든 말든 상관없어."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "학살자들"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "그리고 어차피 높은 레벨인 사람들은 초보자 마을로 오지도 못하잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "학살자들",
+                        "E002"
+                    ],
+                    "act": "공격하다",
+                    "content": "E002와 학살자들이 이유 없이 스트레스 해소용으로 약한 사람들을 괴롭힌다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "귀찮다",
+                    "content": "괜히 잘 못 걸리면 귀찮기만 하지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "그때 C001의 눈에 C009가 보인다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "C009가 강하기는 한데, 이길 수 있을 거 같긴 한데."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "저 학살자들 아이템이나 한번 볼까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001가 뒤에서 조심히 학살자들을 감시한다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "학살자들의 실력이 별로인 것 같은데. 덤벼볼까?"
+                }
+            ]
+        },
+        {
+            "id": "03_1730_10",
+            "prev_id": "03_1730_09",
+            "next_id": "03_1730_11",
+            "characters": [
+                "C001",
+                "학살자들",
+                "E002"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001는 방송하는 척 연기하며 E002와 학살자들을 공격한다.",
+            "unit_motif": "응징",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 장거리에서 학살자들을 스킬로 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "학살자들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "너 누구야?"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "안녕하세요! C001입니다!"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "이제부터 무고한 유저들을 공격하는 E002와 학살자들을 사냥해보겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "학살자들을 상대하며 C001는 혼자 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "이런 놈들은 보통 라이브 방송을 하는 사람을 무서워하니까 내가 라이브 방송을 하는 척 연기해야겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "나쁜 짓 하는 걸 실시간으로 찍히는 건 아무래도 좋아할 수가 없지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "E002는 C001의 등장에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "라이브 방송을 하는 놈이구나!"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "아니 근데 내 이름은 어떻게 알았지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "당황하다",
+                    "content": "당황한 E002는 도망가기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "당황하다",
+                    "content": "C001는 차근차근 다른 일행을 사냥한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "content": "C001는 숨어있는 E002의 머리 위로 뜬 아이디를 발견하고 E002의 위치를 파악해낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 방송을 하는 척하면서 E002에게 다가간다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "긴장되다",
+                    "content": "얘네 다 실력 별로예요. 그러니까 여기서 이렇게 약한 애들이나 괴롭히고 있었겠죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "E002에게 일부러 들리도록 방송하는 척하며 다가간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1730_11",
+            "prev_id": "03_1730_10",
+            "characters": [
+                "E002",
+                "C001",
+                "C009"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001는 학살자들을 이기고 전리품을 얻는다.",
+            "unit_motif": "해피엔딩",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "기다리다",
+                    "content": "그때 E002는 자신에게 오는 발소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "당황하다",
+                    "content": "E002는 C001에게 기습을 시도하나 실패로 끝난다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C001라고 했었지?"
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "E002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "너 기억한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 E002의 사체 쪽으로 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "E002의 사체에서 아이템을 얻은 C001는 C009를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "그때 C009가 레벨업 하며 머리 위로 느낌표가 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "레벨업 한 C009의 스킬 선택 창이 뜬다."
+                },
+                {
+                    "type": "script",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "황금색?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "위험구역",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001는 황금색으로 빛나는 스킬을 발견한다."
+                }
+            ]
+        }
+    ]
+}

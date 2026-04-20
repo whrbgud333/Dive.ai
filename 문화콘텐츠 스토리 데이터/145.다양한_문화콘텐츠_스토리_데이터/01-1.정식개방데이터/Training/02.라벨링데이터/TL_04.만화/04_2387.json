@@ -1,0 +1,2172 @@
+{
+    "id": "04_2387",
+    "type": "comics",
+    "title": "최고의 만화가는 나야!",
+    "genre": [
+        "드라마"
+    ],
+    "year": 2021,
+    "theme": "성숙",
+    "concept": "C001와 C002는 함께 만화를 그려나간다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "갑작스런 사고",
+    "main_character": "당당함",
+    "conflict": "C001는 C002와의 의견 차이로 혼자 만화를 연재하고, C002가 괴한에게 살해당했다는 소식을 듣는다.",
+    "characters": [
+        "C001",
+        "C002"
+    ],
+    "units": [
+        {
+            "id": "04_2387_01",
+            "next_id": "04_2387_02",
+            "characters": [
+                "선생님1",
+                "학생들1",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001는 학교 신문에 만화를 실어 인기를 얻는다. 선생님1은 학교 신문의 만화 란에 C002의 작품도 실어도 되냐고 C001에게 묻는다.",
+            "unit_motif": "부탁/제안",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "시키다",
+                    "emotion": "담담하다",
+                    "content": "학교 신문 뒤로 넘겨라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "담담하다",
+                    "content": "학교 신문을 뒷자리로 넘긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "학교 신문에 실린 C001의 만화를 보고 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 만화를 재미있게 잘 그린다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "emotion": "자신감 있다",
+                    "content": "딱히 열심히 그린 건 아닌데 다행이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "담담하다",
+                    "content": "학생들1이 C001에게 만화가가 될 것이라고 잡담한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "선생님1이 C001를 교무실로 호출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "선생님1의 말에 따라 교무실로 이동한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "C002도 학교 신문에 만화를 싣게 해줘도 괜찮아?"
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "저희 반에 C002라는 사람은 없는데요?"
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "C002는 집에서 나오지 않는 학생이야."
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "비아냥거리다",
+                    "emotion": "자신감 있다",
+                    "content": "학교도 안 나오면서 저만큼 그릴 수 있다면 괜찮아요."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_02",
+            "prev_id": "04_2387_01",
+            "next_id": "04_2387_03",
+            "characters": [
+                "학생들1",
+                "C001"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001는 학교 신문에 실린 C002의 뛰어난 만화 실력을 보고 충격을 받는다.",
+            "unit_motif": "시기/질투",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "학생들1이 학교 신문을 뒤로 돌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001",
+                        "학생들1"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001와 C002의 만화가 학교 신문에 실린 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C002의 그림이 자신보다 실력이 높은 것을 보고 충격을 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "놀라다",
+                    "content": "학생들1이 C002의 만화가 전문가 수준이라고 칭찬한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "담담하다",
+                    "content": "C002가 C001보다 훨씬 잘 그려."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "C001가 집을 향해 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "심란하다",
+                    "content": "C001의 그림을 칭찬해주던 사람들을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "심란하다",
+                    "content": "C002가 그림을 더 잘 그린다고 말한 학생들1을 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "주눅들다",
+                    "content": "C002는 집에만 있으니까 그림 연습을 계속할 수 있었던 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "C002를 용서하지 않겠다고 외치며 뛰어간다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_03",
+            "prev_id": "04_2387_02",
+            "next_id": "04_2387_04",
+            "characters": [
+                "C001",
+                "학생1",
+                "C001의 언니"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C002를 뛰어넘기 위해 학생1과 C001의 언니의 반대에도 불구하고 계속 그림을 그린다.",
+            "unit_motif": "수련/훈련",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "그림 실력을 향상시키는 방법에 대해 알아본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "서점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사다",
+                    "emotion": "담담하다",
+                    "content": "서점에서 그림 작법서와 스케치북을 구입한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수련한다",
+                    "emotion": "담담하다",
+                    "content": "장소와 시간을 가리지 않고 그림 연습에 매진한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "학교 책상에서 그림을 그리는 C001를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "아직도 그림 그려?"
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "그림을 잘 그리려면 많이 그려야 한대."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "앞으로 계속 그림 그리면 친구들한테 인기 없을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "그림 그리기를 멈추고 고개를 들어 학생1을 바라본다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "그림 그린다고 나하고 놀지도 않고 서운해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수련한다",
+                    "emotion": "담담하다",
+                    "content": "학교를 마치고 집에 돌아온 C001가 그림 연습을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 언니"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "답답하다",
+                    "content": "쓸모도 없는 그림보다 생활기록부에 적힐 수 있는 활동을 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "담담하다",
+                    "content": "C001의 언니의 말을 무시하고 그림을 계속 그린다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_04",
+            "prev_id": "04_2387_03",
+            "next_id": "04_2387_05",
+            "characters": [
+                "선생님1",
+                "학생들1",
+                "C001",
+                "학생1",
+                "C001의 언니"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 그림을 연습했음에도 불구하고 C002의 그림이 더 뛰어난 것을 보고 만화 그리기를 포기한다.",
+            "unit_motif": "포기",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "시키다",
+                    "emotion": "담담하다",
+                    "content": "학교 신문 뒤로 넘겨라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생들1"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "담담하다",
+                    "content": "학교 신문을 뒷자리로 넘긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "절망하다",
+                    "content": "여전히 자신보다 그림 실력이 뛰어난 C002의 만화를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "이제 그림은 그만 그려야겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "학교 신문을 학생1에게 전달한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "오늘 같이 놀래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "기쁘다",
+                    "content": "C001의 제안을 기쁘게 수락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주택가 거리",
+                    "character": [
+                        "C001",
+                        "학생1"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C001, 학생1이 아이스크림을 먹으며 같이 논다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학원",
+                    "character": [
+                        "C001",
+                        "C001의 언니"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 C001의 언니를 따라 학원을 다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001의 방에 쌓여있는 스케치북을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "스케치북을 모두 버린다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_05",
+            "prev_id": "04_2387_04",
+            "next_id": "04_2387_06",
+            "characters": [
+                "선생님1",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 선생님1의 부탁으로 C002의 졸업장을 전달하러 간다.",
+            "unit_motif": "부탁/제안",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C001에게 C002의 졸업장을 준다."
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "담담하다",
+                    "content": "C002한테 졸업장을 대신 전달해줘."
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "저는 C002랑 말해 본 적도 없는데요?"
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "선생님1"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "둘이 학교 신문에 만화 그렸었잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "귀찮다",
+                    "content": "C001가 마지못해 선생님의 부탁을 수락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "귀찮다",
+                    "content": "C001가 C002의 집을 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "열려있는 문으로 C002의 집 안에 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C002의 졸업장 가져왔는데 어디에다가 두면 될까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "아무도 없는 것을 보고 사람이 없는지 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "부스럭거리는 소리를 듣고 안으로 더 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_06",
+            "prev_id": "04_2387_05",
+            "next_id": "04_2387_07",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C002는 C001의 만화를 보고 방 밖으로 나가 C001와 대면한다.",
+            "unit_motif": "만남",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C002의 스케치북이 수북이 쌓여있는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "궁금하다",
+                    "content": "양옆으로 쌓여있는 스케치북의 사이로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "스케치북 위에 놓여있는 만화 용지를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "만화 용지에 C002가 방 밖으로 나오는 만화를 그린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "만화는 안 그린다고 했었는데 그려버렸네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "잡고 있던 만화 용지를 놓친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "만화 용지가 C002의 방 문틈 사이로 들어가는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "당황하다",
+                    "content": "당황한 C001가 졸업장을 스케치북 위에 놓고 집 밖으로 뛰어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "초조하다",
+                    "content": "C002가 C001를 부르며 C002의 집 밖으로 뛰쳐나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C001가 C002를 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_07",
+            "prev_id": "04_2387_06",
+            "next_id": "04_2387_08",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C002는 C001가 연재한 만화의 오랜 팬임을 밝히며 C001를 추켜세운다. C001는 다시 만화를 그리기 시작한다.",
+            "unit_motif": "감정의 표현",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "계속 학교 신문에 실린 C001 선생님의 만화를 봤어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요청하다",
+                    "emotion": "긴장되다",
+                    "content": "C001의 팬임을 밝히고 겉옷에 사인을 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "자신감 있다",
+                    "content": "우쭐한 기분을 숨기고 C002의 겉옷에 사인을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "열광하다",
+                    "content": "C001가 연재했던 만화의 감상을 말하며 C001를 추켜세운다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "감탄하다",
+                    "content": "갑자기 그림 실력이 느셔서 깜짝 놀랐어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "왜 만화 연재를 중단하셨나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "자신감 있다",
+                    "content": "만화 공모전에 나갈 거라서 잠깐 중단한 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "열광하다",
+                    "content": "C001의 공모전 만화를 보고 싶다고 열광한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "비가 내리는 것을 보고 C001의 집을 향해 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002의 칭찬에 기쁜 마음을 표출하면서 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C001가 다시 책상에 앉아 만화를 그린다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_08",
+            "prev_id": "04_2387_07",
+            "next_id": "04_2387_09",
+            "characters": [
+                "C001",
+                "C002",
+                "출판사 직원1"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001와 C002는 같이 만화를 그려 만화 공모전에 입상한다.",
+            "unit_motif": "성공",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "중학생이 된 C001가 교실 책상에 앉아 만화를 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 하교하고 C001의 집으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "반갑다",
+                    "content": "C002가 C001의 방에서 만화를 그리며 C001를 맞이한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "원고가 이전보다 진척되었는지 C002에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "저는 중학교도 가지 않았으니까 그 시간에 그리고 있었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "이렇게 긴 만화는 처음 그려봐서 오래 걸리네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C001와 C002가 계속해서 만화를 그려나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "출판사",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "자신감 있다",
+                    "content": "완성된 만화를 출판사 직원1에게 보여준다."
+                },
+                {
+                    "type": "script",
+                    "location": "출판사",
+                    "character": [
+                        "출판사 직원1"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "놀라다",
+                    "content": "중학생이 그렸다고 생각하지 못할 수준이야. 무조건 공모전에서 상을 탈 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "만화 잡지의 공모전에서 상을 탔다는 것을 확인한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_09",
+            "prev_id": "04_2387_08",
+            "next_id": "04_2387_10",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001와 C002는 공모전의 상금으로 시내에 나와서 논다. 집 안에서만 살아온 C002는 집 밖으로 이끌어준 C001에게 감사를 표한다.",
+            "unit_motif": "감정의 표현",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "뿌듯하다",
+                    "content": "만화 공모전의 상금으로 만든 통장을 서로에게 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001가 상금의 일부를 현금으로 인출한 것을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "비장하다",
+                    "content": "오늘은 이 돈으로 놀자."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "이렇게 써도 돼?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "난 앞으로 만화로 계속 돈을 벌 거니까 괜찮아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시내",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "C001, C002가 시내로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "크레이프 가게",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "즐겁다",
+                    "content": "같이 크레이프를 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영화관",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "즐겁다",
+                    "content": "같이 영화를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "지하철 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "기쁘다",
+                    "content": "나는 사람을 대하는 게 어려워서 집 밖으로 나오지 않았는데, C001의 말대로 놀러 나오길 잘했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "자신을 방 밖으로 이끌어준 C001에게 고마움을 전한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_10",
+            "prev_id": "04_2387_09",
+            "next_id": "04_2387_11",
+            "characters": [
+                "C001",
+                "C002",
+                "편집자1"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001와 C002는 정식 연재를 제의받는다. C002는 미술 대학 진학을 이유로 C001의 정식 연재를 도와주지 못한다고 말한다.",
+            "unit_motif": "말싸움/의견충돌",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "C001, C002가 같이 만화를 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "content": "탁자에 C001와 C002가 연재한 단편 만화가 쌓여간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "감탄하다",
+                    "content": "미술 책을 읽으며 미술 대학에 진학하겠다고 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "편집자1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C002, C001를 향해 말을 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "편집자1"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "단편을 여러 번 실은 경력이 있으니까 고등학교 졸업 후 정식으로 연재해보자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "정식 연재 제의에 기뻐하던 C001가 C002를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "C002가 고개를 숙이고 당황스러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "미술 대학 진학을 이유로 C001의 연재를 도와주지 못한다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "난감하다",
+                    "content": "미술 대학은 취업할 곳도 없고, 나랑 같이 연재하는 게 더 좋을 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "긴장되다",
+                    "content": "그래도 나는 미술 대학에 진학할래."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_11",
+            "prev_id": "04_2387_10",
+            "next_id": "04_2387_12",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001는 C002의 미술 대학 진학을 반대하며 자신과 정식 연재를 하자고 말다툼하지만 설득에 실패한다.",
+            "unit_motif": "말싸움/의견충돌",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002의 마음을 돌리기 위해 애쓴다."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "대학에 가면 네가 무서워하는 사람들이 많은데 견딜 수 있어?"
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "무서워하지 않도록 연습할 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "내가 하자는 대로 하면 그런 일 겪을 필요 없어."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "긴장되다",
+                    "content": "이제 나도 C001에게서 자립할래."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "화나다",
+                    "content": "너 혼자서 가능할 것 같아?"
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "초조하다",
+                    "content": "나도 노력하면 할 수 있어."
+                },
+                {
+                    "type": "script",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "평소에도 부끄러워서 나한테 대신 말을 시키잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "말다툼하다",
+                    "emotion": "긴장되다",
+                    "content": "C001와 C002가 계속하여 말다툼을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C002가 지금보다 그림 실력을 향상시키고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "체념하다",
+                    "emotion": "당황하다",
+                    "content": "당황하던 C001가 C002의 대학 진학을 받아들인다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_12",
+            "prev_id": "04_2387_11",
+            "next_id": "04_2387_13",
+            "characters": [
+                "C001",
+                "아나운서1",
+                "C002"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "혼자 만화를 연재하는 C001는 미술 대학에서 일어난 묻지 마 살인사건으로 C002가 사망했다는 소식을 듣는다.",
+            "unit_motif": "죽음",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "성인이 된 C001가 혼자 만화를 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "content": "작업실 책장에 C001가 정식 연재하는 만화 권수가 쌓여간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "담담하다",
+                    "content": "C001의 만화가 애니메이션으로 제작된다는 소식을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "미술 대학에서 괴한이 학생들을 공격했다는 뉴스를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "TV",
+                    "character": [
+                        "아나운서1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "오늘 미술 대학 내에서 묻지 마 살인이 벌어졌습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "긴장되다",
+                    "content": "휴대폰으로 C002에게 전화를 걸지만 받지 않는 것을 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "emotion": "절망하다",
+                    "content": "C001의 엄마에게 전화로 C002의 사망 소식을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "절망하다",
+                    "content": "C002와 같이 만화 이야기를 했던 날을 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "우리가 정식 연재를 한다면 엄청난 그림 실력을 보여주고 싶어."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "나도 C001처럼 그림을 잘 그리도록 노력해야겠다."
+                },
+                {
+                    "type": "script",
+                    "location": "과거 논길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "열심히 내 뒤를 따라오라고."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_13",
+            "prev_id": "04_2387_12",
+            "next_id": "04_2387_14",
+            "characters": [
+                "아나운서1",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 본인 때문에 C002가 죽은 것이라 자책한다. C001는 방 밖으로 나오지 않는 C002를 상상한다.",
+            "unit_motif": "죄책감",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "TV",
+                    "character": [
+                        "아나운서1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "괴한은 미술 대학의 학생들이 자신의 그림을 베꼈다고 주장하며 미술 대학 학생들을 여럿 살해했습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰다",
+                    "emotion": "괴롭다",
+                    "content": "연재 중인 만화의 휴재 공지를 작성한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 장례식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "C002의 장례식장에서 C002의 사진을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 장례식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002의 집으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "스케치북이 쌓여있는 C002의 방 문을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "C001가 그린 만화가 보관되어 있는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "죄책감",
+                    "content": "자신이 만화를 그려서 C002가 죽은 것이라고 자책한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "죄책감",
+                    "content": "C002가 방 안에만 있었다면 살아있었을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "C001가 자신이 그린 만화를 찢어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "슬프다",
+                    "content": "자신이 만화를 C002에게 주지 않아 C002가 방 밖으로 나오지 않는 상상을 한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_14",
+            "prev_id": "04_2387_13",
+            "next_id": "04_2387_15",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Another Story",
+            "storyline": "상상 속의 C002는 C001와 만나지 않고 방 안에서만 그림을 그리지만 여전히 미술 대학에 진학한다.",
+            "unit_motif": "상상",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "졸업식 날 C002가 방에서 그림을 그리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "열다",
+                    "emotion": "담담하다",
+                    "content": "C001가 문을 열고 C002의 집으로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "담담하다",
+                    "content": "졸업장 문 앞에 두고 갈게요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001가 C002의 집에서 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "C001가 놓고 간 졸업장을 숨어서 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "방 밖을 나가지 않고 계속 그림을 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "감탄하다",
+                    "content": "성인이 된 C002가 미술 책을 읽고 미술 대학 진학을 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "미술 대학의 입시 시험을 치른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "기쁘다",
+                    "content": "미술 대학의 합격 통지서를 받고 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "미술 대학에서 그림을 그리며 학업에 열중한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_15",
+            "prev_id": "04_2387_14",
+            "next_id": "04_2387_16",
+            "characters": [
+                "C002",
+                "괴한",
+                "C001"
+            ],
+            "stage": "Another Story",
+            "storyline": "상상 속에서 C001는 괴한에게 공격당하는 C001를 구한다.",
+            "unit_motif": "상상",
+            "causality": "Retaliation(보복/복수)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "강의실 앞 소파에 앉아 휴식한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "궁금하다",
+                    "content": "바닥에 금속이 끌리는 소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "공구를 바닥에 끌고 다니는 괴한이 자신을 바라보는 것을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "괴한"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "네가 내 그림을 베꼈지?"
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "혼란스럽다",
+                    "content": "무슨 소리인지 모르겠어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "괴한"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "공구를 휘둘러 C002를 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "괴한"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "나를 무시하지 마!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "C001가 계단에서 발 차기로 괴한을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "감탄하다",
+                    "content": "자신을 구해준 C001를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "쓰러진 괴한을 주먹으로 공격한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_16",
+            "prev_id": "04_2387_15",
+            "next_id": "04_2387_17",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Another Story",
+            "storyline": "상상 속에서 C002를 구한 C001는 C002에게 만화 그리는 것을 도와달라고 제안한다.",
+            "unit_motif": "상상",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001가 들것에 실려가는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "인터뷰를 요청한 기자에게 상황을 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "괴한이 보여서 발 차기를 날렸는데 제 다리까지 부러질 줄 몰랐어요."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "구해주셔서 감사해요. 사례를 하고 싶은데 연락처를 알 수 있을까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C002에게 연락처를 건네준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001의 이름을 발견하고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "설레다",
+                    "content": "학교 신문에 만화를 연재했던 C001 선생님이신가요? 팬이에요!"
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "유쾌하다",
+                    "content": "맞아."
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "중간에 왜 연재를 중단하셨어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "기쁘다",
+                    "content": "다시 만화를 그리니까 나중에 그림을 도와줘!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 미술 대학",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "설레다",
+                    "content": "C001를 보며 웃는다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_17",
+            "prev_id": "04_2387_16",
+            "next_id": "04_2387_18",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C002가 죽지 않는 상상을 마친 C001는 C002의 방에 들어간다.",
+            "unit_motif": "결심",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 논길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C002가 하교한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "담담하다",
+                    "content": "C001의 만화를 스크랩한 스케치북을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "즐겁다",
+                    "content": "C001의 만화를 보며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "C002가 만화 용지에 만화를 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상상 속의 C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "만화 용지가 바람에 날려 문틈으로 날아가는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "바닥에 놓인 만화 용지를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "비장하다",
+                    "content": "상상을 마친 C001가 C002의 방에 들어갈 결심을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "열다",
+                    "emotion": "담담하다",
+                    "content": "C002의 방 문을 연다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "슬프다",
+                    "content": "C001가 혼자 연재한 만화의 단행본, 독자 엽서가 놓여있는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "애틋하다",
+                    "content": "C002와 처음 만났을 때 C001가 사인한 상의가 걸려있는 것을 본다."
+                }
+            ]
+        },
+        {
+            "id": "04_2387_18",
+            "prev_id": "04_2387_17",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001는 C002를 위해 다시 만화를 그린다.",
+            "unit_motif": "결심",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "난 만화 그리는 걸 좋아하지 않아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "슬프다",
+                    "content": "C001가 C002와 만화를 그렸던 때를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "자신감 있다",
+                    "content": "C002에게 공모전 만화를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "받는다",
+                    "emotion": "설레다",
+                    "content": "C001의 만화를 받아 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "C001의 만화를 보고 환하게 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "과거 C001의 집",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "즐겁다",
+                    "content": "같이 만화를 그리며 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "그립다",
+                    "content": "자신의 만화를 보며 눈물을 흘린다."
+                },
+                {
+                    "type": "script",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "그립다",
+                    "content": "C002가 내 만화를 보고 웃는 걸 보고 싶어서 그리는 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "작업실로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "작업실로 돌아온 C001가 만화를 다시 그리기 시작한다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1864 @@
+{
+    "id": "04_1185",
+    "type": "comics",
+    "title": "머리카락을 내려주오",
+    "genre": [
+        "판타지",
+        "코미디",
+        "멜로/로맨스"
+    ],
+    "year": 2010,
+    "theme": "구출",
+    "concept": "마법을 가진 공주가 마녀를 무찌르고 진짜 자아를 찾는다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "처녀영웅",
+    "main_character": "황족(왕족)",
+    "conflict": "마법을 가진 공주가 우연히 탑에 숨어든 좀도둑을 만나 마녀를 무찌르고 진짜 자아를 찾는다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005"
+    ],
+    "units": [
+        {
+            "id": "04_1185_01",
+            "next_id": "04_1185_02",
+            "characters": [
+                "C005",
+                "C002",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "마법에 걸리는 C002에 대한 배경 설명으로 C001은 공주 C002을 납치하여 숨어 산다.",
+            "unit_motif": "버려진 아이",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "받는다",
+                    "content": "한 남자의 수배 전단지가 걸려 있고, 남자는 한 소녀에 대한 이야기를 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "받는다",
+                    "content": "마법의 황금빛 꽃에 대한 이야기가 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "act": "받는다",
+                    "emotion": "슬프다",
+                    "content": "왕국이 있고, 왕비가 아프다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "content": "국민들이 왕비를 위해 마법의 황금빛 꽃을 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "안심/안도하다",
+                    "content": "왕비는 꽃의 힘으로 병이 낫고, C002을 무사히 낳는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002 탄생을 기념해 풍등을 날리는 행사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "참담하다",
+                    "content": "꽃을 홀로 독식하던 C001이 꽃을 잃어버리자 C002을 납치해간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "왕국에서 C002을 찾았지만 숲속 깊은 곳에 숨겨 찾을 수 없었다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002은 C001을 어머니라 여기며 살았다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "왕국에서 C002의 생일을 기념해 날리는 풍등을 자신의 정체를 모르는 C002이 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_02",
+            "prev_id": "04_1185_01",
+            "next_id": "04_1185_03",
+            "characters": [
+                "C002",
+                "C004",
+                "C005",
+                "쌍둥이 악당",
+                "C001"
+            ],
+            "stage": "Main Character",
+            "storyline": "C005이라는 좀도둑이 티아라를 훔치고, C002은 C001에게 소원을 빈다.",
+            "unit_motif": "도망자",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "놀다",
+                    "content": "C002이 C004과 놀며 하루의 일과를 노래한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C005이라는 남자가 쌍둥이 악당과 함께 성에 침입한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "훔치다",
+                    "content": "C005과 쌍둥이 악당은 성에서 티아라를 훔쳐 달아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "기대되다",
+                    "content": "C002은 C004과 함께 엄마를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "content": "C001이 돌아와 C002의 당근을 이용해 탑 위로 올라온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C002은 C001에게 부탁하기 위해 그녀가 원하는 노래를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C002은 내일이 18번째 생일이며 선물로 '떠있는 빛'을 보고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "C001은 C002의 안전을 위해 집 밖을 나가서는 안된다고 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "실망하다",
+                    "content": "C002은 결국 집에 남고 C001은 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C002은 혼자 남아 한숨 쉬며 창밖을 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_03",
+            "prev_id": "04_1185_02",
+            "next_id": "04_1185_04",
+            "characters": [
+                "C005",
+                "쌍둥이 악당",
+                "C003",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C005은 병사들을 피해 숲속 C002이 사는 곳에 우연히 숨게 된다.",
+            "unit_motif": "불청객",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "실망하다",
+                    "content": "C005은 자신의 현상 수배지를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "도망치다",
+                    "content": "병사들이 C005과 쌍둥이 악당을 쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "실망하다",
+                    "content": "구석에 몰린 C005은 동료들을 버리고 홀로 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "content": "병사들이 C005의 뒤를 쫓다가 C005이 병사의 말인 C003에 올라탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "content": "C005은 C003와 훔친 물건을 두고 싸우다 함께 낭떠러지로 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C005은 C003의 추격을 피하다 우연히 비밀 통로를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "C005은 C002이 사는 집에 숨어 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "C002이 C005을 프라이팬으로 때려 기절시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "기절한 C005을 보며 C002은 어찌해야 할지 모르고 안절부절못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "content": "C001 이외에 사람을 처음 본 C002은 천천히 C005을 관찰한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "받는다",
+                    "content": "옷장에 C005을 가두고 그가 훔친 티아라를 써 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "받는다",
+                    "content": "C001이 돌아와 C002은 티아라를 숨긴다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_04",
+            "prev_id": "04_1185_03",
+            "next_id": "04_1185_05",
+            "characters": [
+                "C002",
+                "C001",
+                "C005"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C002은 C005과 함께 집을 떠나게 된다.",
+            "unit_motif": "낯선 곳으로의 이주",
+            "causality": "Mentor-hero conflict(스승과의 갈등)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 옷장에 숨겨둔 남자에 대해 말하려 하지만 C001은 들으려 하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "이에 C002은 실망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "그리고 새 페인트를 가지고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C001은 C002이 원하는 물건을 구하기 위해 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C001이 떠나고, C002은 C005을 당근으로 묶어 의자에 앉힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C004이 깨운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "불안하다",
+                    "content": "C002은 C005을 자신을 해치기 위해 온 남자로 오해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "자신의 당근을 원하지 않는다는 말을 믿고 거래를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "다음 날 떠오르는 빛을 보게 해주면 티아라를 돌려주기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005과 C002은 숲속의 집을 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기쁘다",
+                    "content": "C002은 잠시 망설이지만 곧 풀을 밟고 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002은 엄마에게 미안한 마음과 자유로움에 갈등하며 숲을 돌아다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "content": "C005은 C002에게 다시 집으로 돌아갈 것을 권유하다가 C005이 안내하는 곳에 점심을 먹으러 간다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_05",
+            "prev_id": "04_1185_04",
+            "next_id": "04_1185_06",
+            "characters": [
+                "C003",
+                "C001",
+                "C005",
+                "C002",
+                "주정뱅이들",
+                "쌍둥이 악당"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C002이 C005과 집을 떠난 사실을 알게 된 C001이 음모를 꾸민다.",
+            "unit_motif": "저주",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "C005을 찾아 헤매던 말 C003를 보고 C001은 C002에게 돌아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "불안하다",
+                    "content": "C002이 없다는 걸 알고 비밀 문을 통해 집에 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "C001은 C002이 없자 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "놀라다",
+                    "content": "어둠 속에서 반짝이는 티아라를 발견하고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "가방 속 현상수배지를 보고 C002이 없어진 것에 C005이 연루됐다는 사실을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "주정뱅이들"
+                    ],
+                    "act": "놀다",
+                    "content": "C005은 C002을 험상궂은 사람들이 잔뜩 있는 선술집으로 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "주정뱅이들"
+                    ],
+                    "content": "C002을 돌려보내려던 C005의 계획이 틀어져 C005의 현상금을 노리는 주정뱅이들에게 타깃이 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "주정뱅이들"
+                    ],
+                    "content": "C002은 C005이 자신에게 필요하다며 주정뱅이들을 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "주정뱅이들"
+                    ],
+                    "act": "놀다",
+                    "content": "C002은 선술집의 주정뱅이들과 노래를 하며 즐긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "주정뱅이들",
+                        "C001"
+                    ],
+                    "content": "노래가 흘러나오는 선술집에서 C001은 C002을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "content": "병사들이 C005의 동료였던 쌍둥이 악당과 함께 선술집에 들이닥친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "content": "C005과 C002은 주정뱅이들의 도움을 받아 몰래 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "왕국의 병사들은 C005을 찾지 못하지만 C003가 냄새로 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "쌍둥이 악당",
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "쌍둥이 악당은 풀려나고 C001은 이 모든 것을 지켜본다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_06",
+            "prev_id": "04_1185_05",
+            "next_id": "04_1185_07",
+            "characters": [
+                "C001",
+                "주정뱅이들",
+                "C005",
+                "C002",
+                "C003",
+                "쌍둥이 악당"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "병사들을 피해 C002과 C005은 위기를 극복하고, C005은 C002의 비밀을 알게 된다.",
+            "unit_motif": "처녀영웅",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "선술집",
+                    "character": [
+                        "C001",
+                        "주정뱅이들"
+                    ],
+                    "act": "찾는다",
+                    "content": "C001은 주정뱅이들 중 하나를 위협해 비밀 통로의 끝이 어디인지 알아낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "터널 안",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "content": "터널을 지나던 C005과 C002은 뒤따라 오는 병사들에게 쫓긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "사용하다",
+                    "content": "C002은 당근을 이용해 위기를 모면한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005은 병사들과 말 C003와 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002이 C005을 구해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "content": "C003가 둘을 쫓아오지만 둘은 무사히 빠져나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C003",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C003가 댐의 기둥을 무너뜨려 물이 쏟아지고 병사들과 C003, 쌍둥이 악당은 물에 휩쓸린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "C002과 C005은 동굴에 갇힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 자신을 탓하며 미안해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C005은 자신의 진짜 이름을 말하고, C002은 노래를 하면 자신의 당근이 빛난다는 사실을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "안심/안도하다",
+                    "content": "빛나는 C002의 당근으로 탈출구를 찾은 두 사람은 가까스로 탈출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "content": "C002은 당근의 비밀이 하나가 아님을 이야기한다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_07",
+            "prev_id": "04_1185_06",
+            "next_id": "04_1185_08",
+            "characters": [
+                "C001",
+                "쌍둥이 악당",
+                "C002",
+                "C005"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001은 쌍둥이 악당과 거래를 하고 C002과 C005은 서로의 비밀을 말하며 가까워진다.",
+            "unit_motif": "계급을 초월한 사랑",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C001",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "만나다",
+                    "content": "터널 끝에서 C005을 기다리던 C001은 쌍둥이 악당을 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C001",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "말하다",
+                    "emotion": "증오하다",
+                    "content": "C001은 티아라를 쌍둥이 악당에게 주며 C005을 잡아오면 더 좋은 보상을 하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "해치다",
+                    "content": "C002은 C005의 다친 손을 당근으로 감싸고 치료해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "놀란 C005은 C002에게 질문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 자신의 신비한 마법 당근이 집을 나오지 못하는 이유임을 밝힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 C005의 과거를 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "만들다",
+                    "content": "C005은 자신이 고아에서 도둑이 된 이야기를 말하며, 비밀을 약속한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C005은 장작을 가지러 가고 C002은 C005보다 유진이 더 좋다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "content": "혼자 남은 C002 앞에 C001이 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "거부감",
+                    "content": "C001은 집에 가자고 하지만 C002은 거부한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "잡담하다",
+                    "content": "C002은 C005이 자신을 좋아하는 것 같다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "잡담하다",
+                    "content": "C001은 순진한 생각이라며 C002을 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "C001은 C005이 C002이 아니라 티아라 때문에 그녀 곁에 있는 것이라고 말하고 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "장작을 구해온 C005은 자신도 초능력자가 되고 싶다고 떠든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C001",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "content": "C001과 쌍둥이 악당은 두 사람을 숨어서 지켜본다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_08",
+            "prev_id": "04_1185_07",
+            "next_id": "04_1185_09",
+            "characters": [
+                "C002",
+                "C005",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002과 C005은 마을 축제를 즐기게 되고, 드디어 등이 떠오르는 것을 본다.",
+            "unit_motif": "보물찾기",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C003는 C005을 잡아가려 하고, C002이 진정시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 C003에게 C005이 필요함을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "하루 후에 C005을 넘겨주기로 약속하고 셋이 여행을 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "셋은 왕국이 있는 마을로 내려온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C002의 긴 당근이 마을 사람들에 치인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "만들다",
+                    "content": "아이들의 도움으로 C002은 당근을 정리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C002은 벽에 새겨진 왕과 왕비, 공주의 사진을 보고, 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C002은 마을 사람들과 함께 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C002은 마을 광장 바닥에 그림을 그리기도 하고 C005과 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005과 C002은 작은 배를 타고 강으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C002은 등이 하늘로 오르기만을 기다리며 자신이 원하던 기분이 아닐까 봐 두려워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "act": "만들다",
+                    "emotion": "슬프다",
+                    "content": "왕비는 슬픔에 잠긴 왕의 얼굴을 어루만져 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "act": "사용하다",
+                    "content": "왕과 왕비는 왕궁의 테라스로 나가 등을 하늘 높이 띄운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "act": "사용하다",
+                    "content": "왕의 등을 시작해 온 마을이 환하게 등을 켠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "놀다",
+                    "content": "C002은 등을 기다리며 C005과 배에서 꽃을 가지고 논다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "감탄하다",
+                    "content": "C002은 하늘 높이 떠오르는 등을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "사용하다",
+                    "content": "수많은 등이 마을과 강에서 떠오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "받는다",
+                    "emotion": "고맙다",
+                    "content": "C002은 감사의 의미로 C005에게 티아라를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "사용하다",
+                    "content": "C005은 거절하고 둘 역시 등을 하늘 높이 띄운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "키스하다",
+                    "content": "둘은 손을 맞잡고 노래를 부르고, 키스를 하려 한다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_09",
+            "prev_id": "04_1185_08",
+            "next_id": "04_1185_10",
+            "characters": [
+                "C002",
+                "C005",
+                "쌍둥이 악당",
+                "C001",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "C005이 쌍둥이 악당들에게 당하고 C002이 오해를 한다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "강",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "불안하다",
+                    "content": "C005이 강가에 있는 쌍둥이 악당을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "받는다",
+                    "content": "둘은 강가에 배를 세우고 C005은 할 일이 있다며 가방을 가지고 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C005은 쌍둥이 악당에게 가서 가방을 주고 떠나려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "긴장되다",
+                    "content": "쌍둥이 악당은 왕관 대신 C002을 데려오라고 협박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "잡담하다",
+                    "content": "C002은 C005을 기다리다 쌍둥이 악당을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "실망하다",
+                    "content": "C005이 배를 타고 혼자 떠나는 것을 보고 실망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "쌍둥이 악당"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무섭다",
+                    "content": "쌍둥이들은 C002을 납치하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "무섭다",
+                    "content": "C002은 도망가다 당근에 걸리고, 마침 C001이 나타나 쌍둥이 악당을 물리치고 C002을 구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "emotion": "실망하다",
+                    "content": "C002은 안도와 함께 떠나가는 C005을 보고 실망한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강가",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "미안하다",
+                    "content": "C001은 함께 다시 집으로 돌아가길 권하고 C002은 잘못을 뉘우치고 C001과 함께 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005은 배에 묶여 있었고, 병사들이 발견해 체포하는 것을 C003가 목격한다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_10",
+            "prev_id": "04_1185_09",
+            "next_id": "04_1185_11",
+            "characters": [
+                "C005",
+                "C002",
+                "C001",
+                "쌍둥이 악당",
+                "주정뱅이들",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "C005은 성을 탈출하여 C002을 구하러 간다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "초조하다",
+                    "content": "C005은 감옥에 갇혀고, 병사들이 어디론가 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "주눅들다",
+                    "content": "C002은 집에 와서 풀이 죽어 있고, C001은 음식을 구하러 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "content": "C002은 침대에 누워 왕궁의 징표를 보다 천장 등에 새겨진 그림을 보고 옛일을 떠올리게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "놀라다",
+                    "content": "C002은 자신이 공주라는 사실을 깨닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005은 병사들에게 끌려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "쌍둥이 악당"
+                    ],
+                    "emotion": "초조하다",
+                    "content": "C005은 감옥에 갇혀있는 쌍둥이 악당에게서 C002에 대해 어떻게 알아냈는지 캐묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 자신이 공주라는 사실을 C001에게 밝힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C001은 C002을 위한 거였으며 C005은 교수형에 처할 거라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C002과 C001은 싸우다 거울이 깨지고 C001은 본심을 드러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "주정뱅이들"
+                    ],
+                    "act": "도망치다",
+                    "content": "C005은 병사들에게 끌려가다 주막의 주정뱅이들의 도움으로 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "안심/안도하다",
+                    "content": "주정뱅이들의 도움으로 성을 탈출한 C005은 C003를 타게 되고 감사해 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "content": "병사들이 뒤쫓고, C005과 C003는 성을 탈출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "초조하다",
+                    "content": "마을을 지나 C002이 사는 숲속 집으로 간다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_11",
+            "prev_id": "04_1185_10",
+            "next_id": "04_1185_12",
+            "characters": [
+                "C005",
+                "C002",
+                "C001"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C001의 계략으로 C005과 C002이 위험에 처한다.",
+            "unit_motif": "학대하는 계부(계모)",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C002이 당근을 내려주고 C005이 올라온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "emotion": "반갑다",
+                    "content": "C005은 결박되어 있는 C002을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "절망하다",
+                    "content": "C001이 뒤에서 나타나 C005을 칼로 찌른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 반항하고 C001은 C002을 다락에 가두려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 자신의 힘으로 C005을 살리게 해주면 평생 C001의 옆에 있겠다고 약속한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "content": "C005은 C002이 자신을 위해 희생할 것을 깨닫고 말리려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "해치다",
+                    "content": "C001은 C005을 묵고, C002은 노래와 당근으로 그를 치료하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "절망하다",
+                    "content": "C005은 C002에게 키스하는 척하다가 C002의 당근을 자른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "절망하다",
+                    "content": "C001은 추한 노파로 변해 분노하다가 발을 헛디뎌 탑 밖으로 추락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C005",
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "바닥에 떨어진 C001은 사라진다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_12",
+            "prev_id": "04_1185_11",
+            "next_id": "04_1185_13",
+            "characters": [
+                "C002",
+                "C005"
+            ],
+            "stage": "Resurrection",
+            "storyline": "당근 마법을 잃은 C002이 새로운 마법 치유력을 발견, C005을 살린다.",
+            "unit_motif": "뜻밖의 초능력",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C002은 금색에서 갈색으로 변한 당근을 잡고 마법의 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "불안하다",
+                    "content": "마법 효과가 나타나지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "C002은 죽어가는 C005을 보는 수밖에 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "절망하다",
+                    "content": "C005은 마지막 말을 남기고 숨을 거둔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "상실감",
+                    "content": "C002이 슬퍼서 흘린 눈물이 C005의 뺨에 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "키스하다",
+                    "content": "C005에게 떨어진 눈물이 C005을 치료한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C002은 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "안심/안도하다",
+                    "content": "C005이 다시 눈을 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "content": "C005이 시답잖은 농담을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속 집",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "기쁘다",
+                    "content": "둘은 기쁨의 키스를 나눈다."
+                }
+            ]
+        },
+        {
+            "id": "04_1185_13",
+            "prev_id": "04_1185_12",
+            "characters": [
+                "C002",
+                "C005",
+                "주정뱅이들",
+                "C003"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "왕과 왕비와 C002이 다시 재회한다.",
+            "unit_motif": "부모 찾기",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "emotion": "놀라다",
+                    "content": "병사가 놀라서 뛰어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "emotion": "기대되다",
+                    "content": "왕과 왕비는 무슨 일인지 상황을 파악한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "놀라다",
+                    "content": "왕과 왕비가 놀라서 뛰어나가 C002과 C005을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "망설이다",
+                    "content": "왕비는 C002을 찬찬히 뜯어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "기쁘다",
+                    "content": "왕과 왕비와 C002은 감격의 포옹을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "content": "왕비는 C005도 함께 안아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "마을은 축제의 분위기에 휩싸인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "주정뱅이들"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "주정뱅이들이 각자의 꿈을 이룬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "뿌듯하다",
+                    "content": "C003는 병사들의 대장이 되었다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "왕국",
+                    "character": [
+                        "C002",
+                        "C005"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002과 C005은 결혼하여 행복하게 살았다."
+                }
+            ]
+        }
+    ]
+}

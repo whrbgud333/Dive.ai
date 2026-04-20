@@ -1,0 +1,3943 @@
+{
+    "id": "04_2051",
+    "type": "comics",
+    "title": "전생부터 너를 사랑해",
+    "genre": [
+        "드라마",
+        "SF",
+        "판타지"
+    ],
+    "year": 1987,
+    "theme": "희생",
+    "concept": "C001는 전생을 꿈으로 어렴풋이 기억하며 식물과 대화할 수 있는 초능력을 가지고 있다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "뜻밖의 초능력",
+    "main_character": "순정파",
+    "conflict": "C001는 실수로 옆집 아이 C003을 죽일 뻔하지만, C001의 초능력 덕분에 C003은 목숨을 구한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012",
+        "C013"
+    ],
+    "units": [
+        {
+            "id": "04_2051_01",
+            "next_id": "04_2051_02",
+            "characters": [
+                "C001",
+                "C002",
+                "C001의 어머니"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001는 자연이 없는 도시를 둘러보며 어디론가 돌아가고 싶다고 생각한다.",
+            "unit_motif": "그리움",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "그립다",
+                    "content": "C001는 달을 보며 그리워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "달을 보고 있으면 알 수 없는 이유로 돌아가고 싶다고 생각해요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "지구에는 각양각색의 공룡들이 살았는데 어떤 이유로 멸망했을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "많은 가설들이 있지만 정말 그것뿐일까요? 그 가설로 끝나는 것이 아니라 현재에도 영향을 주고받고 있지는 않을까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "C002에게 하고 싶은 말이 있는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "공룡들과 현대 사회를 살아가는 사람들의 공통점을 찾았어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "모두 몸이 커지고 있는데 언젠가 사람들도 공룡이 멸망한 것처럼 지구에게 버려지지 않을까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "우울하다",
+                    "content": "달을 보며 돌아가고 싶다는 말만 반복하며 운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "걱정",
+                    "content": "C001가 우울해 보이니 그만하라고 C002를 말린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "시키다",
+                    "emotion": "걱정",
+                    "content": "C001에게 심부름을 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "짜증나다",
+                    "content": "심부름을 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "시골에서 도시로 이사 온 지 꽤 많은 시간이 흘렀지만 C001에게 누구도 연락을 하지 않아요. 친구가 없는 걸까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "누나는 소극적인 사람이라 평범한 사람으로 보일 거예요. 평범한 사람은 친구를 사귀기까지 시간이 걸려요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "걱정",
+                    "content": "새로운 사람들을 만나지 않아서 외로운 걸까요? 자꾸 돌아가고 싶다 말하네요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 친구가 없어서 외롭거나 돌아가고 싶은 것이 아니에요. C001만의 특별함이 그녀가 돌아가고 싶다고 느끼게 해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "망설이다",
+                    "content": "C001가 유난히 식물들을 좋아하는 것을 생각하면서 특별한 이유가 그것이냐고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 식물을 좋아하는 것이 아니라 식물들이 C001를 좋아하는 것에 가까울 거예요. 그것이 특별함을 만들어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "안심/안도하다",
+                    "content": "친구가 없다고 하기에는 옆집에 사는 C003과 친해 보였어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "가게 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "외롭다",
+                    "content": "심부름을 마치고 가게를 나온다."
+                },
+                {
+                    "type": "script",
+                    "location": "가게 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "공룡들은 고향을 그리워하다가 고향별로 돌아간 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "괴롭다",
+                    "content": "주변을 둘러본다."
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "거부감",
+                    "content": "도시에는 자연이 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "그립다",
+                    "content": "도시의 식물들도 나처럼 돌아가고 싶어 하는 것 같아요. 떠나고 싶은 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "자신을 따라오는 가벼운 발걸음 소리를 듣고 놀란다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_02",
+            "prev_id": "04_2051_01",
+            "next_id": "04_2051_03",
+            "characters": [
+                "C003",
+                "C001",
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C003은 C001에게 장난을 치고 C001는 화를 낸다.",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C001 앞에 화려하게 등장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "장 보러 나온 거예요?"
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "선물로 껌을 줄까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "신발에 껌을 넣은 사람이 링인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "서운하다",
+                    "content": "순진한 아이를 의심하지 마세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "미안하다",
+                    "content": "C003의 반응에 놀라 사과하고 껌을 받겠다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "기쁘다",
+                    "content": "껌 포장을 까는 시늉을 하면서 엘리스에게 직접 먹여주겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "사랑스럽다",
+                    "content": "C003을 귀엽다고 생각하며 입을 벌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "놀리다",
+                    "emotion": "즐겁다",
+                    "content": "C001의 입에 씹던 껌을 뱉고 자신은 새 껌을 씹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "장난을 치고 신나서 집으로 돌아가는 C003을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "우울하다",
+                    "content": "집으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "괴롭다",
+                    "content": "무의식적으로 삼킨 껌이 생각나 저녁 자리에서 무엇도 먹지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괴롭다",
+                    "content": "누구에게도 C003의 장난에 대해 말할 수 없을 거예요. 가족들 모두 웃으면서 참으라고 할 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "귓속말하다",
+                    "emotion": "당황하다",
+                    "content": "음식을 앞에 두고 우는 C001의 모습에 C001의 어머니에게 귓속말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "귓속말하다",
+                    "emotion": "당황하다",
+                    "content": "오늘도 C003의 장난에 걸렸나 봐요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "슬프다",
+                    "content": "좋아하는 음식을 하나도 먹지 못했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괴롭다",
+                    "content": "도시로 전근 오신 부모님 앞에서 힘든 소리를 할 수도 없고 괴로워요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_03",
+            "prev_id": "04_2051_02",
+            "next_id": "04_2051_04",
+            "characters": [
+                "C003",
+                "C001",
+                "C004",
+                "학생1"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C001는 등굣길에 만난 C003이 머리카락에 껌을 묻혔다는 사실을 알아차린다.",
+            "unit_motif": "안좋은 예감",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001 집 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "즐겁다",
+                    "content": "C001의 집 앞에서 기다리다가 C001에게 말을 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001 집 앞",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "오늘은 정말 껌을 줄게요."
+                },
+                {
+                    "type": "script",
+                    "location": "등굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "필요 없어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "등굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "놀라다",
+                    "content": "C001의 등굣길을 따라가면서 재차 껌을 제안한다."
+                },
+                {
+                    "type": "script",
+                    "location": "등굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "껌을 주지 않아도 되니 각자 등교해요. 더 이상 따라오지 마세요. C003의 학교는 반대편이잖아요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "등굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "울다",
+                    "emotion": "당황하다",
+                    "content": "C001와 티격태격하다가 손에 쥔 껌을 바닥에 떨어트리고 운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "간식 가게",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "미안하다",
+                    "content": "C003에게 사과하고 다른 간식거리를 사준다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "피곤하다",
+                    "content": "하루 시작부터 피곤하네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "반갑다",
+                    "content": "C001에게 인사하며 자신을 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001와 대화하다가 머리카락에 붙은 껌을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "머리카락에 껌이 붙어있어요. 어디서 붙은지 알고 있나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "화나다",
+                    "content": "자신에게 장난을 치던 C003을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "혼란스럽다",
+                    "content": "누가 껌을 붙인 거예요?"
+                }
+            ]
+        },
+        {
+            "id": "04_2051_04",
+            "prev_id": "04_2051_03",
+            "next_id": "04_2051_05",
+            "characters": [
+                "C005",
+                "C001",
+                "학생1",
+                "학생2",
+                "C004"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C001는 친구들에게 도움을 받아 머리에 붙은 껌을 떼낸다.",
+            "unit_motif": "도움을 줌/받음",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "우는 C001를 멀리서 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "심란하다",
+                    "content": "수습이 불가능해 보이는 머리카락을 보고 운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "C004"
+                    ],
+                    "act": "돕다",
+                    "emotion": "걱정",
+                    "content": "C001를 위로하면서 껌을 떼는 것을 돕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "C004"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "기대되다",
+                    "content": "C001의 어른스러운 분위기에 항상 친해지고 싶었다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C001는 남자아이들의 선망의 대상이에요. C005는 항상 C001를 보고 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C001는 이름이 특이한데 따로 이유가 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "엄마가 동화 속에서 본 이름을 따서 제 이름을 지어주셨거든요."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부럽다",
+                    "content": "재밌는 이름이네요."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "부끄럽다",
+                    "content": "그래서 그런지 나는 식물과 대화할 수 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생2"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "무슨 뜻이에요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 친구들이 자신의 말을 이해하지 못하는 걸 보고 다른 말을 꺼낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "다른 친구들은 내 능력을 이상하게 느낄 거야."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_05",
+            "prev_id": "04_2051_04",
+            "next_id": "04_2051_06",
+            "characters": [
+                "C001",
+                "C005",
+                "C006"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003을 피하려던 C001는 C005와 C006의 연애 장면으로 추측되는 것을 목격한다.",
+            "unit_motif": "도망/도피/잠적",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기쁘다",
+                    "content": "친구들을 많이 사귀어 기쁜 마음으로 하교한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "불편하다",
+                    "content": "손목시계를 보고 C003의 하교 시간과 겹친다는 사실을 알아차린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "기대되다",
+                    "content": "주변을 둘러보고 나무들이 자신을 부르니 대화하다가 돌아가야겠다고 결심한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "너와 소통하는 나는 평범하지 않은 사람이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "뒤를 돌아보았다가 C005를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "부끄럽다",
+                    "content": "친구들이 C005가 자신을 보고 있었다고 말한 것을 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "궁금하다",
+                    "content": "C005와 함께 있는 C006의 이야기를 듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우린 평범하지 않아요."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "잘 될 수 있을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "잘 되게 만들 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "씁쓸하다",
+                    "content": "어젯밤에는 너무 놀랐어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "단호하다",
+                    "content": "어젯밤 이야기는 더 이상 하지 말아요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "부끄럽다",
+                    "content": "내가 두 사람의 연애 현장을 목격한 것일까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "부끄럽다",
+                    "content": "두 사람이 키스하는 줄 알고 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C006",
+                        "C005",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "당황하다",
+                    "content": "C001와 C006, C005가 서로 마주친다."
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "놀라다",
+                    "content": "C001가 왜 저기서 나왔을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "도서관 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "아는 사람이에요? 이야기를 모두 듣고 있었나 본데 우리의 자세를 보고 오해한 것 같아요."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "부끄럽다",
+                    "content": "동성연애를 실제로 본 것은 처음이에요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_06",
+            "prev_id": "04_2051_05",
+            "next_id": "04_2051_07",
+            "characters": [
+                "C001의 어머니",
+                "C001",
+                "C003의 어머니",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C003의 어머니의 부탁으로 C003을 하루 돌보게 된다.",
+            "unit_motif": "부탁/제안",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C001의 집 앞",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "반갑다",
+                    "content": "때 마침 잘 왔어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C003의 어머니와 담소를 나누고 있는 C001의 어머니를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C003의 어머니가 자리를 비우셔야 해서 C003과 함께 있어달라고 부탁했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "거부감",
+                    "content": "대신 거절해주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "하필 C003의 아버지도 자리를 비우신대요. 초등학생인 C003이 혼자 집을 지킬 생각을 하면 걱정되네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "거부감",
+                    "content": "C002에게 부탁하면 안 되는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "걱정",
+                    "content": "동아리 활동이 있어서 돕지 못한대요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "기대되다",
+                    "content": "C003이 C001를 많이 좋아해요. C001와 함께라면 집을 지켜도 괜찮다고 했어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "거부감",
+                    "content": "C003을 자기가 떠맡아야 한다는 사실에 괴로워하며 운다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괴롭다",
+                    "content": "왜 C003은 저를 자꾸만 괴롭히는 걸까요. 도시로 온 아버지를 생각해 참아야겠어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "고맙다",
+                    "content": "부탁을 들어준 C001에게 감사 인사를 하며 언제 돌아올지 말해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C003에게 사고 치지 말고 집 잘 지키라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "외출한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "기대되다",
+                    "content": "C003의 어머니가 외출하자마자 C001의 머리에 껌을 뱉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "화나다",
+                    "content": "C003의 껌을 피한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "통쾌하다",
+                    "content": "껌을 뱉지 말고 휴지통에 버려요. 나쁜 장난을 치면 혼낼 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "짜증나다",
+                    "content": "C001에게 험한 말을 하며 투정을 부린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 자꾸 C001에게 짓궂게 장난을 친다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "난감하다",
+                    "content": "하지 마."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "괘씸하다",
+                    "content": "C001의 관심을 끌기 위해 자꾸 장난을 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "난감하다",
+                    "content": "C003의 장난을 어떻게 막아야 할지 몰라 난감해한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_07",
+            "prev_id": "04_2051_06",
+            "next_id": "04_2051_08",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C003에게 동물원에 가는 것을 제안한다.",
+            "unit_motif": "부탁/제안",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "무섭다",
+                    "content": "C003은 베란다를 타고 들어온 고양이를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "터치하다/만지다",
+                    "emotion": "기쁘다",
+                    "content": "고양이를 쓰다듬는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "무섭다",
+                    "content": "소파 뒤로 숨는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003이 의외로 동물에게 친절하게 구는 것을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "고양이는 귀엽지만 조금 무서워요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "심란하다",
+                    "content": "C003의 전생이 고양이었을 수도 있는데 심한 소리 말아요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "전생은 윤회라는 말이지요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "나도 전생에 대해서 들어본 적이 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "지금도 고양이가 무서워요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "불편하다",
+                    "content": "동물은 사진으로 충분해요. 부모님이 바쁘셔서 동물원도 가본 적 없는걸요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "미안하다",
+                    "content": "고양이를 껴안고 동물을 싫어한다고 말하는 C003을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "기대되다",
+                    "content": "동물원에 같이 가줄래요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "감동하다",
+                    "content": "같이 가줄게요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_08",
+            "prev_id": "04_2051_07",
+            "next_id": "04_2051_09",
+            "characters": [
+                "C001",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001는 C003과 동물원 데이트를 하면서 자신의 초능력을 자각하지만 외면한다.",
+            "unit_motif": "현실 도피 욕구",
+            "causality": "Avoidance(회피/거부)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "기대되다",
+                    "content": "C001는 C003을 데리고 동물원에 간다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "기대되다",
+                    "content": "동물은 무섭지 않아요. 가까이 와보세요."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "불편하다",
+                    "content": "무서워요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "가까이 몰려드는 원숭이를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무섭다",
+                    "content": "동물들이 왜 몰려오는 것일까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "놀리다",
+                    "emotion": "즐겁다",
+                    "content": "C003이 신기한가 봐요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "가는 곳마다 몰려드는 동물들을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "가는 곳마다 모든 동물들이 우리를 보고 다가와요."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "즐겁다",
+                    "content": "동물원에 처음 온 친구라서 서비스로 인사하는 거래요."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "C001는 동물들하고 대화할 수 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "행복하다",
+                    "content": "C003이 C003의 어머니가 아프시면 옆에서 알아차리는 것처럼 저도 동물들이 하고 싶은 말을 느끼는 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "그립다",
+                    "content": "처음 동물원을 방문한 날을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C003의 모습이 처음 동물원에 방문한 저와 겹쳐 보여요. C003처럼 나도 평범한 인간인데 무엇이 동물들을 무섭게 만들었을까요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "다가오는 펭귄들을 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "동물원을 오면 많은 동물들이 호기심을 갖고 다가와요."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "동물들이 나한테 어떻게 자기 마음을 읽을 수 있냐고 묻는 것 같아요."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "불편하다",
+                    "content": "나는 특별한 사람이 아니에요. 동물과 식물이 좋아서 친숙해진 거예요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_09",
+            "prev_id": "04_2051_08",
+            "next_id": "04_2051_10",
+            "characters": [
+                "C001",
+                "C003",
+                "C005",
+                "C006"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 C003과 동물원 데이트 중 C005와 C006를 만난다.",
+            "unit_motif": "만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동물원",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "기대되다",
+                    "content": "동물원 방문 기념으로 식물 뿌리를 사기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원 거리",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "놀라다",
+                    "content": "집으로 돌아가는 길에 서로를 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원 거리",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "당황하다",
+                    "content": "두 사람의 스킨십 장면을 떠올리고는 C003을 끌고 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원 거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "당황하다",
+                    "content": "지금 상황에 대해 고민한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물원 거리",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "당황하다",
+                    "content": "도망가는 C001를 급히 잡는다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물원 거리",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C001가 오해를 하고 있는 것 같아요. 설명할 수 있는 기회를 주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "궁금하다",
+                    "content": "C001와 동행한 C003을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "네 동생이니?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "친동생은 따로 있고 옆집 아이예요. 두 사람은 데이트 중이었지요?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "이 사람들이랑 친구하지 마세요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "우리는 연인이 아니고 친구 사이예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C006에 대해 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "담담하다",
+                    "content": "C001가 본 장면과 대화 내용을 떠올리면 오해할만해요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_10",
+            "prev_id": "04_2051_09",
+            "next_id": "04_2051_11",
+            "characters": [
+                "C001",
+                "C005",
+                "C006",
+                "C003"
+            ],
+            "stage": "Another Story",
+            "storyline": "C001는 C005와 C006가 같은 꿈을 꾼다는 사실을 듣는다.",
+            "unit_motif": "정보 획득",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "부끄럽다",
+                    "content": "두 사람이 평범하지 않은 사람들이라고 하지 않았나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "난감하다",
+                    "content": "서로를 바라보며 고민하다가 C001에게 구체적으로 설명해주기로 결정한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "먼저 우리는 그 어떠한 혈연관계도 아니에요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "C001가 목격한 그 무렵, 우리는 비슷한 꿈을 꾸고 있었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "꿈속에서 저는 C008, C006는 C009라는 여자예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "부끄럽다",
+                    "content": "두 사람과 어울리는 이름이라고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부끄럽다",
+                    "content": "C001가 목격한 그날은 하필 C008과 C009가 침대 속에 있는 꿈을 꾼 날이었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "꿈속의 두 사람은 연인이지요?"
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "오로지 C009의 짝사랑이었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "괘씸하다",
+                    "content": "C005를 괘씸하게 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "당황하다",
+                    "content": "괜히 찔려서 C001의 눈을 피한다."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "의심스럽다",
+                    "content": "우리가 꾸는 꿈에서는 항상 지구가 보였어요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "감동하다",
+                    "content": "흥미로운 이야기에요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "부끄럽다",
+                    "content": "C001를 처음 본 순간부터 인연을 느꼈어요."
+                },
+                {
+                    "type": "script",
+                    "location": "카페",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "놀리다",
+                    "emotion": "놀라다",
+                    "content": "지금 여기서 고백하는 건가요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "좋아하는 C001를 지켜본다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_11",
+            "prev_id": "04_2051_10",
+            "next_id": "04_2051_12",
+            "characters": [
+                "C001",
+                "C003",
+                "C001의 어머니",
+                "C003의 어머니",
+                "C003의 아버지"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C005를 질투한 C003은 C001와 다투다 고층 아파트에서 떨어진다.",
+            "unit_motif": "질투",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "즐겁다",
+                    "content": "두 사람의 이야기는 소설 같았어요. 재미있는 이야기였지요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C003에게 식물을 잘 키우는 법을 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "긴장되다",
+                    "content": "자신도 C005처럼 C001를 좋아한다고 고백한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C003의 나이에 비해 너무 어른스러운 단어를 자주 쓰는 것 같아요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "질투하다",
+                    "content": "C001는 C005를 좋아하나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "배신감",
+                    "content": "C005와 결혼할 건가요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003의 심각한 표정에 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "C003은 C005를 질투하는 걸까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "망설이다",
+                    "content": "C005와 결혼하고 싶다면 C003은 어떻게 하려고 물어보나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "화나다",
+                    "content": "베란다로 식물을 들고 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "당황하다",
+                    "content": "베란다에 걸터앉은 C003에게 위험하다고 말린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "식물을 허공에서 흔들다가 바닥으로 던진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "화나다",
+                    "content": "C003이 던진 식물을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "베란다에 앉아 있는 C003의 따귀를 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "놀라다",
+                    "content": "베란다에서 미끄러져 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "놀라다",
+                    "content": "높은 베란다에서 떨어져 내리는 C003을 보고 놀라 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 집 베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "비명을 반복적으로 지르며 C003을 끌어안다가 놓친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니",
+                        "C003의 어머니"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003이 떨어지는 것을 아파트 주민들과 함께 목격하고 구급차를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "응급실로 실려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "응급실",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "C001에게 C003을 베란다에서 민 이유를 캐묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "응급실",
+                    "character": [
+                        "C003의 아버지",
+                        "C001의 어머니"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "걱정",
+                    "content": "C003과 C001를 걱정하면서 말린다."
+                },
+                {
+                    "type": "script",
+                    "location": "응급실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "무감각함",
+                    "content": "이건 꿈일 거예요. 도와주세요. 살려주세요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_12",
+            "prev_id": "04_2051_11",
+            "next_id": "04_2051_13",
+            "characters": [
+                "C001의 아버지",
+                "C002",
+                "C001의 어머니",
+                "C001",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 C003이 떨어지는 장면을 악몽으로 꾼다.",
+            "unit_motif": "죄책감",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 아버지"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "퇴근 인사를 하면서 C003과 C001의 안부를 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "안심/안도하다",
+                    "content": "C003을 아파트 나무들이 받쳐주어서 크게 다치지는 않았대요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C003이 머리를 크게 다친 것인지 의식이 돌아오지 않고 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "무감각함",
+                    "content": "꿈을 꾼다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C001, 내가 무엇을 하는지 보세요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "무섭다",
+                    "content": "C003이에요? 가면 안 돼요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C003의 목소리가 들리는 곳으로 뛰어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "누가 C003을 말려주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "상실감",
+                    "content": "꽃밭을 달리던 C003이 절벽으로 떨어져 내리는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "상실감",
+                    "content": "악몽에 지쳐 일어난다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_13",
+            "prev_id": "04_2051_12",
+            "next_id": "04_2051_14",
+            "characters": [
+                "C001",
+                "C002",
+                "C001의 어머니",
+                "C001의 아버지"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001는 자신이 외면해온 초능력이 C003의 목숨을 살려주었다는 것을 알게 된다.",
+            "unit_motif": "위로",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "베란다로 이동하여 아래를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "무섭다",
+                    "content": "C003은 제 잘못으로 이 높이에서 떨어진 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "무섭다",
+                    "content": "공포에 눌려 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "걱정",
+                    "content": "지친 C001를 위로한다."
+                },
+                {
+                    "type": "script",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "미안하다",
+                    "content": "떨어지는 C003을 끝까지 잡지 못했어요. 아무것도 할 수 없었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "걱정",
+                    "content": "쓰러져 우는 C001를 안아준다."
+                },
+                {
+                    "type": "script",
+                    "location": "베란다",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "걱정",
+                    "content": "지나간 일들을 곱씹어 후회해도 과거는 변하지 않아요. 그러니 가족들과 함께 힘을 내 할 수 있는 것을 해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "단호하다",
+                    "content": "한참을 울다가 일어난다."
+                },
+                {
+                    "type": "script",
+                    "location": "베란다",
+                    "character": [
+                        "C001의 아버지"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "날이 추우니 모두 들어와서 차 마셔요."
+                },
+                {
+                    "type": "script",
+                    "location": "베란다",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C003이 기적적으로 이 높은 높이에서도 목숨을 건진 이유는 나무들이 C003을 받아줬기 때문이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "베란다",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "감동하다",
+                    "content": "자신과 소통하는 나무들을 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집 거실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "고맙다",
+                    "content": "일상에서 느끼는 자연을 떠올리며 감사 인사를 전한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_14",
+            "prev_id": "04_2051_13",
+            "next_id": "04_2051_15",
+            "characters": [
+                "학생1",
+                "학생2",
+                "학생3",
+                "C004",
+                "C001",
+                "C005",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001는 C003의 추락사고 때문에 학급 친구들과 C003의 어머니에게 외면당한다.",
+            "unit_motif": "가스라이팅",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "궁금하다",
+                    "content": "신문에 기재된 고층 아파트의 추락 사고에 대해서 잡담한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기사",
+                    "content": "C003이 고층 아파트에서 추락하였다고 적혀있다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생2"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "단호하다",
+                    "content": "내가 소문을 들었는데 C001가 C003을 민 거래."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "학생3"
+                    ],
+                    "act": "말하다",
+                    "emotion": "역겹다",
+                    "content": "나 C001가 C003 미는 거 본 사람 알아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "열다",
+                    "emotion": "담담하다",
+                    "content": "교실 문을 열고 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C004를 발견하고 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "불편하다",
+                    "content": "C001를 보고 외면한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "불편하다",
+                    "content": "C001가 정말로 C003을 민 것인지를 두고 잡담한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "슬프다",
+                    "content": "사람들의 시선도, 뒷말들도 결국 제가 참아야 할 몫이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "화나다",
+                    "content": "책상을 박차고 일어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "화나다",
+                    "content": "C001를 주제로 말을 하는 학생들을 모두 노려본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001의 앞자리로 이동해 말을 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "C005의 인사에 대답하면서 운다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "C006와 잘 들어갔나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "담담하다",
+                    "content": "더 이상 울지 않을 거예요. 쿠키를 가득 만들어서 C003의 병문안을 갈 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "씁쓸하다",
+                    "content": "우는 C001를 껴안아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "절박하다",
+                    "content": "C003의 병실 문 앞에 선물을 놓고 기도한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 병실 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "절박하다",
+                    "content": "C003을 살려주세요. 어떤 시련과 고난이든 기꺼이 받겠어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 꿈 속",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "담담하다",
+                    "content": "우리가 지구를 지켜야 한다는 말을 환청으로 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "담담하다",
+                    "content": "일어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "담담하다",
+                    "content": "자신이 의식이 없는 동안 꾼 꿈과 현재의 상황을 알아차린다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_15",
+            "prev_id": "04_2051_14",
+            "next_id": "04_2051_16",
+            "characters": [
+                "C001",
+                "C006",
+                "C005"
+            ],
+            "stage": "Defeat",
+            "storyline": "혼자 식사하던 C001는 C006에게 위로받는다.",
+            "unit_motif": "도망/도피/잠적",
+            "causality": "Lack(결핍)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "부끄럽다",
+                    "content": "점심 식사 도중 C006를 만난다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "무슨 일로 외진 곳에서 점심을 먹어요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "미안하다",
+                    "content": "도시락에 쓰인 응원 문구를 보고 고층 아파트 추락 사고와 C001가 얽혀 있다는 사실을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "같이 점심 식사할까요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "씁쓸하다",
+                    "content": "제안을 받아들인다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "처음 만난 장소도 나무 앞이었어요. C001는 이 장소가 마음에 드나 봐요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "나무가 친절하게 맞이해 주는걸요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "자신이 제대로 들은 것이 맞는지 물어본다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "나무는 상냥하게 위로해줘요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "교실에서만 식사해야 하는 교칙이 있을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "먹고 싶은 곳에서 먹으면 돼요. 나무를 의인화하는 C001는 시인 같아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "당황하다",
+                    "content": "식물과 대화하는 것을 들키면 안 된다는 사실을 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "서로를 발견하고 인사한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "불편하다",
+                    "content": "C005와 약속이 있었군요. 저는 들어가 볼게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "억울하다",
+                    "content": "C006를 껴안으며 투정 부린다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_16",
+            "prev_id": "04_2051_15",
+            "next_id": "04_2051_17",
+            "characters": [
+                "C005",
+                "C001",
+                "C006"
+            ],
+            "stage": "Another Story",
+            "storyline": "C005와 C006는 자신들이 오랜 시간 함께 공유한 꿈에 대해 구체적으로 설명한다.",
+            "unit_motif": "과거의 첫만남",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "당황하다",
+                    "content": "도망가려던 C001와 C005가 마주친다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "당황하다",
+                    "content": "이상한 모습만 보여 미안해요. 우리는 전날 꾼 꿈을 점심시간에 이곳에서 대화를 나눠요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "계속 같은 꿈을 꾸고 있나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "네."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부탁하다",
+                    "emotion": "궁금하다",
+                    "content": "괜찮다면 매일 꾸는 꿈들에 대해 들을 수 있을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "담담하다",
+                    "content": "좋아요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "꿈은 이어지지 않고 기억처럼 무작위로 떠올라요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기대되다",
+                    "content": "같은 꿈을 꾼다는 것은 특별한 일이에요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "언제부터 같은 꿈을 꾼다는 것을 알게 되었나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "같은 반이 되었을 때부터 꿈을 꾸기 시작하였고 자연스럽게 꿈 내용을 공유했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "배경이 우주라는 공통점만 있고 다른 것들은 달랐어요. 같은 꿈이라는 것을 알게 된 것은 고등학교 입학하고 나서에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "담담하다",
+                    "content": "기억을 더듬어 같다고 인식하게 된 사물이나 배경, 상황들을 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우주에서 보이는 지구의 모습으로 추측하자면 꿈속의 무대는 달이에요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "C008과 C009는 달의 연구소에 소속된 연구원이고 지구의 모든 것을 관찰하고 기록해요. 처음 듣는 언어를 쓰는 점이 재밌어요. C013 온실도 있을 정도에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "C005의 이야기에 귀 기울이다 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "자주 등장하는 사람의 이름이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "구체적인 꿈 이야기에 당황한 C001를 위해 C005의 설명을 돕는다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_17",
+            "prev_id": "04_2051_16",
+            "next_id": "04_2051_18",
+            "characters": [
+                "C006",
+                "C005",
+                "C001"
+            ],
+            "stage": "Another Story",
+            "storyline": "C005와 C006는 C001에게 어젯밤 꾼 꿈의 내용과 꿈속에서 본 사람들에 대해서 설명한다.",
+            "unit_motif": "과거의 첫만남",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "돕다",
+                    "emotion": "담담하다",
+                    "content": "C008의 외형을 그림으로 그린다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "꿈에서 저는 C008이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "돕다",
+                    "emotion": "담담하다",
+                    "content": "C009의 외형을 그림으로 그린다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "꿈에서 C006는 C009에요. C009는 C008을 사랑해요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "C008은 C013을 사랑하고요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "궁금하다",
+                    "content": "C013을 반복적으로 말하다가 특이한 사람이라고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "남자인 저 또한 꿈에서 경험하는 C013에게 끌려요. 대단히 C013은 매력적인 초능력자에요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "이번에 꾼 꿈속에서 C013이 C007과 약혼했어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "위로하다",
+                    "emotion": "씁쓸하다",
+                    "content": "자신에게 안겨오는 C005를 위로한다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C007은 C008과 소꿉친구로 C008은 오랜 시간 C007을 상대로 경쟁의식을 불태워 왔어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "돕다",
+                    "emotion": "담담하다",
+                    "content": "C012, C011, C010, C013을 이어 그린다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C012은 C009의 친해요. C011가 총 책임자고, C010는 C013을 좋아해요."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "안타깝다",
+                    "content": "C008과 C010, C011는 C013의 약혼에 충격을 받을 정도로 C013은 매력적인 여성이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "부끄럽다",
+                    "content": "멍하니 바라보는 C001의 모습을 보고 부끄러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "듣다",
+                    "emotion": "놀라다",
+                    "content": "종소리를 듣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "앞으로 무엇을 하고 싶어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "궁금하다",
+                    "content": "그들을 모두 만날 수 있을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "동호회를 만들면 가능할지도 몰라요."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_18",
+            "prev_id": "04_2051_17",
+            "next_id": "04_2051_19",
+            "characters": [
+                "C001",
+                "교장 선생님",
+                "C001의 어머니",
+                "C003",
+                "C003의 어머니"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C003은 병문안을 온 C001를 용서한다.",
+            "unit_motif": "용서",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "유쾌하다",
+                    "content": "C005, C006의 옆모습을 보면서 꿈속의 C009와 C008의 애정사를 상상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "설레다",
+                    "content": "교실에서 안 좋은 소문에도 불구하고 자신을 위로해준 C005를 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C005가 위로해준 것은 아무 의미 없을 거예요. C006의 연적이라니 생각하고 싶지 않네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "교장 선생님"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C001를 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "나무 앞",
+                    "character": [
+                        "교장 선생님"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "어머니에게서 연락이 왔으니 교무실로 가보세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C003의 건강을 걱정하면서 뛰어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "걱정",
+                    "content": "C001의 어머니가 자신에게 설명해주기를 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "전화",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C003의 의식이 돌아왔어요. 조퇴하고 병문안 가보세요."
+                },
+                {
+                    "type": "script",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무섭다",
+                    "content": "C003의 어머니께서 병문안을 거절하시지 않을까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "전화",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기대되다",
+                    "content": "허락받았어요. 오히려 C001에게 사과하고 싶대요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기도하다/기원하다",
+                    "emotion": "고맙다",
+                    "content": "희소식에 감사 기도를 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "곧 C001가 도착해요."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기쁘다",
+                    "content": "직감으로 아는 거예요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 자신에게 오고 있는 것 같다고 말하며 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "병실 문을 향해 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "놀라다",
+                    "content": "건강하게 뛰어오는 C003을 마주 안는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "귓속말하다",
+                    "emotion": "기쁘다",
+                    "content": "다음에도 동물원 가요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003의 병실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "고맙다",
+                    "content": "C003이 살아있다는 사실에 감사한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_19",
+            "prev_id": "04_2051_18",
+            "next_id": "04_2051_20",
+            "characters": [
+                "C002",
+                "C001의 어머니",
+                "C004",
+                "학생1",
+                "학생2",
+                "학생3",
+                "C005",
+                "C001",
+                "C006"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 외면해온 자신의 특별함을 받아들이고 학교에서는 학급 친구들의 사과를 받는다.",
+            "unit_motif": "고민 해결",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "담담하다",
+                    "content": "저녁 먹어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "당황하다",
+                    "content": "불러도 오지 않는 C001를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "베란다에서 식물과 대화중인 C001를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나무들에게 감사 인사 중이라 식사는 늦게 할 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C001는 이상한 상상을 하곤 해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "담담하다",
+                    "content": "어린 시절 목격한 자연과 소통하는 C001를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "듣다",
+                    "emotion": "후회하다",
+                    "content": "C003의 의식이 돌아왔고 C001가 범인이 아니라는 소식을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "잡담하다",
+                    "emotion": "후회하다",
+                    "content": "C001에게 사과할지 말지 고민한다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "며칠간 외면당한 C001는 어디에서 점심을 먹었을까요."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "홀가분하다",
+                    "content": "다 같이 사과하면 괜찮을 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "부끄럽다",
+                    "content": "교실로 뛰어들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "보다",
+                    "emotion": "부끄럽다",
+                    "content": "C001를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "학생1",
+                        "학생2",
+                        "학생3",
+                        "C004"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "홀가분하다",
+                    "content": "C001에게 사과한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "감동하다",
+                    "content": "사과에 감동받아 운다."
+                },
+                {
+                    "type": "script",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "감동하다",
+                    "content": "나무들이 화해를 축하해주는 소리가 들려요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "만족하다",
+                    "content": "C006에게 교실에서 C001가 사과받은 것을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나무 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "놀리다",
+                    "emotion": "만족하다",
+                    "content": "C001가 동성애로 오해한 장면을 떠올리고 C005에게 장난을 친다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_20",
+            "prev_id": "04_2051_19",
+            "next_id": "04_2051_21",
+            "characters": [
+                "C003의 어머니",
+                "C001의 어머니",
+                "C001",
+                "C003"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C003은 C001에게 청혼하고 키스한다.",
+            "unit_motif": "프러포즈",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "사과하다",
+                    "emotion": "미안하다",
+                    "content": "C001의 어머니에게 응급실에서 C001를 몰아세운 것에 대해 정식으로 사과한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "사과를 받아주며 C003의 안부를 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "C003은 등교할 수 있을 정도로 회복했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "다른 무슨 일 있으신가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "부끄럽다",
+                    "content": "C003이 C001를 사랑해서 결혼하고 싶대요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C003의 어머니"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "부끄럽다",
+                    "content": "혼자 고민하기에는 어려운 문제라 방문했어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "반갑다",
+                    "content": "자신을 따라오는 가벼운 발걸음 소리에 반가움을 느낀다."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "C003이 사랑스럽게 느껴지다니 아팠던 만큼 저도 어른이 된 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "학교에서 돌아오는 길인가요?"
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "아직은 학교에 가지 않아요. 곧 등교할 수 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "설레다",
+                    "content": "오늘은 기분이 좋나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "학급 친구들에게 사과받은 것을 떠올리며 기분이 좋다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "행복하다",
+                    "content": "C001도 제안을 수락한 것이군요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "기뻐 보이는 C003의 모습에 의심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003이 주머니를 뒤지는 걸 보고 불길해져서 C003을 피한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "담담하다",
+                    "content": "껌을 포장지에 싸 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "설레다",
+                    "content": "고개 숙인 C001에게 까치발을 들어 키스한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하굣길",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "부끄럽다",
+                    "content": "C001에게 사랑을 고백하고 도망간다."
+                },
+                {
+                    "type": "script",
+                    "location": "하굣길",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003의 머리가 이상해졌어요. 첫 키스를 빼앗겼어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "돌아온 C001에게 C003이 C001에게 청혼했다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "무감각함",
+                    "content": "기절한다."
+                }
+            ]
+        },
+        {
+            "id": "04_2051_21",
+            "prev_id": "04_2051_20",
+            "characters": [
+                "C013",
+                "C007",
+                "C002",
+                "C001",
+                "C001의 어머니"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001는 C005와 C006가 이야기 한 C007과 C013의 꿈을 꾼다.",
+            "unit_motif": "여정의 시작",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "듣다",
+                    "emotion": "궁금하다",
+                    "content": "누군가 부르는 소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "C013을 부른다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "여기는 어디에요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "걱정",
+                    "content": "계단에서 굴렀어요. 조심해주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "거울은 어디 있나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "걱정",
+                    "content": "C013을 거울 앞에 데려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "자신의 모습을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "머리를 다친 건 아니지요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "담담하다",
+                    "content": "꿈속에서 겪은 일들을 말하는 C013을 안아준다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C013"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C007과 함께 지구에서 태어나 평범하게 연애하며 살아가고 싶었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 꿈 속",
+                    "character": [
+                        "C007",
+                        "C013"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "함께 지구를 지키자고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "걱정",
+                    "content": "기절한 C001를 깨운다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "기절하기 전까지 나눈 이야기 기억나세요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "모르겠어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001의 어머니"
+                    ],
+                    "act": "말하다",
+                    "emotion": "죄책감",
+                    "content": "C003의 청혼을 받아줄 건지 물었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "나는 C007이랑 약혼했으니 C003의 청혼은 거절해주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "울다",
+                    "emotion": "슬프다",
+                    "content": "잘 준비를 하면서 운다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "슬프다",
+                    "content": "이유를 모르겠지만 너무 슬퍼요."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2497 @@
+{
+    "id": "01_1494",
+    "type": "movie",
+    "title": "의적",
+    "genre": [
+        "액션",
+        "드라마",
+        "판타지"
+    ],
+    "year": 1991,
+    "theme": "모험",
+    "concept": "C005이 종교전쟁인 십자군 전쟁에서 돌아오지만 아버지는 돌아가시고 성도 C002에게 빼앗긴 상태다 핍박으로 쫓겨난 C009을 위해 영웅적인 의적이 돼서 C009을 구한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "의적",
+    "main_character": "군인",
+    "conflict": "C005은 십자군 전쟁에 포로에서 탈출해서 고향으로 돌아오지만 그곳에는 남작들이 C005의 아버지 C006를 이단으로 몰고 C002이 성주가 된다. 그들에 쫓겨 셔우드 숲에 서 C002 성주와 싸워서 승리하게 된다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012",
+        "C013",
+        "C014",
+        "C015"
+    ],
+    "units": [
+        {
+            "id": "01_1494_01",
+            "next_id": "01_1494_02",
+            "characters": [
+                "C005",
+                "C010",
+                "C015"
+            ],
+            "stage": "Main Character",
+            "storyline": "C005과 C015 C010은 십자군 전쟁으로 포로가 돼서 감옥에 수감되지만 극적으로 탈출한다.",
+            "unit_motif": "탈옥",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "예루살렘",
+                    "act": "보다",
+                    "content": "예루살렘의 도시 전경이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "괴롭다",
+                    "content": "지하 감옥에 비명소리가 끊이지 않게 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "C005은 경계병이 자신 쪽으로 오기만을 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "기대되다",
+                    "content": "C005과 C015는 경계병에게 달려들어 처리를 하고 경계병이 가지고 있던 열쇠로 서로 풀어 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "난감하다",
+                    "content": "C010은 자신도 풀어 달라고 하자 C015는 시간이 없다고 하지만 C005이 C010도 풀어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "당황하다",
+                    "content": "지하 하수도를 통해서 탈출을 하지만 경계병의 화살이 날라오고 C015가 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C015"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "안타깝다",
+                    "content": "C015는 죽음을 예감하고 C005에게 자신의 가족을 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "죽이다",
+                    "content": "C005은 약속을 지키겠다고 맹세를 하고 C010과 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "content": "C005은 C010에게 각자의 길을 가자고 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "C010은 살려준 은혜를 갚겠다며 C005을 따라가겠다 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_02",
+            "prev_id": "01_1494_01",
+            "next_id": "01_1494_03",
+            "characters": [
+                "C006",
+                "C007",
+                "C005",
+                "C003",
+                "C010",
+                "C001",
+                "C011",
+                "C002",
+                "C008"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002의 음모에 의해 살해당하는 C006. 영국으로 돌아온 C005은 뭔가 잘못되고 있음을 느끼게 된다.",
+            "unit_motif": "귀향",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "C005의 아빠 C006는 사자왕 리처드에게 자신의 아들 C005을 구해달라는 편지를 다급히 쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성 밖",
+                    "character": [
+                        "C006",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "무섭다",
+                    "content": "C003은 뭔가 위험한 것 같다고 경고해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성 밖",
+                    "character": [
+                        "C006",
+                        "C005",
+                        "C003"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "안타깝다",
+                    "content": "C006는 C002의 이단 음모에 빠져 죽게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "기쁘다",
+                    "content": "영국에 돌아온 C005과 C010은 배에서 내리자마자 해변에 누어 기쁨을 만끽한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "감동하다",
+                    "content": "C005은 해변에 입맞춤을 하며 지금까지 여정에 살아있음을 감사해 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "C010은 처음 보는 관경에 어리둥절해 하며 주변 풍광을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C001",
+                        "C011"
+                    ],
+                    "act": "만나다",
+                    "emotion": "난감하다",
+                    "content": "C005은 집으로 돌아가던 중 C001에게 쫓기는 소년을 만나게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C001",
+                        "C011"
+                    ],
+                    "act": "만나다",
+                    "emotion": "자신감 있다",
+                    "content": "C001 일행으로부터 C011를 구해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 성",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "심란하다",
+                    "content": "C001는 C002에게 C005이 살아있다고 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "C005이 돌왔다는 소식을 들은 C002은 고뇌에 빠진 듯 지하로 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "받는다",
+                    "emotion": "기대되다",
+                    "content": "마법사 C008로부터 C002은 자신들이 위험에 처해 있다는 예언을 듣게 된다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_03",
+            "prev_id": "01_1494_02",
+            "next_id": "01_1494_04",
+            "characters": [
+                "C005",
+                "C010",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "자신의 아버지 C006가 음모에 의해 살해됐다는 것을 알게 된 C005. 복수를 결심하게 된다.",
+            "unit_motif": "복수혈전",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "기대되다",
+                    "content": "C005은 자신의 집인 C006 성으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "절망하다",
+                    "content": "아버지 C006가 죽은 채 천장에 매달려 있는 걸 확인한 C005은 오열한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "반갑다",
+                    "content": "아버지 C006의 죽음에 슬퍼하며 쓰러질 때 한쪽에서 목소리가 들린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "참담하다",
+                    "content": "C003이 C005은 알아보며 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "C003은 눈이 먼 상태로 C005을 맞이하고 무슨 일이 있었냐 물어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "증오하다",
+                    "content": "C002에게 눈이 뽑혀 눈먼 C003에게 아버지가 음모에 빠져 죽게 된 사실을 듣게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C005은 하늘에 소리를 지르며 분노를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "사무치다",
+                    "content": "아버지 C006를 묻어주고 C005은 칼로 손에 피를 내어 피의 복수를 맹세를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "C010은 C005을 위로하며 다음 할 일을 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "C010, C003과 C006 성을 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_04",
+            "prev_id": "01_1494_03",
+            "next_id": "01_1494_05",
+            "characters": [
+                "C005",
+                "C010",
+                "C003",
+                "C007",
+                "C001"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "친구 C015와의 약속 때문에 C007을 도와주러 온 C005. 하지만 C007을 도와주기는커녕 위험에 빠뜨리고 홀로 도망치게 된다.",
+            "unit_motif": "도망자",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 집 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C005, C010, C003은 C015와의 약속을 지키기 위해 C015 동생 C007의 집으로 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "난감하다",
+                    "content": "하지만 C004는 경계의 눈빛으로 바라보며 문을 열어주지 않으려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C005을 경계하는 C004 C007을 지켜주러 왔다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "담담하다",
+                    "content": "복면을 쓴 누군가 C005을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "궁금하다",
+                    "content": "복면과 격투를 벌이다 제압한 후 C005은 복면을 벗긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "감탄하다",
+                    "content": "C007이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집 밖",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "의심스럽다",
+                    "content": "C005이 C007에게 C015와의 약속이라며 지켜주겠다고 말하지만 C007은 믿지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "난감하다",
+                    "content": "C001 일행이 C005 일행을 을 잡으러 오자 자리를 피한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산길",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "content": "C005 일행은 말을 타고 도망치는 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "안타깝다",
+                    "content": "C005 일행은 숲 안으로 들어가 몸을 피한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "무섭다",
+                    "content": "C001 일행은 숲에 악령이 있다며 들어가지 못한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_05",
+            "prev_id": "01_1494_04",
+            "next_id": "01_1494_06",
+            "characters": [
+                "C005",
+                "C010",
+                "C003",
+                "C013",
+                "C012",
+                "C013 일행",
+                "C002",
+                "C008",
+                "C007",
+                "C004"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "성주 아들로서의 삶을 잃어버리게 된 C005. 숲으로 들어가 일반 평민과 도적떼를 결성하기로 마음먹는다.",
+            "unit_motif": "몰락한 귀족",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "긴장되다",
+                    "content": "C005 일행은 숲을 헤매고 다니다 C013 일행에게 포위된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "비장하다",
+                    "content": "C013과 C005은 일대일 싸움을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "담담하다",
+                    "content": "가까스로 C013을 제압하는 C005은 한숨을 내쉬며 C013을 일의 켜 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "반갑다",
+                    "content": "C005 일행은 C013의 일행과 친구가 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "안타깝다",
+                    "content": "C013의 일행이 C002의 박해를 피해 산속에 숨어든 사실을 C005은 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C012",
+                        "C013 일행"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "주눅들다",
+                    "content": "같이 힘을 합쳐 싸우자는 C005의 말에 C009은 농민들과 도적떼들이 뭘 할 수 있냐고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "기대되다",
+                    "content": "C005은 C002에게 쳐들어 갈 계획을 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "자랑하다",
+                    "content": "C002 우상을 숭배한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C005은 변장을 한 채 성 밖을 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "불편하다",
+                    "content": "C002과 C007, C004는 주교의 주례로 예배를 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "C005은 C007에게 몰래 접근해 C002의 계획에 대해 듣게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주교 방",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "난감하다",
+                    "content": "C005은 주교에게 와 아버지에 대한 진실을 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "짜증나다",
+                    "content": "C002은 C007에게 추근댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주교 방",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "불쾌하다",
+                    "content": "아버지가 이교도였다고 말하는 주교는 C005이 회계를 받아야 한다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주교 방",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "당황하다",
+                    "content": "주교 방을 나가려는 순간 C002이 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주교 방",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "황당하다",
+                    "content": "C002의 얼굴에 상처를 내고 C005은 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C005은 성당을 빠져나와 도망친다. 성당 안에는 C002의 고함소리가 가득하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C002은 화가 나서 괜한 C009에게 화풀이를 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_06",
+            "prev_id": "01_1494_05",
+            "next_id": "01_1494_07",
+            "characters": [
+                "C007",
+                "C004",
+                "C005",
+                "C005 일행",
+                "C010",
+                "C014"
+            ],
+            "stage": "Another Story",
+            "storyline": "C005과 C007과의 사랑을 보인다.",
+            "unit_motif": "의적",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "억울하다",
+                    "content": "숲을 지나치는 C007과 C004를 공격하는 셔우드 숲 주민, 주민들은 오히려 C007과 C004에게 생포 당한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 폭포",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "긴장되다",
+                    "content": "C007과 C004는 주민들을 끌고 C005의 아지트에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 폭포",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "설레다",
+                    "content": "C007은 샤워를 하는 C005을 보게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C004",
+                        "C005 일행"
+                    ],
+                    "act": "상승하다",
+                    "emotion": "기대되다",
+                    "content": "C007에게 C005은 셔우드 아지트를 소개해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C004",
+                        "C005 일행"
+                    ],
+                    "act": "상승하다",
+                    "emotion": "감탄하다",
+                    "content": "예전에 비해 C009이 살 수 있는 시스템들이 갖춰져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005 천막",
+                    "character": [
+                        "C005",
+                        "C007"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "자신감 있다",
+                    "content": "C005은 C007에게 C002에 대항해 싸우겠다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C014"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "셔우드 C009이 파티를 하며 즐겁게 논다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C014"
+                    ],
+                    "act": "놀다",
+                    "content": "C010에게 호기심을 가지고 다가온 소년에게 진기한 것을 보여주며 지신이 믿는 신의 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C014"
+                    ],
+                    "act": "놀다",
+                    "emotion": "경멸하다",
+                    "content": "C010에게 신을 모독하는 말을 하지 말라며 C014는 아이를 데리고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C014"
+                    ],
+                    "act": "놀다",
+                    "emotion": "사랑스럽다",
+                    "content": "C005과 C007은 서로에게 호감을 느끼며 사랑에 빠진다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_07",
+            "prev_id": "01_1494_06",
+            "next_id": "01_1494_08",
+            "characters": [
+                "C010",
+                "C005",
+                "C007",
+                "C013",
+                "C013 아내",
+                "C011",
+                "C014",
+                "C012",
+                "C003"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "출산을 도와주는 C010을 통해 C010이 못하는 게 없는 마법사로 그려진다.",
+            "unit_motif": "마법사(마녀)",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C010",
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "괴롭다",
+                    "content": "아침부터 숲 이곳저곳이 비명소리로 가득하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "C010과 C005은 비명소리 나는 곳으로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "천막",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "act": "받는다",
+                    "emotion": "괴롭다",
+                    "content": "C013의 아내는 출산을 하려 하지만 아이가 뒤집혀 괴로워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "emotion": "망설이다",
+                    "content": "C010은 자신이 출산을 할 수 있다고 하지만 C013은 망설이다 허락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C010"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C010은 손을 깨끗이 씻고 천막 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "천막",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "act": "받는다",
+                    "emotion": "안심/안도하다",
+                    "content": "C010이 수술을 통해 안전하게 아이와 C013의 아내를 안전하게 구해낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "즐겁다",
+                    "content": "C013의 아내가 무사히 출산한 것을 축하하는 C009은 춤을 추며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "미안하다",
+                    "content": "C014는 머쓱해 하며 C010에게 아까 일을 사과한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "애틋하다",
+                    "content": "C005은 C007을 숲 강가까지 바래다준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "사랑스럽다",
+                    "content": "C005은 C003에게 C007을 집까지 안전하게 바래다주라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C003"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "황홀하다",
+                    "content": "C007은 이별의 아쉬움에 C005에게 키스를 한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_08",
+            "prev_id": "01_1494_07",
+            "next_id": "01_1494_09",
+            "characters": [
+                "C005",
+                "C010",
+                "C003",
+                "C013",
+                "C013 일행",
+                "C002",
+                "C001",
+                "C001 일행",
+                "C012",
+                "C011"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C005 때문에 C002 일행에게 공격당한 마을 C009이 숲으로 몰려들기 시작한다.",
+            "unit_motif": "의적",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "content": "C005은 숲에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "자신감 있다",
+                    "content": "C005은 C009에게 C002에게 대항해 싸워야 한다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "화나다",
+                    "content": "C001에게 무슨 짓을 해서든 C005을 잡아오라고 분노에 찬 C002 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C001",
+                        "C001 일행"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "무섭다",
+                    "content": "C001 일행은 마을 C009을 마구잡이로 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C001",
+                        "C001 일행"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "참담하다",
+                    "content": "C009은 비명을 지르며 도망을 가고 남자들은 머리에 피를 흘리며 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C001",
+                        "C001 일행"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C005을 숨겨준다면 죽음으로 그 죄를 값아야 할 것이라 이야기하며 모두가 C005을 숨겨주는 것을 알고 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C001",
+                        "C001 일행"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C009에게 C005을 잡아오면 죄를 사면해주겠다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C012",
+                        "C011",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "불만족스럽다",
+                    "content": "마을에서 쫓겨난 C009이 숲으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C012",
+                        "C011",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C012는 C005 때문에 모든 일이 벌어졌다며 C005을 공격하려고 달려든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C012",
+                        "C011",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "하지만 C005의 화살에 먼저 당한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C012",
+                        "C011",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "자신감 있다",
+                    "content": "C005은 숲에 몰려든 C009에게 싸워서 저항하자고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_09",
+            "prev_id": "01_1494_08",
+            "next_id": "01_1494_10",
+            "characters": [
+                "C005",
+                "C010",
+                "C003",
+                "C013",
+                "C013 일행",
+                "C002",
+                "C008",
+                "C002 부하",
+                "C005 일행",
+                "C001",
+                "C001 일행",
+                "C014"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C005 때문에 C002 일행에게 공격당한 마을 C009이 숲으로 몰려들기 시작한다. C005이 그들을 모아 C002에 대항할 준비를 한다.",
+            "unit_motif": "의적",
+            "causality": "Temptation(유혹)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "자신감 있다",
+                    "content": "셔우드 숲 C009은 무기를 준비하고 전투 준비를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "보람차다",
+                    "content": "귀족 마차를 털기도 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C013",
+                        "C013 일행"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "성당을 터는 C002 부하들에게 C005은 선전포고를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C002은 C005이 뜻대로 안되자 괜한 화풀이를 C009에게 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C002 부하"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C002 부하들은 C005의 현상금이 올라간 벽보를 붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "거리",
+                    "character": [
+                        "C005",
+                        "C005 일행"
+                    ],
+                    "act": "준다",
+                    "emotion": "자랑스럽다",
+                    "content": "C005과 C005 일행은 밤이 되면 빈민들에게 훔친 물건들을 나눠준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "불쾌하다",
+                    "content": "현상금을 올리라는 C002의 말에 하인은 C005이 백성들에게 인기가 높기 때문에 소용없다고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "심란하다",
+                    "content": "C002은 C008에게 조언을 구하러 지하로 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C001",
+                        "C005 일행",
+                        "C001 일행"
+                    ],
+                    "act": "때리다",
+                    "emotion": "기대되다",
+                    "content": "C005 일행은 공물 마차를 옮기는 C001 일행을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C005 일행",
+                        "C014"
+                    ],
+                    "act": "때리다",
+                    "emotion": "즐겁다",
+                    "content": "C005 일행은 상자에서 많은 돈을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C005 일행",
+                        "C014"
+                    ],
+                    "act": "때리다",
+                    "emotion": "약오르다",
+                    "content": "C005 일행은 도망치려는 C014 목사를 잡는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 내 대장간",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "대장장이들은 큰 전투를 준비하듯 무기를 만들고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 내 대장간",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "화나다",
+                    "content": "C005에게 돈을 뺏겼다고 보고하는 C001를 분노에 찬 C002이 죽여버린다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_10",
+            "prev_id": "01_1494_09",
+            "next_id": "01_1494_11",
+            "characters": [
+                "C002",
+                "C008",
+                "C007",
+                "C004",
+                "C002 부하",
+                "C003"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C007이 왕에게 구조 요청을 보내는 편지를 먼저 입수해 계획을 세우는 C002. 게다가 C005 일행의 아지트 위치가 발각된다.",
+            "unit_motif": "추격자",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "심란하다",
+                    "content": "C002은 C008에게 조언을 구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "홀가분하다",
+                    "content": "켈트족을 매수해 공격하라는 말과 후계자를 낳으라는 조언을 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C007",
+                        "C004"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C007은 왕에게 편지를 갖다 줄 것을 주교에게 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲",
+                    "character": [
+                        "C004",
+                        "C002 부하"
+                    ],
+                    "act": "받는다",
+                    "emotion": "자신감 있다",
+                    "content": "C007이 주교에게 줄 편지를 C004를 주며 전달을 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲",
+                    "character": [
+                        "C004",
+                        "C002 부하"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "안타깝다",
+                    "content": "C002 부하는 C004를 공격해서 C007의 편지를 빼앗는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "남작 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "비장하다",
+                    "content": "C002은 남작들이 모여있는 성에 들어와 켈트족을 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "남작 성",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "만족하다",
+                    "content": "남작들은 C002을 따를 것을 맹세한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007",
+                        "C003",
+                        "C002 부하"
+                    ],
+                    "act": "받는다",
+                    "emotion": "괴롭다",
+                    "content": "C002의 부하들은 C007을 거칠게 잡아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007",
+                        "C003",
+                        "C002 부하"
+                    ],
+                    "act": "받는다",
+                    "content": "C003이 C007이 잡힌 소리를 듣곤 황급히 말을 타고 셔우드 숲으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007",
+                        "C003",
+                        "C002 부하"
+                    ],
+                    "act": "받는다",
+                    "emotion": "긴장되다",
+                    "content": "C002의 부하들은 눈이 보이는 않는 C003의 뒤를 쫓는다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_11",
+            "prev_id": "01_1494_10",
+            "next_id": "01_1494_12",
+            "characters": [
+                "C005",
+                "C010",
+                "C003",
+                "C002",
+                "C013",
+                "C012",
+                "C002 부하"
+            ],
+            "stage": "Defeat",
+            "storyline": "켈트족과 C002 부하들의 공격으로 C005 일행의 아지트가 심각한 피해를 입게 된다.",
+            "unit_motif": "아내강탈",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "C003은 C005에게 C007이 잡혀간 사실을 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "단호하다",
+                    "content": "C005은 C007을 구출하러 활을 들고 출발하려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "듣다",
+                    "emotion": "당황하다",
+                    "content": "숲 이곳저곳에서 켈트족의 고함 소리들이 들린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "방해하다",
+                    "emotion": "혼란스럽다",
+                    "content": "셔우드 C009은 기습 공격에 당황해하고 C005은 C009을 지휘하며 켈트 족을 막아 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "자신감 있다",
+                    "content": "셔우드 C009과 켈트족과 혈투가 벌어지고 C005은 켈트족의 우두머리를 화살로 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "주눅들다",
+                    "content": "전의를 잃은 켈트족을 철수를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "서운하다",
+                    "content": "C002의 부하들은 켈트족을 철수를 막으며 공격하라고 위협한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "켈트족은 혼란에 빠지고 그 틈을 이용해 셔우드 C009은 총공격을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "자신감 있다",
+                    "content": "하지만 켈트족과 C002 부하들의 마지막 발악 같은 공격이 시작된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "부수다",
+                    "emotion": "절망하다",
+                    "content": "켈트족들과 싸워 물리쳐 내는 셔우드 C009 하지만 C002 부하들은 아지트를 불로 공격해 태워버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 아지트",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C003",
+                        "C002",
+                        "C013",
+                        "C012",
+                        "C002 부하"
+                    ],
+                    "act": "부수다",
+                    "emotion": "참담하다",
+                    "content": "켈트족과 C002의 부하들을 철수를 했지만 아지트는 불에 타고 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_12",
+            "prev_id": "01_1494_11",
+            "next_id": "01_1494_13",
+            "characters": [
+                "C002",
+                "C007",
+                "C005",
+                "C010",
+                "C013",
+                "C012",
+                "C011"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C005 일행은 잡혀 교수형을 선고받고 C007의 C002과 억지로 결혼식을 올리게 될 예정이다.",
+            "unit_motif": "아내강탈",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "짜증나다",
+                    "content": "C002은 셔우드 C009과 C004를 잡아와서 자신과 결혼하지 않으면 C009을 죽일 거라고 C007에게 협박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "단호하다",
+                    "content": "C007은 정혼자가 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "괘씸하다",
+                    "content": "C002은 그 정혼자가 C005이냐고 물어보며 사악한 웃음을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C007은 C005이 어떻게 했냐 물어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "즐겁다",
+                    "content": "C002은 C005은 전투 도중에 죽었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "의심스럽다",
+                    "content": "C007은 C002의 말을 믿지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013"
+                    ],
+                    "act": "만나다",
+                    "emotion": "속상하다",
+                    "content": "C005은 살아서 일행들과 만나서 의적을 정비한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "심란하다",
+                    "content": "C005은 C012과 C011는 잡혀 갔다고 보고를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002",
+                        "C012",
+                        "C011"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "C002은 셔우드 C009을 고문하고 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002",
+                        "C012",
+                        "C011"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비참하다",
+                    "content": "C012는 자신을 풀어주면 C005을 잡아오겠다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002",
+                        "C012",
+                        "C011"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C011는 배신하지 말라고 소리치며 절규한다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_13",
+            "prev_id": "01_1494_12",
+            "next_id": "01_1494_14",
+            "characters": [
+                "C005",
+                "C010",
+                "C013",
+                "C013 아내",
+                "C014",
+                "C012",
+                "C002",
+                "C008"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C005과 일행들이 남아있는 C009을 모아 C009과 C007을 구하러 C002 성을 공격할 계획을 세운다.",
+            "unit_motif": "무장봉기",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "절망하다",
+                    "content": "C005은 아지트를 수습하다 죽은 C003을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "괴롭다",
+                    "content": "C003은 자신 때문에 죽은 듯 괴로워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "emotion": "안타깝다",
+                    "content": "저 멀리 C012는 C005에게 다가온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "C005은 C012을 의심하고 옷을 올려 보자 고문의 흔적이 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "C012는 정오까지 성으로 오지 않으면 C009을 죽이고 C007과 결혼식을 올리겠다는 C002의 말을 C005에게 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "속상하다",
+                    "content": "C012을 의심하는 C005에게 자신이 C005의 이복동생이라는 사실을 밝힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "C005은 C009과 함께 C002에게 대항할 것을 다짐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "즐겁다",
+                    "content": "C002은 C005 일행을 물리친 것을 자축하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002 방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "의심스럽다",
+                    "content": "C002은 자기 방에 구멍이 뚫린 걸 보고 C008를 의심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C008를 협박하는 C002에게 C008는 C002이 자신의 아들이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C008 방",
+                    "character": [
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 넋이 나간 채 방을 빠져나간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_14",
+            "prev_id": "01_1494_13",
+            "next_id": "01_1494_15",
+            "characters": [
+                "C005",
+                "C010",
+                "C013",
+                "C013 아내",
+                "C014",
+                "C012",
+                "C007",
+                "C002",
+                "C011",
+                "C009"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C005 일행이 C002을 무찌르고 핍박받는 C009과 C007을 구해내는데 성공한다.",
+            "unit_motif": "무장봉기",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "만들다",
+                    "emotion": "기대되다",
+                    "content": "C005과 일행들은 C009과 공격 계획을 세운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "사용하다",
+                    "emotion": "감탄하다",
+                    "content": "C010은 폭탄을 제조하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타쥬",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "C005 일행들은 성 안으로 들어가 각각의 자리에 위치해 공격 준비를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "심란하다",
+                    "content": "C002은 셔우드 C009의 교수형 준비를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "억울하다",
+                    "content": "C012가 잡히고 그 역시 교수형에 위험에 처한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "교수형이 시작되고 C011의 목을 조여오는 밧줄에 울분을 토한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "홀가분하다",
+                    "content": "C005이 화살을 쏴 밧줄을 끊어놓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "비장하다",
+                    "content": "우왕좌왕 도망치는 백성들에게 C010이 C005과 같이 싸우자고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "기대되다",
+                    "content": "백성들도 같이 C002에 대항해 싸우기 기로 한듯하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 밖",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C013",
+                        "C013 아내",
+                        "C014",
+                        "C012",
+                        "C011",
+                        "C009"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "단호하다",
+                    "content": "백성들과 C005은 다 같이 C002이 있는 성으로 쳐들어 간다."
+                }
+            ]
+        },
+        {
+            "id": "01_1494_15",
+            "prev_id": "01_1494_14",
+            "characters": [
+                "C007",
+                "C002",
+                "C005",
+                "C010",
+                "C008",
+                "C014",
+                "C013",
+                "C013 아내",
+                "C011"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C005은 C002과 C008를 죽이고 평화를 찾아온다. C005과 C007은 결혼을 하고 리처드 왕은 와서 둘의 결혼을 축복한다.",
+            "unit_motif": "무장봉기",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "성",
+                    "character": [
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "절망하다",
+                    "content": "C002은 C007을 인질로 잡고 성 안으로 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성 안",
+                    "character": [
+                        "C005",
+                        "C010"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "C005, C010은 C002을 쫓아 성 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002은 성당 안으로 들어와 주교를 협박해 급하게 결혼식을 진행 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "비장하다",
+                    "content": "C008 역시 옆에서 거든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 밖",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "자신감 있다",
+                    "content": "C005은 성당 문이 안 열리자 옥상으로 올라가 창문을 깨고 성당 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 밖 복도",
+                    "character": [
+                        "C010",
+                        "C008"
+                    ],
+                    "act": "해치다",
+                    "emotion": "통쾌하다",
+                    "content": "밖으로 나온 C008가 C010을 공격하지만 C010의 창에 찔리는 C008는 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "긴장되다",
+                    "content": "C005은 C002과 칼싸움을 벌인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "주교 방",
+                    "character": [
+                        "C014"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "통쾌하다",
+                    "content": "돈을 챙겨 도망치려는 주교를 C014는 창으로 떨어뜨려 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "통쾌하다",
+                    "content": "C002과 칼싸움을 벌이다 C005은 결국 C002을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "긴장되다",
+                    "content": "다 끝났다고 생각하는 순간 C008가 살아남아 C005을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "지키다/보호하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C010은 위기의 순간 C005을 구해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "행복하다",
+                    "content": "C005과 C007은 C014의 주례로 결혼식을 올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "셔우드 숲",
+                    "character": [
+                        "C005",
+                        "C010",
+                        "C007",
+                        "C013",
+                        "C013 아내",
+                        "C011"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "열광하다",
+                    "content": "리처드 왕은 결혼식에 참석해 둘을 축복해준다."
+                }
+            ]
+        }
+    ]
+}

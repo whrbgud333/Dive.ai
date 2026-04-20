@@ -1,0 +1,3801 @@
+{
+    "id": "01_2580",
+    "type": "movie",
+    "title": "나쁜 놈들이 간다!",
+    "genre": [
+        "판타지",
+        "스릴러",
+        "액션"
+    ],
+    "year": 2022,
+    "theme": "모험",
+    "concept": "C001, C002, C003, C004, C005는 한순간의 실수 때문에 보석을 훔치려는 계획을 실패하고 체포된다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "고뇌하는 깡패",
+    "main_character": "강도",
+    "conflict": "깡패 C001는 C006의 제안으로 갱생 프로그램에 참여하게 되면서 내면의 갈등을 겪는다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009"
+    ],
+    "units": [
+        {
+            "id": "01_2580_01",
+            "next_id": "01_2580_02",
+            "characters": [
+                "C001",
+                "C002",
+                "C005",
+                "C003",
+                "C004"
+            ],
+            "stage": "Main Character",
+            "storyline": "C001와 C002가 은행에서 돈을 훔쳐 차를 타고 달아나는 중 C001가 악당들 일행을 소개한다.",
+            "unit_motif": "바쁨",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "기쁘다",
+                    "content": "C001와 C002가 은행에서 돈을 훔친 후, 차를 타고 달아난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C001가 C002를 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002는 금고 따는 데는 일등이야. 그리고 오늘이 생일이지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "character": [
+                        "C005"
+                    ],
+                    "content": "C005가 해킹으로 교통신호를 바꾼 후차에 올라탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C001가 C005를 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C005는 우리 팀 최고의 해커야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "C001와 C005가 생일인 C002에게 케이크를 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002는 케이크를 받아들고는 탐탁지 않아 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "통쾌하다",
+                    "content": "공사장 인부로 변장한 C003가 차로 달려와 올라탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C001가 C003를 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C003는 변장술에 아주 능해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "유쾌하다",
+                    "content": "화가 난 듯한 C002에게 C003가 생일 고깔모자를 씌워준다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "C002 왜 그러냐. 생일 축하해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "경찰차 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "통쾌하다",
+                    "content": "경찰차를 전복 시킨 후 악당들의 차로 날아 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C001가 C004를 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C004는 성격이 괴팍해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "content": "C003와 C005가 C004에게 C002의 생일을 잊어버렸는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C002의 생일을 잊어버린 C004는 당황해 방귀를 뀐다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "통쾌하다",
+                    "content": "C001가 운전 실력을 뽐내며 텅 빈 금고를 경찰서에 던져버린다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_02",
+            "prev_id": "01_2580_01",
+            "next_id": "01_2580_03",
+            "characters": [
+                "C004",
+                "C005",
+                "C001",
+                "C002",
+                "C003"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "악당들이 아지트로 돌아와 C002의 생일파티를 한다.",
+            "unit_motif": "여정의 시작",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C004",
+                        "C005"
+                    ],
+                    "content": "각종 보석과 미술품, 현금 등으로 가득 찬 아지트로 악당들이 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "제안하다",
+                    "content": "C001가 C004에게 생일 축하 노래를 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "즐겁다",
+                    "content": "C004가 열심히 생일 축하 노래를 부르기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "귀찮다",
+                    "content": "C004가 노래를 시작하자마자 귀찮다는 듯 케이크 초를 확 불어 꺼버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "다 같이 C002에게 건배 제안을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "고맙다",
+                    "content": "C002가 마지못해하며 건배사를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "고맙다",
+                    "content": "나는 적을 많이 만드는 놈인데 너희들은 싫지 않은 놈들이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "C002의 건배사에 감동하며 건배한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "즐겁다",
+                    "content": "악당들이 다 같이 사진을 찍는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "C002가 인화된 사진을 가져와 냉장고에 붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "기대되다",
+                    "content": "C002가 냉동실에서 마지막 아이스크림을 발견하고 먹으려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "애원/구걸하다",
+                    "emotion": "기대되다",
+                    "content": "C003가 C002에게 아이스크림을 양보해 달라며 애걸복걸한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "통쾌하다",
+                    "content": "C002가 C003에게 아이스크림을 주는 척하다 본인이 다 먹어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "보람차다",
+                    "content": "C001는 TV를 틀어 뉴스를 본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_03",
+            "prev_id": "01_2580_02",
+            "next_id": "01_2580_04",
+            "characters": [
+                "C006",
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Setting-up",
+            "storyline": "뉴스에서 악당들을 무시하는 C006 주지사에게 분노하며 모범 시민에게 주어지는 보석을 훔칠 계획을 세운다.",
+            "unit_motif": "선전포고",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "TV 속 뉴스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "괘씸하다",
+                    "content": "C006 주지사는 뉴스에서 악당들을 무시하는 발언을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "TV 속 뉴스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "악당들은 이제 한물갔어요. 한번 했던 은행강도질을 또 하다니 아마추어네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "괘씸하다",
+                    "content": "악당들은 C006의 말에 반박하며 열받아한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "TV 속 뉴스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C006이 내일 밤 열리는 모범 시민 시상식에 대해 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "TV 속 뉴스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "악당들은 이제 중요하지 않아요. 중요한 건 내일 있을 모범 시민 시상식이죠. 올해 가장 선량한 시민에게는 보석이 주어집니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "설레다",
+                    "content": "C001는 보석 얘기를 듣자마자 눈을 번쩍인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002는 C001에게 무슨 생각을 하는지 물어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C001는 보석을 훔치기로 결심하고 악당들에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "거부감",
+                    "content": "C002는 보석을 훔치는 것은 무모한 짓이라며 반대한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "기대되다",
+                    "content": "C001는 생쥐를 이용해 C002를 본인의 계획에 동참하도록 꼬신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기대되다",
+                    "content": "C002는 생쥐 소리에 입맛을 다시며 계획에 동참하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "만족하다",
+                    "content": "악당들은 다 같이 손을 모아 보석을 훔치기로 결정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "설레다",
+                    "content": "C001가 보석을 훔칠 계획을 말한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_04",
+            "prev_id": "01_2580_03",
+            "next_id": "01_2580_05",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C009",
+                "C007",
+                "C006"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001의 계획대로 악당들은 보석을 훔치기 위해 모범 시민 시상식에 참석하여 계획대로 움직인다.",
+            "unit_motif": "여정의 시작",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "악당들이 변장 후 모범 시민 시상식장으로 들어서고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "감탄하다",
+                    "content": "C009가 올해 모범 시민으로 선정된 C007에게 인터뷰를 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뿌듯하다",
+                    "content": "C007가 C009의 인터뷰에 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뿌듯하다",
+                    "content": "C009, 착한 일은 경쟁이 아니에요. 우리 모두의 마음속에는 선함이 있어요. 아직 모를지도 모르지만요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C001가 보석이 있는 곳으로 들어갈 수 있는 방법을 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "보석이 있는 곳의 문은 C006 주지사의 홍채인식이 있어야 열 수 있어. 그래서 내가 C006 주지사와 친해질 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "C001가 C006이 들리도록 미술품 감상을 하며 혼잣말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "이 미술품은 웃기네요. 쓰레기가 가식적으로 보여요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "C006이 C001에게 다가가 악수를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "재미있는 생각이네요. 성함이 어떻게 되시죠?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 악수를 하며 몰래 C006의 반지를 훔친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "즐겁다",
+                    "content": "가명을 대며 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 C006에게 악당들에 대해 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "즐겁다",
+                    "content": "누군가는 악당들이 아주 큰 건을 터뜨려 위대한 발자취를 남기기 전에 잡아야 할 텐데 그럴 수가 있을까 모르겠네요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "즐겁다",
+                    "content": "C006이 C001의 말에 비웃으며 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "즐겁다",
+                    "content": "악당들이 갈 곳은 감옥뿐이에요. 모든 건 관점의 차이에요. 쓰레기도 아름다운 예술품이 될 수 있는 것처럼 말이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "요청하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C001가 C006의 홍채인식을 위해 함께 사진 찍기를 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "C004",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "유쾌하다",
+                    "content": "C001가 악당들을 데리고 시상식장 안으로 입장한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_05",
+            "prev_id": "01_2580_04",
+            "next_id": "01_2580_06",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C008",
+                "할머니"
+            ],
+            "stage": "1st Accident",
+            "storyline": "악당들이 모범 시민 시상식장에 들어가 각자 맡은 임무들을 수행하는 중 C001가 한 할머니를 돕게 된다.",
+            "unit_motif": "사기를 침/당함",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "악당들이 각자 맡은 역할을 수행하기 위해 각자의 위치로 이동하기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "C005가 통신을 연결해 악당들에게 무전을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C002가 천장의 환풍구로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C005가 보안요원의 등에 올라타 통신보안 실로 몰래 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003는 귀부인으로 변장에 시상식장 안에 잠입해 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "유쾌하다",
+                    "content": "C004가 웨이터로 위장하기 위해 화장실 변기통 속에 숨어 웨이터를 기다리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 통신보안실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C005가 보안요원을 묶어두고 보석을 훔치기 위한 해킹작업을 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "자신감 있다",
+                    "content": "C008 서장이 상황 점검을 위해 동료와 무전을 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "비장하다",
+                    "content": "C001가 서장에게 일부러 부딪혀 서장의 보안카드를 훔친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C004가 웨이터로 변신한 후 음식 카트를 끌고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "돕다",
+                    "emotion": "난감하다",
+                    "content": "C001가 계단을 내려가는 할머니의 가방을 훔치려는 중 넘어지는 할머니를 우연히 돕게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "할머니"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "고맙다",
+                    "content": "할머니가 본인을 도와준 C001를 껴안으며 고마워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "당황하다",
+                    "content": "C001는 선행 후 자기도 모르게 자신이 웃음 짓고 있었다는 것을 알아차리고 의아해한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_06",
+            "prev_id": "01_2580_05",
+            "next_id": "01_2580_07",
+            "characters": [
+                "C001",
+                "C005",
+                "C003",
+                "경비요원들",
+                "C004",
+                "C006",
+                "C002",
+                "C007",
+                "C008",
+                "경찰들"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "악당들이 보석을 훔쳐 도망가려는 와중에 C001의 실수로 인해 붙잡히게 된다.",
+            "unit_motif": "임무 수행",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시상식장 통신보안실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "당황하다",
+                    "content": "C001가 선행 후 느낀 감정을 떨쳐버리고 C005에게 다음 단계로 넘어가자고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 통신보안실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "요청하다",
+                    "emotion": "자신감 있다",
+                    "content": "C005가 C003에게 임무수행을 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C003가 경비요원들을 불러오기 위해 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "큰일 났어요. 당장 아기가 나올 것 같아요. 도와주세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "경비요원들"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "당황하다",
+                    "content": "보안실을 지키던 경비요원들이 C003를 돕기 위해 달려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "데려가다",
+                    "emotion": "긴장되다",
+                    "content": "웨이터로 변신한 C004가 음식 카트에 C001를 숨겨 보안 실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "통쾌하다",
+                    "content": "C001와 C004가 보안실을 지키는 요원들을 한방에 제압하고 보석이 있는 곳으로 진입한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C006이 모범 시민으로 선정된 C007 박사를 소개한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "자랑스럽다",
+                    "content": "지난해 도시에 운석이 떨어져 우리 도시와 시민들에게 많은 피해를 줬어요. 하지만 C007 박사는 우리의 삶의 자세를 바꿔주었고, 운석은 영원히 우리 곁에 남을 수 있게 되었어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "훔치다",
+                    "emotion": "즐겁다",
+                    "content": "C001, C002, C004가 힘을 합쳐 보석을 훔치기 직전까지 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "당황하다",
+                    "content": "C001가 실수로 반지를 떨어뜨리면서 생각지도 못한 보안장치가 하나 더 있음을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 통신보안실",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C005가 악당들에게 본인이 해결할 수 있음을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C003가 이제 시간이 얼마 남지 않았음을 악당들에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C005"
+                    ],
+                    "emotion": "긴장되다",
+                    "content": "C005가 우여곡절 끝에 결국 보안 시스템을 해제한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "자랑스럽다",
+                    "content": "악당들이 보석을 훔친 뒤 유유히 시상식장을 빠져나가려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "C007가 보석이 사라진 것을 보고 놀란 사람들에게 연설한다."
+                },
+                {
+                    "type": "script",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "저는 보석을 받으려고 선행한 게 아니에요. 선행을 하면 그냥 제가 좋아요. 거기에서 오는 기쁜 마음이 제 작은 꼬리까지 전해져요. 착한 일을 하면 모두가 나를 좋아해 줘요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "emotion": "당황하다",
+                    "content": "도망가던 C001가 연설을 듣고는 갑자기 멈춰서 본인도 모르게 꼬리를 좌우로 흔들어댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "서장이 악당들 무리를 발견하고 체포하라 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "모범 시민 시상식장",
+                    "character": [
+                        "경찰들"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "비장하다",
+                    "content": "경찰들이 서장의 말에 따라 악당들을 체포한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_07",
+            "prev_id": "01_2580_06",
+            "next_id": "01_2580_08",
+            "characters": [
+                "C001",
+                "C007",
+                "C006",
+                "C005",
+                "C004",
+                "C003",
+                "C002"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001가 C006에게 악당들이 착해질 수 있는지 확인해 볼 수 있는 기회를 달라고 한다.",
+            "unit_motif": "계략을 꾸밈",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001가 인터뷰 중인 C006에게 말을 건다."
+                },
+                {
+                    "type": "script",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "우리는 단 한 번도 착해질 수 있도록 도움을 받은 적이 없어요. 우리가 감옥에 간다면 희망도 없이 나쁜 놈은 그냥 나쁜 놈으로 끝나는 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "기대되다",
+                    "content": "C007가 C006 주지사에게 악당들이 갱생할 수 있도록 기회를 주자고 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "걱정",
+                    "content": "C006이 C007의 제안을 거절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001가 C006에게 기회를 달라 설득한다."
+                },
+                {
+                    "type": "script",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "누군가 제게 이런 말을 했죠. 쓰레기도 아름다운 작품이 될 수 있다고. 그렇죠?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "C006이 C001의 말을 듣고 결심한 듯 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "박사님, 그럼 한번 저들이 착해질 수 있는지 실험해 봅시다. 보석은 발표날까지 제가 가지고 있을게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시상식장 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C007가 사람들에게 악당들을 착해지게 만들어보겠다 선포한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "C005, C004, C003, C002가 C001에게 무슨 생각으로 그런 행동을 했는지 물어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "C001가 친구들의 물음에 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "파티 날까지만 착해진 척하고 있다가 보석을 훔쳐 달아나는 게 내 계획이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "통쾌하다",
+                    "content": "친구들이 C001의 계획에 동의하며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 친구들에게 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "기대되다",
+                    "content": "우리 며칠 휴가 간다 생각하고 쉽게 도둑질하자고."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_08",
+            "prev_id": "01_2580_07",
+            "next_id": "01_2580_09",
+            "characters": [
+                "C007",
+                "C004",
+                "C001",
+                "C002",
+                "C003",
+                "C005"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "악당들이 C007 박사의 집에 도착한 후 갱생 프로젝트에 참여하게 된다.",
+            "unit_motif": "개과천선",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "기대되다",
+                    "content": "C007가 악당들을 반긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "유쾌하다",
+                    "content": "C004가 연구실 중앙에 있는 운석을 보고 외친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "기대되다",
+                    "content": "C007가 악당들에게 다시 선량함에 대해 가르쳐준다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "기대되다",
+                    "content": "너희가 비록 악당일지라도 가슴속에는 선량함이 있을 거야. 그 선량함이 크게 피어나기만 한다면 온몸에 긍정적인 기분이 쫙 퍼지게 될 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "기대되다",
+                    "content": "C001가 C007 말을 듣고 기분 좋게 웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "보람차다",
+                    "content": "C007가 C002에게 아이스크림을 C003에게 나눠주기를 요구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "거부감",
+                    "content": "C002는 한참을 고민하다 결국 아이스크림을 C003에게 나눠주지 않고 혼자 먹어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C003"
+                    ],
+                    "emotion": "짜증나다",
+                    "content": "C003는 아이스크림을 주지 않는 C002를 한입에 먹어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 도로",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "보람차다",
+                    "content": "C007는 더 쉬운 단계인 남을 도와주는 것을 C004에게 알려주려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 도로",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "C004는 할머니로 분장한 C001의 손을 잡고 길을 건너려다 금세 한눈을 팔아 C001는 차에 치이게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "가르치다/훈련시키다",
+                    "emotion": "보람차다",
+                    "content": "C007는 악당들에게 더 쉬운 단계인 나무에 매달린 고양이를 구조하라 요구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "자신감 있다",
+                    "content": "고양이에게 소리를 질러서 고양이가 떨어지도록 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "답답하다",
+                    "content": "C007는 계속되는 실패에 도대체 악당들이 잘하는 게 무엇인지 물어본다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_09",
+            "prev_id": "01_2580_08",
+            "next_id": "01_2580_10",
+            "characters": [
+                "C001",
+                "C006",
+                "고양이",
+                "C003",
+                "C002",
+                "C004",
+                "C005",
+                "C007"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001가 선행의 짜릿함을 느껴 변화하기 시작하자 C002는 그런 C001를 보고 걱정이 된다.",
+            "unit_motif": "감정 자각",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001는 화를 내는 C006에게 다가가 하소연한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "우리가 아무리 착한 일을 해봤자 아무도 우리를 믿지 않아요. 우리는 그저 악당일 뿐이라고요! 우리는 다 가진 당신과는 다르다고요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "안타깝다",
+                    "content": "C006은 C001가 훔친 본인의 반지를 보여주면서 C001에게 충고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "안타깝다",
+                    "content": "아무도 당신을 믿지 않는다면 자신이 자신을 믿어봐요. 자신을 위해 변화해봐요. 응원할게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "돕다",
+                    "emotion": "보람차다",
+                    "content": "생각에 빠진 C001는 나무 위의 고양이에게 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "고양이"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "행복하다",
+                    "content": "고양이는 C001에게 마음을 열고 C001에게 안겨 행복해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C003",
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "C001의 친구들은 C001가 고양이를 도와주는 모습을 발견하고 의아해하며 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "만족하다",
+                    "content": "C007는 C001의 선행을 촬영해 SNS에 올린 후 좋아하는 사람들의 반응을 C001에게 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C007는 친구들이 모두 들어가고 C001만 남게 된 후에 C001에게만 말을 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C001, 너에겐 착해질 수 있는 잠재력이 있어. 결국 나중에 넌 친구들이냐 착한 인생이냐를 선택해야 할 순간이 올 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞 정원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "듣다",
+                    "emotion": "걱정",
+                    "content": "C002는 C007와 C001의 얘기를 몰래 엿듣게 되고 걱정에 빠진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "C002는 변화하고 있는 C001를 보며 걱정이 되어 대화를 시도한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "난 걱정스러워. 네가 좀 변한 것 같은데 혹시라도 우리 계획에 변화가 생긴 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "C001는 걱정하는 C002에게 안심하라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "생각에 빠진 C001는 C002의 생각을 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "혹시 사람들이 우리를 좋아하면 어떻게 될지 궁금하다는 생각해봤어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "C002는 C001의 물음에 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "사람들이 우리를 왜 좋아해? 난 일어나지도 않을 일 생각하기 싫어. 빨리 일 끝내고 원래의 삶으로 돌아가고 싶어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 안 침실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "심란하다",
+                    "content": "C001는 C006의 반지를 보며 고민에 빠지지만 원래대로 돌아가기로 결심한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_10",
+            "prev_id": "01_2580_09",
+            "next_id": "01_2580_11",
+            "characters": [
+                "시위대",
+                "C007",
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C006"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C007 박사가 악당들의 장점을 살려 생쥐들을 구출할 계획을 세운다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 앞",
+                    "character": [
+                        "시위대"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "괘씸하다",
+                    "content": "시위대가 동물실험실 앞에서 시위 중이다."
+                },
+                {
+                    "type": "script",
+                    "location": "동물실험실 앞",
+                    "character": [
+                        "시위대"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "괘씸하다",
+                    "content": "생쥐들을 풀어줘라! 풀어줘라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "걱정",
+                    "content": "C007가 악당들에게 동물실험실 안의 생쥐들을 구출하라 얘기한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "걱정",
+                    "content": "너희들의 장점을 살려 불쌍한 생쥐들을 구출해 줘. 이건 착한 일이기 때문에 도둑질을 해도 괜찮은 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 앞",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "즐겁다",
+                    "content": "악당들은 생쥐 구출작전을 수행하기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "즐겁다",
+                    "content": "C003는 연구원의 아버지로 변장하여 악당들이 연구실 안으로 진입하도록 돕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "악당들은 실험실로 진입하는데 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "C002는 생쥐가 있는 곳으로 가기 위한 유일한 통로인 환기구를 통과하며 입맛을 다신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "C001, C003, C004, C005는 생쥐들이 갇힌 문 앞에서 C002에게 문을 열라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "열다",
+                    "emotion": "만족하다",
+                    "content": "C002는 몇십만 마리의 생쥐를 모두 먹어치운 채 문을 열어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "단호하다",
+                    "content": "C001는 C002 몸을 휘두르며 그가 먹어치운 생쥐들을 모두 뱉어내게 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동물실험실 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "열다",
+                    "content": "C004는 실험실 문 열림 버튼을 눌러 생쥐들을 탈출시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "단호하다",
+                    "content": "C006은 신문에 보도된 악당들의 행각에 어이없어하며 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "꾸짖다",
+                    "emotion": "단호하다",
+                    "content": "착해지라고 보내놨더니 절도, 침범, 폭력 등 나쁜 짓이란 나쁜 짓은 골라서 했네요! 이게 뭐예요?"
+                }
+            ]
+        },
+        {
+            "id": "01_2580_11",
+            "prev_id": "01_2580_10",
+            "next_id": "01_2580_12",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "C007",
+                "파티장 손님들",
+                "C006",
+                "C009"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C007가 준비한 자선 파티에서 악당들은 다시 보석을 훔치기로 계획한다.",
+            "unit_motif": "감정 자각",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C001가 친구들에게 보석을 훔칠 계획을 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C002가 서장 가방 안의 비밀번호를 알아내도록 해."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C003는 가짜 보석을 준비해두기로 하고."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C004는 전기회로 차단기를 심어."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C005는 전력망을 해킹해."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "모든 게 준비되면 내가 버튼을 눌러 불을 끌게."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "그 이후 바로 보석을 바꿔치기한 후 떠나자!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "칭찬/호평하다",
+                    "emotion": "감탄하다",
+                    "content": "친구들이 C001의 계획을 듣고 C001를 칭찬한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장 입구",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "C007가 악당들을 마중 나와 파티장에 초대된 사람들에게 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장 입구",
+                    "character": [
+                        "파티장 손님들"
+                    ],
+                    "act": "추켜세우다",
+                    "emotion": "열광하다",
+                    "content": "파티장에 초대된 손님들이 악당들을 보고 환호한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장 입구",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "놀라다",
+                    "content": "악당들이 자신들을 반겨주는 사람들을 보고 놀라 하며 자랑스럽게 파티장 안으로 입장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "돕다",
+                    "emotion": "긴장되다",
+                    "content": "각자 임무 수행 중 C002에게 위기 상황이 닥치자 C004가 위기를 모면하기 위해 무대 위에서 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "뿌듯하다",
+                    "content": "C002가 위기를 모면하고 비밀번호를 확인한 후 사인을 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "C006이 C001에게 다가가 대화를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "서운하다",
+                    "content": "오늘 괜히 나를 피하는 것 같네요. 솔직히 나에게 춤을 추자고 할 줄 알았는데, 실망스러워요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "기쁘다",
+                    "content": "C001는 C006과 함께 춤을 추기 시작한다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "이제는 가식적인 모습 대신 내 본모습대로 살래요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "기쁘다",
+                    "content": "악당들은 C004의 노래에 맞춰 함께 춤추며 몰래 임무를 수행하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "C009가 열띤 분위기의 파티장 상황을 방송한다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "유쾌하다",
+                    "content": "자 여기는 악당들 덕분에 아주 분위기가 좋습니다. 덕분에 모금도 정말 많이 되었어요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C006이 C001에게 현재의 감정을 물어본다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "사람들이 당신을 좋아하는 기분이 어때요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "행복하다",
+                    "content": "C001가 C006을 그윽하게 바라보며 C006에게 그녀의 반지를 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "행복하다",
+                    "content": "정말 좋아요. C006, 이 반지는 당신 거예요."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_12",
+            "prev_id": "01_2580_11",
+            "next_id": "01_2580_13",
+            "characters": [
+                "C001",
+                "C002",
+                "C003",
+                "C004",
+                "C005",
+                "파티장 손님들",
+                "C008",
+                "C009"
+            ],
+            "stage": "Villains Move",
+            "storyline": "악당들의 계획은 실패하고 체포된다.",
+            "unit_motif": "깨달음",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 계획대로 버튼을 눌러 전기를 차단하여야 하지만 결국 누르지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "보다",
+                    "emotion": "난감하다",
+                    "content": "C001의 친구들은 C001가 계획대로 전기를 차단하지 않자 난감해 하며 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "content": "C007가 보석을 받아드는 순간 몇 초간 정전이 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "파티장 손님들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "파티장 손님이 운석이 사라진 것을 보고 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "파티장 손님들"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "어! 운석이 사라졌다! 도둑이야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "괘씸하다",
+                    "content": "서장이 악당들을 체포하도록 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C001가 C006에게 지도를 건넨 후 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002가 도망치는 C001에게 물어본다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "너 도대체 왜 버튼을 누르지 않은 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "C001가 C002의 질문에 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "난 도저히 보석을 훔칠 수 없었어. 못하겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C004가 도망치는 중 갑자기 멈춰 선다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말리다/멈추다",
+                    "emotion": "뻔뻔하다",
+                    "content": "난 더 이상 도망 안 쳐! 이건 내 스타일이 아니야!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "content": "악당들의 도망 계획은 실패하고 결국 체포된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "불쾌하다",
+                    "content": "C001는 서장에게 체포되어 가는 도중 이번 일은 본인들의 짓이 아니라 반박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C009는 악당들은 변하지 않았음을 방송한다."
+                },
+                {
+                    "type": "script",
+                    "location": "파티장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "역시 악당들은 나쁜 놈들이었습니다. 사람은 역시 변하지 않으며 겉모습으로 판단하는 게 중요한 것 같습니다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_13",
+            "prev_id": "01_2580_12",
+            "next_id": "01_2580_14",
+            "characters": [
+                "C007",
+                "C001",
+                "C002",
+                "C009",
+                "C006"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C007가 운석을 훔치기 위해 악당들을 이용하고 누명을 씌운다.",
+            "unit_motif": "계략을 파악",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "뿌듯하다",
+                    "content": "C007가 악당들에게 운석은 본인이 훔쳤음을 고백한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "괘씸하다",
+                    "content": "C001가 C007에게 속았음을 알아차린다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "다 네가 꾸민 일이었구나. 그 할머니, 보석, 착해지기 훈련 모두 운석을 훔치고 우리에게 뒤집어씌우기 위해 네가 계획한 일이었어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "C007가 갑자기 악당의 기운을 내뿜는다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "그 운석은 거기서 지구상에서 가장 큰 전자파를 뿜어내고 있어. 난 그것을 이용해 세상 최고의 도둑질을 할 거야!"
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "네가 우리에게 누명을 씌운 거야!"
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "아니야. 너희에게 누명을 씌운 건 내가 아니라 너희의 겉모습이지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "C009는 C007에게 악당들이 어떻게 운석을 훔칠 수 있었는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "의심스럽다",
+                    "content": "C007는 신나서 악당들의 행각에 대해 떠들어댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "의심스럽다",
+                    "content": "C006은 C007가 이상하게 의심스러워 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "C006은 C001에게 받은 지도의 체크된 곳으로 이동한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_14",
+            "prev_id": "01_2580_13",
+            "next_id": "01_2580_15",
+            "characters": [
+                "C002",
+                "C001",
+                "교도관들",
+                "C006",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Defeat",
+            "storyline": "감옥에 갇힌 악당들은 C006의 도움으로 탈출하게 되지만 C001에게 불신을 가진다.",
+            "unit_motif": "말싸움/의견충돌",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "content": "C002가 C001에게 배신감을 느끼고 둘은 서로 다툰다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "배신감",
+                    "content": "C001 너, 우리한테 찔리는 거 있지? 네가 배신한 거지? 해명해 봐!"
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "미안하다",
+                    "content": "그래, 맞아. 어떤 할머니의 핸드백을 훔치려다 실수로 돕게 되었어."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "그 할머니를 도왔더니 기분이 좋더라고."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "배신감",
+                    "content": "나는 C007가 너에게 우리와 연 끊으라고 하던 얘기까지 들었어!"
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "난감하다",
+                    "content": "아니야. 나는 너희들을 버리려던 게 아니라 우리가 착해지면 더 나은 세상을 살게 될 수 있을 거라 생각했어."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "세상은 우리를 좋아하지 않아. 절대 바뀌지 않아."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "속상하다",
+                    "content": "난 이제 나쁘게 살기 싫어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "C002와 C001는 대화가 잘 풀리지 않자 몸싸움을 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "교도관들"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "교도관들이 싸우고 있는 C002와 C001를 포박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "돕다",
+                    "content": "복면을 한 C006이 나타나 교도관들을 물리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "복면을 한 C006이 복면을 벗고 본인의 정체를 드러낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C006이 사기꾼이었다는 사실에 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "배 위",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C006에게 왜 우리를 도와준 건지 물어본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "배 위",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "C006이 구해준 이유를 대답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "배 위",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "C007가 의심스러워 조사해봤더니 그 자가 범인이었어요. C007를 막아야 해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "악당들에게 C007를 같이 무찌르자고 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C005",
+                        "C004",
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "거절하다",
+                    "content": "C001에게 배신감을 느낀 친구들은 C001의 요청을 거절하고 모두 C001를 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_15",
+            "prev_id": "01_2580_14",
+            "next_id": "01_2580_16",
+            "characters": [
+                "C007",
+                "C006",
+                "C001",
+                "생쥐"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "운석을 가지게 된 C007는 점점 힘이 세지고 C001는 친구들을 잃은 상실감에 슬퍼한다.",
+            "unit_motif": "고뇌",
+            "causality": "Crisis of the heart(지극한 슬픔)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 실험실",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "자랑스럽다",
+                    "content": "C007는 운석의 전자파를 통해 세상의 생쥐들을 조종하게 된다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 실험실",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "내가 진정한 나쁜 놈이지. 이제 한번 조종해볼까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "세상 밖",
+                    "content": "C007가 조종하고 있는 모든 생쥐들이 세상 밖으로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "슬퍼 보이는 C001에게 괜찮은지 물어본다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "슬프다",
+                    "content": "아니요. 괜찮을 리가요. 내 친구들이 모두 떠났다고요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "회상하다",
+                    "content": "C001에게 C006가 나쁜 짓을 그만두게 된 계기에 대해 회상하며 말해준다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "난 세상 최고였어요. 그런데 보석을 훔친 순간 내가 교활해 보였어요. 그 뒤로 변했죠."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "난 이제 착해졌어요. 당신도 그렇게 될 수 있어요. 진짜 친구들이라면 돌아올 거예요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 위",
+                    "character": [
+                        "생쥐"
+                    ],
+                    "content": "갑자기 C006의 차위로 눈이 파란 생쥐가 떨어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "갑자기 나타난 생쥐를 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "생쥐? C007의 짓이에요! 가요!"
+                }
+            ]
+        },
+        {
+            "id": "01_2580_16",
+            "prev_id": "01_2580_15",
+            "next_id": "01_2580_17",
+            "characters": [
+                "C001",
+                "C006"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C006과 C001는 C007를 막을 수 있는 방법을 찾아본다.",
+            "unit_motif": "개과천선",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C006 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C001는 C006의 무기 창고를 보고 놀라워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "여기 무기들 장난 아닌데요? 이것도 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "난 그 이전 모델이 더 좋던데요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "생각하다",
+                    "content": "C006의 최첨단 장비를 이용해 C007의 계획을 추리해본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "전국 감시위성을 해킹해서 도시 상황을 한번 살펴볼게요."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "생쥐들의 수상한 움직임이 포착되었어요. C007가 조종하는 것 같은데."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "목표가 없는데. 이유가 뭐라고 생각해요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C001가 뭔가가 생각난 듯 자선 모금행사 지도를 비교해본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "목표는 이동 중인 거였어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "불우이웃 돕기 성금을 훔치려 한 거였어."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "불우이웃 돕기 성금이 든 트럭들이 도시 곳곳으로 이동하고 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "생쥐와 C007의 통신을 끊어야 될 것 같네요."
+                },
+                {
+                    "type": "script",
+                    "location": "C006 집",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "우리가 운석을 훔치면 그들의 통신도 끊기는 거예요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C006 집",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C001와 C006이 멋진 차를 타고 운석을 훔치러 출발한다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_17",
+            "prev_id": "01_2580_16",
+            "next_id": "01_2580_18",
+            "characters": [
+                "C002",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Another Story",
+            "storyline": "아지트로 돌아온 친구들이 C002의 선행을 보고 무언가를 느낀다.",
+            "unit_motif": "감정 자각",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "content": "금은보화로 가득 차 있던 아지트가 텅 비어있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "친구들은 금은보화를 C001가 다 가져갔다고 생각하며 씩씩댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보다",
+                    "emotion": "그립다",
+                    "content": "C002는 냉장고에 붙어있는 친구들 사진을 보며 그리워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "발견하다",
+                    "content": "C002는 냉동실 안에서 아이스크림을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "울다",
+                    "emotion": "속상하다",
+                    "content": "C003가 보물이 없어져 슬퍼하면서 울고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위로하다",
+                    "content": "C002가 슬퍼하는 C003에게 아이스크림을 양보한다."
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "C002! 너 착해졌어!"
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "content": "아니야. 난 그저 너를 행복하게 만들려고 내가 희생한 것뿐이야."
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "그게 바로 착한 일을 한 거라고!"
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "우리 중에 가장 나쁜 네가 착한 일을 하다니. 우리 모두 착해질 수 있을지도 몰라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "본인들도 모르게 웃고 있다는 것을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "content": "애써 무표정을 지으면서 소리친다."
+                },
+                {
+                    "type": "script",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "아니야! 나는 끝까지 나쁜 놈이란 말이야! 착해질 수 없어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "아지트",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "씩씩거리던 C002는 홀로 아지트를 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_18",
+            "prev_id": "01_2580_17",
+            "next_id": "01_2580_19",
+            "characters": [
+                "C006",
+                "C001",
+                "C007",
+                "C002"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "운석을 훔치기 위해 C001와 C006이 C007 집으로 침입하는데, C002의 배신으로 붙잡히게 된다.",
+            "unit_motif": "배신",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C006과 C001가 운석이 있는 C007 집으로 침입하는데 성공한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C006과 C001가 덫에 걸려 붙잡힌다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "맞이하다",
+                    "content": "안녕. 주지사님도 모셔왔네. C006! 내가 모를 줄 알았지?"
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "괘씸하다",
+                    "content": "우리가 여기 올 걸 어떻게 알게 된 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "대답한다",
+                    "content": "네 친구가 알려줘서 알았지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "통쾌하다",
+                    "content": "C002가 문 밖에서 스르륵 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "통쾌하다",
+                    "content": "어이 C001? 배신당한 기분이 어떠냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "배신감",
+                    "content": "네가 잡아먹던 음식이랑 같이 일하니 좋니?"
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "통쾌하다",
+                    "content": "세계의 도둑질인데 좋지! 배신, 운석, 심리 조종 너무 멋져. 나 이거 써봐도 돼?"
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "따르다/응하다",
+                    "content": "당연히 써도 되지. 나의 파트너야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007"
+                    ],
+                    "content": "C002에게 본인이 쓰고 있던 최첨단 기계 모자를 씌워준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "통쾌하다",
+                    "content": "둘은 영원히 악당임을 외치며 사라진다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_19",
+            "prev_id": "01_2580_18",
+            "next_id": "01_2580_20",
+            "characters": [
+                "C001",
+                "C006",
+                "C003",
+                "C004",
+                "C005",
+                "C002",
+                "C007"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001와 C006의 위기의 순간에 C003, C004, C005가 나타나 도와준다.",
+            "unit_motif": "극복",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "emotion": "무섭다",
+                    "content": "둘은 밧줄에 거꾸로 묶인 채 돌아가는 톱니 속으로 빠져들어가고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "content": "어디선가 독가스가 새어 나오자 C003, C004, C005가 나타난다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "얘들아 어떻게 여길 오게 된 거야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뿌듯하다",
+                    "content": "C001의 말처럼 선행의 기쁨을 느꼈다며 신나게 얘기한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "요청하다",
+                    "emotion": "긴장되다",
+                    "content": "알겠으니 일단 이것부터 멈춰줄래?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "따르다/응하다",
+                    "content": "C005가 톱니를 멈추고 C001와 C006은 구출된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "포옹하다/껴안다",
+                    "emotion": "기쁘다",
+                    "content": "서로를 다시 만나게 돼서 반가워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "비장하다",
+                    "content": "자, 그럼 생쥐 잡으러 가자!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "content": "운석의 위대함을 이야기하며 운석이 있는 곳으로 오고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C007 집",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "통쾌하다",
+                    "content": "기다렸다는 듯이 운석을 훔쳐 달아난다."
+                },
+                {
+                    "type": "script",
+                    "location": "C007 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "통쾌하다",
+                    "content": "우리는 이제 할 일 끝났으니 가볼게!"
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "이제 운석을 경찰에 넘기면 누명을 벗을 수 있어요."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "우리가 정말 나쁜 짓을 못하게 막은 거야?"
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "대답한다",
+                    "content": "그럼요. 운석이 없으면 생쥐 조종을 못하는 거니 범죄를 막은 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "그럼 저건 뭐지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로위",
+                    "content": "돈을 실은 트럭들이 달리고 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_20",
+            "prev_id": "01_2580_19",
+            "next_id": "01_2580_21",
+            "characters": [
+                "C001",
+                "C005",
+                "C006",
+                "C004",
+                "C007",
+                "C002",
+                "C003"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C001 일행은 계획을 변경해 범죄를 막고 경찰에게 운석을 되돌려 주러 간다.",
+            "unit_motif": "임무 수행",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "C007의 계획대로 트럭들이 움직이는 것을 보자 계획을 변경한다."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "운석이 계속 신호를 보내고 있어. 계획을 변경하자."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C005, 트럭 내비게이션 시스템을 중단해줘."
+                },
+                {
+                    "type": "script",
+                    "location": "차 안",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "전자 교차 회로 차단기가 필요해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "자랑스럽다",
+                    "content": "본인이 가지고 있는 전자 교차 회로 차단기를 C005에게 건네준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "화려한 드라이빙 실력을 뽐내며 차단기를 트럭에 부착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "character": [
+                        "C006",
+                        "C005"
+                    ],
+                    "emotion": "통쾌하다",
+                    "content": "C006과 C005가 오토바이로 도로 위를 질주하며 차단기를 트럭에 부착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "통쾌하다",
+                    "content": "C004가 도로 위를 질주하며 차단기를 트럭에 부착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "content": "트럭 내비게이션 해킹이 성공하고 트럭에 실려있던 돈을 다시 되돌아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C007",
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "계획에 실패한 C007와 C002가 헬기를 타고 도망가며 다툰다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "content": "차에 운석을 싣고 경찰에게 돌려주러 가고 있다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_21",
+            "prev_id": "01_2580_20",
+            "next_id": "01_2580_22",
+            "characters": [
+                "C001",
+                "C003",
+                "C004",
+                "C005",
+                "C002",
+                "C007",
+                "생쥐"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C002와 함께 운석을 되돌려주기 위해 C002를 찾으러 간다.",
+            "unit_motif": "가족(연인/친구)에 대한 협박",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "그립다",
+                    "content": "C002와 함께 착한 일을 하기 위해 운석을 돌려주지 않고 차를 돌려 C002를 찾으러 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C002",
+                        "C007"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "둘은 여전히 싸우고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "소리치다",
+                    "content": "C002를 발견하고 돌아오라 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "낚아채다/움켜쥐다",
+                    "emotion": "괘씸하다",
+                    "content": "C007는 C002에게 빌려주었던 모자를 이용해 생쥐들을 조종한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도로 위",
+                    "character": [
+                        "생쥐"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "수도 없이 많은 생쥐 떼가 악당들을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C007"
+                    ],
+                    "content": "악당들이 계속 도망가자 C002를 잡아 헬기 밖으로 던져버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "무섭다",
+                    "content": "C002는 헬기 다리를 물고 대롱대롱 매달려있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "걱정",
+                    "content": "C002가 걱정된 C001는 C007에게 운석을 주기로 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "C007는 운석을 낚아채고 C002를 발로 밀어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002를 구하기 위해 C001는 낭떠러지로 떨어지는 차를 버리고 함께 낙하한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하늘",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "emotion": "감동하다",
+                    "content": "다시 만난 악당들은 서로에게 감동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하늘",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "가지고 있던 갈고리를 헬기에 매달아 친구들을 구한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "헬기",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "화나다",
+                    "content": "갈고리에 모자가 부딪혀 망가지고 생쥐들은 C007의 조종에서 해방된다."
+                }
+            ]
+        },
+        {
+            "id": "01_2580_22",
+            "prev_id": "01_2580_21",
+            "characters": [
+                "C008",
+                "C006",
+                "C001",
+                "C009",
+                "C007",
+                "C002",
+                "C003",
+                "C004",
+                "C005"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "살아돌아온 악당들은 자수하기로 마음을 먹고 C002의 계략으로 운석은 폭파된다.",
+            "unit_motif": "개과천선",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C008"
+                    ],
+                    "emotion": "괘씸하다",
+                    "content": "되돌아온 악당들을 보자 체포하려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C006"
+                    ],
+                    "emotion": "걱정",
+                    "content": "C006이 악당들을 도와주려 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001는 더 이상 도망자로 살기 싫어 자수하고자 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "고백하다",
+                    "emotion": "담담하다",
+                    "content": "이번 운석은 훔치지 않았지만 이전에 나쁜 짓을 많이 했으니 자수하고 새 출발하고 싶어요. 체포하세요."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감동하다",
+                    "content": "정말 잘 한 결정이에요."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "기쁘다",
+                    "content": "우리 다 비슷하잖아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C009"
+                    ],
+                    "content": "C009가 현재 상황을 보도하고 있다."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "C007 박사님이 운석을 가지고 돌아오십니다! 박사님께서 찾아오신 거죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "당황하다",
+                    "content": "네. 제가 여러분들을 위해 운석을 찾아왔어요. 운석은 제가 보관하도록 할게요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "content": "사람들의 박수소리에 운석의 불빛이 깜빡인다."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "이건 운석이 아니라 램프인데요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "기쁘다",
+                    "content": "C002가 본인 내면의 선함을 깨닫고 C007에게 접근해 운석과 램프를 바꿔치기하고 폭파시켰음을 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "발견하다",
+                    "content": "C006가 훔친 반지를 C007 박사가 가지고 있는 것을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "content": "이건? 당신이 바로 C006였어요? 체포해!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "무너진 다리 위",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C006의 반지를 갖고 있던 C007는 그 누구도 잡을 수 없었던 전설의 도적, C006라는 누명을 쓰게 되고 경찰들에게 체포된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C001",
+                        "C002",
+                        "C003",
+                        "C004",
+                        "C005"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "행복하다",
+                    "content": "자수를 결심한 악당들은 수갑을 차고 감옥으로 이동하는 와중에 다 함께 즐겁게 이야기를 나누며 웃는다."
+                }
+            ]
+        }
+    ]
+}
